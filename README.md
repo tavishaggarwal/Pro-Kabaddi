@@ -147,7 +147,7 @@ Method Adopted: We adopted the same technique as that of task 6.
 
 ## Team Members:
 
-Sandeep Midde
-Tavish Aggarwal
-Pratibha Rani
-BSK Karthik
+* Sandeep Midde
+* Tavish Aggarwal
+* Pratibha Rani
+* BSK Karthik
