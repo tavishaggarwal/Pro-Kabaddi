@@ -1,0 +1,629 @@
+MatchId,MatchResult,SeasonId,Team1,Team1Score,Team1_all_outs_conceded,Team2,Team2Score,Team2_all_outs_conceded,home_team_name
+Match 1,U Mumba beat Jaipur Pink Panthers (45 - 31), Season 1,Jaipur Pink Panthers,28.0,4.0,U Mumba,44.0,2.0,U Mumba
+Match 2,Bengaluru Bulls beat Dabang Delhi (47 - 28), Season 1,Bengaluru Bulls,42.0,0.0,Dabang Delhi K.C.,28.0,6.0,TBC
+Match 3,Bengaluru Bulls beat Puneri Paltan (40 - 37), Season 1,Bengaluru Bulls,39.0,2.0,Puneri Paltan,34.0,4.0,TBC
+Match 4,U Mumba beat Bengal Warriors (36 - 25), Season 1,Bengal Warriors,24.0,2.0,U Mumba,35.0,0.0,U Mumba
+Match 5,Dabang Delhi beat Puneri Paltan (35 - 31), Season 1,Dabang Delhi K.C.,35.0,2.0,Puneri Paltan,31.0,2.0,TBC
+Match 6,Match Drawn (35 - 35), Season 1,U Mumba,34.0,4.0,Telugu Titans,35.0,2.0,U Mumba
+Match 7,U Mumba beat Patna Pirates (36 - 33), Season 1,U Mumba,35.0,2.0,Patna Pirates,32.0,4.0,U Mumba
+Match 8,Bengaluru Bulls beat Bengal Warriors (46 - 30), Season 1,Bengaluru Bulls,46.0,0.0,Bengal Warriors,30.0,6.0,Bengal Warriors
+Match 9,Jaipur Pink Panthers beat Telugu Titans (46 - 32), Season 1,Jaipur Pink Panthers,46.0,2.0,Telugu Titans,31.0,4.0,
+Match 10,Bengal Warriors beat Dabang Delhi (42 - 40), Season 1,Dabang Delhi K.C.,39.0,4.0,Bengal Warriors,40.0,4.0,Bengal Warriors
+Match 11,Patna Pirates beat Telugu Titans (38 - 35), Season 1,Patna Pirates,34.0,2.0,Telugu Titans,35.0,2.0,
+Match 12,Bengal Warriors beat Puneri Paltan (38 - 35), Season 1,Bengal Warriors,37.0,4.0,Puneri Paltan,34.0,2.0,Bengal Warriors
+Match 13,Jaipur Pink Panthers beat Patna Pirates (40 - 18), Season 1,Jaipur Pink Panthers,35.0,0.0,Patna Pirates,18.0,4.0,
+Match 14,U Mumba beat Bengal Warriors (38 - 29), Season 1,Bengal Warriors,28.0,4.0,U Mumba,38.0,0.0,Bengal Warriors
+Match 15,Telugu Titans beat Dabang Delhi (39 - 35), Season 1,Dabang Delhi K.C.,34.0,2.0,Telugu Titans,36.0,2.0,Dabang Delhi K.C.
+Match 16,Puneri Paltan beat Bengaluru Bulls (33 - 31), Season 1,Bengaluru Bulls,30.0,2.0,Puneri Paltan,31.0,2.0,
+Match 17,U Mumba beat Puneri Paltan (44 - 28), Season 1,U Mumba,41.0,2.0,Puneri Paltan,25.0,6.0,
+Match 18,Patna Pirates beat Dabang Delhi (36 - 31), Season 1,Dabang Delhi K.C.,30.0,4.0,Patna Pirates,33.0,0.0,Dabang Delhi K.C.
+Match 19,U Mumba beat Bengaluru Bulls (45 - 34), Season 1,Bengaluru Bulls,32.0,6.0,U Mumba,43.0,0.0,
+Match 20,Jaipur Pink Panthers beat Dabang Delhi (40 - 31), Season 1,Dabang Delhi K.C.,29.0,4.0,Jaipur Pink Panthers,36.0,2.0,Dabang Delhi K.C.
+Match 21,Dabang Delhi beat Bengal Warriors (46 - 36), Season 1,Dabang Delhi K.C.,45.0,4.0,Bengal Warriors,35.0,6.0,Dabang Delhi K.C.
+Match 22,Patna Pirates beat Puneri Paltan (35 - 27), Season 1,Patna Pirates,34.0,0.0,Puneri Paltan,26.0,0.0,Patna Pirates
+Match 23,Bengal Warriors beat Telugu Titans (40 - 35), Season 1,Bengal Warriors,39.0,2.0,Telugu Titans,34.0,2.0,
+Match 24,Match Drawn (37 - 37), Season 1,U Mumba,37.0,2.0,Patna Pirates,37.0,2.0,Patna Pirates
+Match 25,Jaipur Pink Panthers beat Telugu Titans (49 - 29), Season 1,Jaipur Pink Panthers,48.0,2.0,Telugu Titans,29.0,4.0,
+Match 26,Match Drawn (30 - 30), Season 1,Dabang Delhi K.C.,28.0,2.0,Patna Pirates,30.0,2.0,Patna Pirates
+Match 27,Jaipur Pink Panthers beat Bengal Warriors (39 - 23), Season 1,Jaipur Pink Panthers,36.0,0.0,Bengal Warriors,23.0,4.0,
+Match 28,Bengaluru Bulls beat Patna Pirates (37 - 35), Season 1,Bengaluru Bulls,33.0,2.0,Patna Pirates,33.0,4.0,Patna Pirates
+Match 29,Telugu Titans beat Puneri Paltan (42 - 36), Season 1,Puneri Paltan,34.0,4.0,Telugu Titans,41.0,2.0,Puneri Paltan
+Match 30,Bengaluru Bulls beat U Mumba (33 - 30), Season 1,Bengaluru Bulls,32.0,0.0,U Mumba,27.0,2.0,
+Match 31,Puneri Paltan beat Bengal Warriors (40 - 30), Season 1,Bengal Warriors,29.0,4.0,Puneri Paltan,38.0,2.0,Puneri Paltan
+Match 32,Dabang Delhi beat Bengaluru Bulls (29 - 27), Season 1,Bengaluru Bulls,26.0,2.0,Dabang Delhi K.C.,25.0,2.0,
+Match 33,Jaipur Pink Panthers beat Puneri Paltan (50 - 23), Season 1,Jaipur Pink Panthers,48.0,0.0,Puneri Paltan,22.0,6.0,Puneri Paltan
+Match 34,Dabang Delhi beat U Mumba (36 - 27), Season 1,Dabang Delhi K.C.,34.0,0.0,U Mumba,22.0,4.0,
+Match 35,Patna Pirates beat Puneri Paltan (37 - 31), Season 1,Patna Pirates,34.0,2.0,Puneri Paltan,29.0,4.0,Puneri Paltan
+Match 36,Match Drawn (28 - 28), Season 1,Bengaluru Bulls,28.0,2.0,Telugu Titans,28.0,0.0,Telugu Titans
+Match 37,Jaipur Pink Panthers beat Bengal Warriors (41 - 33), Season 1,Jaipur Pink Panthers,41.0,2.0,Bengal Warriors,31.0,2.0,
+Match 38,Patna Pirates beat Jaipur Pink Panthers (52 - 30), Season 1,Jaipur Pink Panthers,28.0,8.0,Patna Pirates,51.0,0.0,
+Match 39,Telugu Titans beat U Mumba (44 - 43), Season 1,U Mumba,42.0,6.0,Telugu Titans,42.0,2.0,Telugu Titans
+Match 40,Bengal Warriors beat Patna Pirates (30 - 28), Season 1,Bengal Warriors,29.0,0.0,Patna Pirates,27.0,2.0,
+Match 41,Telugu Titans beat Puneri Paltan (60 - 24), Season 1,Puneri Paltan,23.0,8.0,Telugu Titans,58.0,0.0,Telugu Titans
+Match 42,Telugu Titans beat Dabang Delhi (45 - 26), Season 1,Dabang Delhi K.C.,26.0,6.0,Telugu Titans,42.0,0.0,Telugu Titans
+Match 43,Jaipur Pink Panthers beat Bengaluru Bulls (36 - 31), Season 1,Bengaluru Bulls,29.0,4.0,Jaipur Pink Panthers,35.0,2.0,Jaipur Pink Panthers
+Match 44,Patna Pirates beat Bengal Warriors (36 - 32), Season 1,Bengal Warriors,28.0,4.0,Patna Pirates,36.0,0.0,
+Match 45,Match Drawn (31 - 31), Season 1,Jaipur Pink Panthers,30.0,2.0,U Mumba,31.0,2.0,Jaipur Pink Panthers
+Match 46,Match Drawn (34 - 34), Season 1,Bengal Warriors,34.0,4.0,Telugu Titans,33.0,4.0,
+Match 47,Jaipur Pink Panthers beat Dabang Delhi (41 - 31), Season 1,Dabang Delhi K.C.,30.0,6.0,Jaipur Pink Panthers,39.0,2.0,Jaipur Pink Panthers
+Match 48,Telugu Titans beat Patna Pirates (32 - 29), Season 1,Patna Pirates,26.0,4.0,Telugu Titans,28.0,2.0,
+Match 49,Jaipur Pink Panthers beat Puneri Paltan (33 - 27), Season 1,Jaipur Pink Panthers,30.0,2.0,Puneri Paltan,21.0,4.0,Jaipur Pink Panthers
+Match 50,Bengaluru Bulls beat Bengal Warriors (37 - 24), Season 1,Bengaluru Bulls,33.0,0.0,Bengal Warriors,23.0,4.0,Bengaluru Bulls
+Match 51,U Mumba beat Dabang Delhi (37 - 30), Season 1,Dabang Delhi K.C.,29.0,4.0,U Mumba,37.0,4.0,
+Match 52,Dabang Delhi beat Puneri Paltan (45 - 22), Season 1,Dabang Delhi K.C.,44.0,0.0,Puneri Paltan,22.0,6.0,
+Match 53,Patna Pirates beat Bengaluru Bulls (33 - 31), Season 1,Bengaluru Bulls,28.0,2.0,Patna Pirates,33.0,2.0,Bengaluru Bulls
+Match 54,Bengaluru Bulls beat Telugu Titans (27 - 26), Season 1,Bengaluru Bulls,26.0,2.0,Telugu Titans,25.0,2.0,Bengaluru Bulls
+Match 55,U Mumba beat Puneri Paltan (36 - 35), Season 1,U Mumba,36.0,2.0,Puneri Paltan,35.0,2.0,
+Match 56,Bengaluru Bulls beat Jaipur Pink Panthers (30 - 29), Season 1,Bengaluru Bulls,30.0,2.0,Jaipur Pink Panthers,29.0,2.0,Bengaluru Bulls
+Semi-Final 1,Jaipur Pink Panthers beat Patna Pirates (38 - 18), Season 1,Jaipur Pink Panthers,36.0,0.0,Patna Pirates,17.0,6.0,
+Semi-Final 2,U Mumba beat Bengaluru Bulls (27 - 23), Season 1,Bengaluru Bulls,22.0,2.0,U Mumba,26.0,2.0,
+3rd Place Playoff,Patna Pirates beat Bengaluru Bulls (29 - 22), Season 1,Bengaluru Bulls,22.0,2.0,Patna Pirates,29.0,0.0,
+Final,Jaipur Pink Panthers beat U Mumba (35 - 24), Season 1,Jaipur Pink Panthers,34.0,0.0,U Mumba,22.0,4.0,
+Match 1,U Mumba beat Jaipur Pink Panthers (29-28), Season 2,U Mumba,29.0,1.0,Jaipur Pink Panthers,28.0,0.0,
+Match 2,Bengaluru Bulls beat Bengal Warriors (33-25), Season 2,Bengaluru Bulls,33.0,1.0,Bengal Warriors,25.0,2.0,
+Match 3,Telugu Titans beat Dabang Delhi (36-27), Season 2,Telugu Titans,36.0,0.0,Dabang Delhi,27.0,1.0,
+Match 4,U Mumba beat Bengaluru Bulls (36-23), Season 2,U Mumba,36.0,0.0,Bengaluru Bulls,23.0,1.0,
+Match 5,Telugu Titans beat Puneri Paltan (45-24), Season 2,Puneri Paltan,24.0,2.0,Telugu Titans,45.0,0.0,
+Match 6,U Mumba beat Patna Pirates (25-20), Season 2,U Mumba,25.0,0.0,Patna Pirates,20.0,0.0,
+Match 7,U Mumba beat Puneri Paltan (28-21), Season 2,U Mumba,28.0,0.0,Puneri Paltan,21.0,0.0,
+Match 8,Bengal Warriors beat Jaipur Pink Panthers (28-26), Season 2,Bengal Warriors,28.0,0.0,Jaipur Pink Panthers,26.0,0.0,
+Match 9,Bengaluru Bulls beat Patna Pirates (31-26), Season 2,Bengaluru Bulls,31.0,0.0,Patna Pirates,26.0,1.0,
+Match 10,Telugu Titans beat Bengal Warriors (32-30), Season 2,Bengal Warriors,30.0,0.0,Telugu Titans,32.0,0.0,
+Match 11,Dabang Delhi beat Puneri Paltan (38-37), Season 2,Dabang Delhi,38.0,1.0,Puneri Paltan,37.0,1.0,
+Match 12,U Mumba beat Bengal Warriors (29-25), Season 2,Bengal Warriors,25.0,1.0,U Mumba,29.0,0.0,
+Match 13,Bengaluru Bulls beat Puneri Paltan (31-26), Season 2,Bengaluru Bulls,31.0,1.0,Puneri Paltan,26.0,0.0,
+Match 14,Dabang Delhi beat Bengal Warriors (32-21), Season 2,Bengal Warriors,21.0,0.0,Dabang Delhi,32.0,0.0,
+Match 15,Patna Pirates beat Jaipur Pink Panthers (29-23), Season 2,Jaipur Pink Panthers,23.0,0.0,Patna Pirates,29.0,0.0,
+Match 16,U Mumba beat Telugu Titans (27-26), Season 2,Telugu Titans,26.0,0.0,U Mumba,27.0,0.0,
+Match 17,Bengaluru Bulls beat Dabang Delhi (33-18), Season 2,Dabang Delhi,18.0,2.0,Bengaluru Bulls,33.0,0.0,
+Match 18,Telugu Titans beat Jaipur Pink Panthers (33-22), Season 2,Jaipur Pink Panthers,22.0,1.0,Telugu Titans,33.0,0.0,
+Match 19,Jaipur Pink Panthers beat Bengaluru Bulls (36-23), Season 2,Jaipur Pink Panthers,36.0,0.0,Bengaluru Bulls,23.0,1.0,
+Match 20,Puneri Paltan beat Bengal Warriors (33-29), Season 2,Puneri Paltan,33.0,1.0,Bengal Warriors,29.0,2.0,
+Match 21,Dabang Delhi beat Jaipur Pink Panthers (35-27), Season 2,Jaipur Pink Panthers,27.0,0.0,Dabang Delhi,35.0,0.0,
+Match 22,Telugu Titans beat Patna Pirates (34-22), Season 2,Patna Pirates,22.0,1.0,Telugu Titans,34.0,0.0,
+Match 23,Bengaluru Bulls beat Telugu Titans (35-21), Season 2,Telugu Titans,21.0,1.0,Bengaluru Bulls,35.0,0.0,
+Match 24,Patna Pirates beat Dabang Delhi (39-22), Season 2,Patna Pirates,39.0,0.0,Dabang Delhi,22.0,0.0,
+Match 25,U Mumba beat Dabang Delhi (27-22), Season 2,Dabang Delhi,22.0,1.0,U Mumba,27.0,0.0,
+Match 26,Patna Pirates beat Puneri Paltan (32-28), Season 2,Patna Pirates,32.0,1.0,Puneri Paltan,28.0,0.0,
+Match 27,Jaipur Pink Panthers beat Puneri Paltan (35-29), Season 2,Puneri Paltan,29.0,0.0,Jaipur Pink Panthers,35.0,0.0,
+Match 28,Match Tied, Season 2,Patna Pirates,20.0,0.0,Bengal Warriors,20.0,0.0,
+Match 29,Match Tied, Season 2,Telugu Titans,39.0,1.0,Jaipur Pink Panthers,39.0,1.0,
+Match 30,U Mumba beat Dabang Delhi (29-25), Season 2,U Mumba,29.0,0.0,Dabang Delhi,25.0,1.0,
+Match 31,Telugu Titans beat Bengal Warriors (44-28), Season 2,Telugu Titans,44.0,0.0,Bengal Warriors,28.0,0.0,
+Match 32,Bengaluru Bulls beat Bengal Warriors (33-22), Season 2,Bengal Warriors,22.0,1.0,Bengaluru Bulls,33.0,0.0,
+Match 33,Telugu Titans beat Patna Pirates (54-32), Season 2,Telugu Titans,54.0,0.0,Patna Pirates,32.0,0.0,
+Match 34,Jaipur Pink Panthers beat U Mumba (35-25), Season 2,Jaipur Pink Panthers,35.0,0.0,U Mumba,25.0,0.0,
+Match 35,Match Tied, Season 2,Telugu Titans,29.0,1.0,Puneri Paltan,29.0,1.0,
+Match 36,Bengal Warriors beat Dabang Delhi (20-17), Season 2,Dabang Delhi,17.0,0.0,Bengal Warriors,20.0,0.0,
+Match 37,Patna Pirates beat Bengaluru Bulls (30-28), Season 2,Patna Pirates,30.0,1.0,Bengaluru Bulls,28.0,1.0,
+Match 38,U Mumba beat Bengal Warriors (31-17), Season 2,U Mumba,31.0,1.0,Bengal Warriors,17.0,1.0,
+Match 39,Dabang Delhi beat Patna Pirates (45-26), Season 2,Dabang Delhi,45.0,0.0,Patna Pirates,26.0,1.0,
+Match 40,Jaipur Pink Panthers beat Dabang Delhi (51-21), Season 2,Dabang Delhi,21.0,5.0,Jaipur Pink Panthers,51.0,0.0,
+Match 41,Jaipur Pink Panthers beat Puneri Paltan (31-18), Season 2,Jaipur Pink Panthers,31.0,0.0,Puneri Paltan,18.0,2.0,
+Match 42,Match Tied, Season 2,Dabang Delhi,45.0,0.0,Telugu Titans,45.0,1.0,
+Match 43,U Mumba beat Bengaluru Bulls (36-29), Season 2,Bengaluru Bulls,29.0,1.0,U Mumba,36.0,0.0,
+Match 44,Bengal Warriors beat Puneri Paltan (31-28), Season 2,Bengal Warriors,31.0,0.0,Puneri Paltan,28.0,1.0,
+Match 45,Jaipur Pink Panthers beat Bengaluru Bulls (27-25), Season 2,Bengaluru Bulls,25.0,1.0,Jaipur Pink Panthers,27.0,1.0,
+Match 46,Patna Pirates beat Bengal Warriors (34-32), Season 2,Bengal Warriors,32.0,0.0,Patna Pirates,34.0,0.0,
+Match 47,Bengaluru Bulls beat Dabang Delhi (40-21), Season 2,Bengaluru Bulls,40.0,0.0,Dabang Delhi,21.0,0.0,
+Match 48,U Mumba beat Patna Pirates (32-27), Season 2,Patna Pirates,27.0,1.0,U Mumba,32.0,0.0,
+Match 49,Bengaluru Bulls beat Telugu Titans (43-29), Season 2,Bengaluru Bulls,43.0,1.0,Telugu Titans,29.0,2.0,
+Match 50,Puneri Paltan beat Dabang Delhi (33-28), Season 2,Puneri Paltan,33.0,1.0,Dabang Delhi,28.0,1.0,
+Match 51,Bengal Warriors beat Jaipur Pink Panthers (39-38), Season 2,Jaipur Pink Panthers,38.0,2.0,Bengal Warriors,39.0,1.0,
+Match 52,U Mumba beat Puneri Paltan (39-34), Season 2,Puneri Paltan,34.0,1.0,U Mumba,39.0,0.0,
+Match 53,Telugu Titans beat U Mumba (46-25), Season 2,U Mumba,25.0,2.0,Telugu Titans,46.0,0.0,
+Match 54,Patna Pirates beat Puneri Paltan (38-21), Season 2,Puneri Paltan,21.0,3.0,Patna Pirates,38.0,0.0,
+Match 55,Patna Pirates beat Jaipur Pink Panthers (26-24), Season 2,Patna Pirates,26.0,0.0,Jaipur Pink Panthers,24.0,1.0,
+Match 56,Bengaluru Bulls beat Puneri Paltan (31-30), Season 2,Puneri Paltan,30.0,1.0,Bengaluru Bulls,31.0,0.0,
+Semi-Final 1,Bengaluru Bulls beat Telugu Titans (39-38), Season 2,Telugu Titans,38.0,0.0,Bengaluru Bulls,39.0,0.0,
+Semi-Final 2,U Mumba beat Patna Pirates (35-18), Season 2,U Mumba,35.0,0.0,Patna Pirates,18.0,2.0,
+3/4 Place,Telugu Titans beat Patna Pirates (34-26), Season 2,Patna Pirates,26.0,2.0,Telugu Titans,34.0,0.0,
+Final,U Mumba beat Bengaluru Bulls (36-30), Season 2,U Mumba,36.0,1.0,Bengaluru Bulls,30.0,1.0,
+Match 1,U Mumba beat Telugu Titans (27-25), Season 3,Telugu Titans,25.0,1.0,U Mumba,27.0,0.0,
+Match 2,Bengaluru Bulls beat Dabang Delhi (35-29), Season 3,Dabang Delhi,29.0,2.0,Bengaluru Bulls,35.0,0.0,
+Match 3,Jaipur Pink Panthers beat U Mumba (27-18), Season 3,Jaipur Pink Panthers,27.0,0.0,U Mumba,18.0,0.0,
+Match 4,Telugu Titans beat Puneri Paltan (27-26), Season 3,Telugu Titans,27.0,1.0,Puneri Paltan,26.0,0.0,
+Match 5,Patna Pirates beat Jaipur Pink Panthers (29-28), Season 3,Patna Pirates,29.0,0.0,Jaipur Pink Panthers,28.0,0.0,
+Match 6,Telugu Titans beat Dabang Delhi (45-34), Season 3,Telugu Titans,45.0,1.0,Dabang Delhi,34.0,2.0,
+Match 7,Bengal Warriors beat Telugu Titans (25-17), Season 3,Telugu Titans,17.0,1.0,Bengal Warriors,25.0,0.0,
+Match 8,Patna Pirates beat Bengaluru Bulls (33-24), Season 3,Bengaluru Bulls,24.0,1.0,Patna Pirates,33.0,0.0,
+Match 9,Puneri Paltan beat Dabang Delhi (38-20), Season 3,Dabang Delhi,20.0,2.0,Puneri Paltan,38.0,0.0,
+Match 10,Bengal Warriors beat Bengaluru Bulls (34-24), Season 3,Bengaluru Bulls,24.0,1.0,Bengal Warriors,34.0,1.0,
+Match 11,U Mumba beat Dabang Delhi (30-17), Season 3,Dabang Delhi,17.0,1.0,U Mumba,30.0,0.0,
+Match 12,Bengaluru Bulls beat Jaipur Pink Panthers (36-26), Season 3,Bengaluru Bulls,36.0,0.0,Jaipur Pink Panthers,26.0,0.0,
+Match 13,Patna Pirates beat U Mumba (40-26), Season 3,U Mumba,26.0,1.0,Patna Pirates,40.0,0.0,
+Match 14,Telugu Titans beat Bengaluru Bulls (35-26), Season 3,Bengaluru Bulls,26.0,1.0,Telugu Titans,35.0,0.0,
+Match 15,Bengal Warriors beat Puneri Paltan (33-28), Season 3,Bengal Warriors,33.0,0.0,Puneri Paltan,28.0,0.0,
+Match 16,Jaipur Pink Panthers beat Dabang Delhi (39-34), Season 3,Jaipur Pink Panthers,39.0,0.0,Dabang Delhi,34.0,0.0,
+Match 17,Patna Pirates beat Telugu Titans (29-25), Season 3,Patna Pirates,29.0,0.0,Telugu Titans,25.0,1.0,
+Match 18,Bengal Warriors beat Dabang Delhi (34-17), Season 3,Bengal Warriors,34.0,0.0,Dabang Delhi,17.0,0.0,
+Match 19,Patna Pirates beat Bengal Warriors (36-31), Season 3,Bengal Warriors,31.0,2.0,Patna Pirates,36.0,0.0,
+Match 20,U Mumba beat Bengaluru Bulls (29-28), Season 3,U Mumba,29.0,1.0,Bengaluru Bulls,28.0,0.0,
+Match 21,Bengal Warriors beat Jaipur Pink Panthers (34-20), Season 3,Bengal Warriors,34.0,0.0,Jaipur Pink Panthers,20.0,0.0,
+Match 22,Match Tied, Season 3,Puneri Paltan,30.0,1.0,Patna Pirates,30.0,0.0,
+Match 23,Patna Pirates beat Dabang Delhi (47-34), Season 3,Patna Pirates,47.0,0.0,Dabang Delhi,34.0,2.0,
+Match 24,Match Tied, Season 3,Puneri Paltan,32.0,1.0,Jaipur Pink Panthers,32.0,0.0,
+Match 25,Telugu Titans beat Jaipur Pink Panthers (27-25), Season 3,Jaipur Pink Panthers,25.0,1.0,Telugu Titans,27.0,0.0,
+Match 26,U Mumba beat Puneri Paltan (29-27), Season 3,Puneri Paltan,27.0,0.0,U Mumba,29.0,1.0,
+Match 27,U Mumba beat Bengal Warriors (32-21), Season 3,U Mumba,32.0,0.0,Bengal Warriors,21.0,1.0,
+Match 28,Puneri Paltan beat Bengaluru Bulls (29-27), Season 3,Puneri Paltan,29.0,0.0,Bengaluru Bulls,27.0,0.0,
+Match 29,Patna Pirates beat Bengal Warriors (32-27), Season 3,Patna Pirates,32.0,0.0,Bengal Warriors,27.0,1.0,
+Match 30,Jaipur Pink Panthers beat Telugu Titans (35-26), Season 3,Telugu Titans,26.0,1.0,Jaipur Pink Panthers,35.0,1.0,
+Match 31,Patna Pirates beat Bengaluru Bulls (36-32), Season 3,Patna Pirates,36.0,1.0,Bengaluru Bulls,32.0,0.0,
+Match 32,Dabang Delhi beat Bengaluru Bulls (35-21), Season 3,Bengaluru Bulls,21.0,1.0,Dabang Delhi,35.0,0.0,
+Match 33,Match Tied, Season 3,Patna Pirates,28.0,0.0,Puneri Paltan,28.0,1.0,
+Match 34,Bengal Warriors beat Telugu Titans (32-28), Season 3,Bengal Warriors,32.0,0.0,Telugu Titans,28.0,0.0,
+Match 35,U Mumba beat Patna Pirates (34-28), Season 3,Patna Pirates,28.0,1.0,U Mumba,34.0,0.0,
+Match 36,Jaipur Pink Panthers beat Bengaluru Bulls (30-21), Season 3,Jaipur Pink Panthers,30.0,0.0,Bengaluru Bulls,21.0,0.0,
+Match 37,Puneri Paltan beat Dabang Delhi (32-22), Season 3,Puneri Paltan,32.0,0.0,Dabang Delhi,22.0,1.0,
+Match 38,Telugu Titans beat Bengaluru Bulls (40-22), Season 3,Telugu Titans,40.0,0.0,Bengaluru Bulls,22.0,2.0,
+Match 39,Puneri Paltan beat Jaipur Pink Panthers (33-18), Season 3,Jaipur Pink Panthers,18.0,1.0,Puneri Paltan,33.0,0.0,
+Match 40,Bengal Warriors beat Jaipur Pink Panthers (34-18), Season 3,Jaipur Pink Panthers,18.0,1.0,Bengal Warriors,34.0,0.0,
+Match 41,U Mumba beat Bengal Warriors (30-17), Season 3,Bengal Warriors,17.0,2.0,U Mumba,30.0,0.0,
+Match 42,Patna Pirates beat Jaipur Pink Panthers (47-24), Season 3,Jaipur Pink Panthers,24.0,1.0,Patna Pirates,47.0,0.0,
+Match 43,Telugu Titans beat Dabang Delhi (44-36), Season 3,Dabang Delhi,36.0,0.0,Telugu Titans,44.0,1.0,
+Match 44,U Mumba beat Bengaluru Bulls (39-18), Season 3,Bengaluru Bulls,18.0,2.0,U Mumba,39.0,0.0,
+Match 45,Patna Pirates beat Dabang Delhi (67-34), Season 3,Dabang Delhi,34.0,1.0,Patna Pirates,67.0,0.0,
+Match 46,Puneri Paltan beat Telugu Titans (41-24), Season 3,Puneri Paltan,41.0,0.0,Telugu Titans,24.0,2.0,
+Match 47,Match Tied, Season 3,Dabang Delhi,21.0,0.0,Jaipur Pink Panthers,21.0,0.0,
+Match 48,Puneri Paltan beat Bengaluru Bulls (44-27), Season 3,Bengaluru Bulls,27.0,1.0,Puneri Paltan,44.0,0.0,
+Match 49,Bengal Warriors beat Dabang Delhi (37-31), Season 3,Dabang Delhi,31.0,1.0,Bengal Warriors,37.0,1.0,
+Match 50,U Mumba beat Jaipur Pink Panthers (35-21), Season 3,U Mumba,35.0,1.0,Jaipur Pink Panthers,21.0,2.0,
+Match 51,Telugu Titans beat Patna Pirates (42-41), Season 3,Telugu Titans,42.0,1.0,Patna Pirates,41.0,0.0,
+Match 52,U Mumba beat Puneri Paltan (30-27), Season 3,U Mumba,30.0,0.0,Puneri Paltan,27.0,1.0,
+Match 53,Bengal Warriors beat Bengaluru Bulls (26-22), Season 3,Bengal Warriors,26.0,0.0,Bengaluru Bulls,22.0,0.0,
+Match 54,U Mumba beat Telugu Titans (38-22), Season 3,U Mumba,38.0,0.0,Telugu Titans,22.0,0.0,
+Match 55,Puneri Paltan beat Bengal Warriors (43-19), Season 3,Puneri Paltan,43.0,0.0,Bengal Warriors,19.0,3.0,
+Match 56,U Mumba beat Dabang Delhi (36-20), Season 3,U Mumba,36.0,0.0,Dabang Delhi,20.0,1.0,
+Semi-Final 1,Patna Pirates beat Puneri Paltan (40-21), Season 3,Patna Pirates,40.0,0.0,Puneri Paltan,21.0,3.0,
+Semi-Final 2,U Mumba beat Bengal Warriors (41-29), Season 3,U Mumba,41.0,0.0,Bengal Warriors,29.0,1.0,
+3/4 Place,Puneri Paltan beat Bengal Warriors (31-27), Season 3,Bengal Warriors,27.0,2.0,Puneri Paltan,31.0,1.0,
+Final,Patna Pirates beat U Mumba (31-28), Season 3,U Mumba,28.0,1.0,Patna Pirates,31.0,0.0,
+Match 1,, Season 4,Puneri Paltan,12.0,5.0,Telugu Titans,25.0,0.0,Puneri Paltan
+Match 2,U Mumba beat Jaipur Pink Panthers (36-34), Season 4,U Mumba,36.0,2.0,Jaipur Pink Panthers,34.0,2.0,
+Match 3,Bengaluru Bulls beat Bengal Warriors (24-23), Season 4,Bengaluru Bulls,24.0,1.0,Bengal Warriors,23.0,1.0,
+Match 4,Puneri Paltan beat U Mumba (41-19), Season 4,Puneri Paltan,41.0,0.0,U Mumba,19.0,3.0,Puneri Paltan
+Match 5,Bengal Warriors beat Dabang Delhi K.C. (31-23), Season 4,Bengal Warriors,31.0,0.0,Dabang Delhi K.C.,23.0,2.0,
+Match 6,Patna Pirates beat Puneri Paltan (30-24), Season 4,Puneri Paltan,24.0,2.0,Patna Pirates,30.0,0.0,Puneri Paltan
+Match 7,Match Tied, Season 4,Puneri Paltan,27.0,1.0,Dabang Delhi K.C.,27.0,1.0,Puneri Paltan
+Match 8,Jaipur Pink Panthers beat Telugu Titans (28-24), Season 4,Jaipur Pink Panthers,28.0,0.0,Telugu Titans,24.0,1.0,Jaipur Pink Panthers
+Match 9,Patna Pirates beat U Mumba (36-34), Season 4,U Mumba,34.0,2.0,Patna Pirates,36.0,1.0,
+Match 10,Match Tied, Season 4,Jaipur Pink Panthers,28.0,2.0,Bengaluru Bulls,28.0,1.0,Jaipur Pink Panthers
+Match 11,U Mumba beat Dabang Delhi K.C. (27-25), Season 4,U Mumba,27.0,1.0,Dabang Delhi K.C.,25.0,1.0,
+Match 12,Jaipur Pink Panthers beat Bengal Warriors (36-33), Season 4,Jaipur Pink Panthers,36.0,1.0,Bengal Warriors,33.0,1.0,Jaipur Pink Panthers
+Match 13,Dabang Delhi K.C. beat Bengaluru Bulls (32-24), Season 4,Dabang Delhi K.C.,32.0,0.0,Bengaluru Bulls,24.0,2.0,
+Match 14,Puneri Paltan beat Jaipur Pink Panthers (33-28), Season 4,Jaipur Pink Panthers,28.0,2.0,Puneri Paltan,33.0,0.0,Jaipur Pink Panthers
+Match 15,Patna Pirates beat Telugu Titans (35-33), Season 4,Telugu Titans,33.0,1.0,Patna Pirates,35.0,2.0,Telugu Titans
+Match 16,U Mumba beat Bengal Warriors (26-18), Season 4,Bengal Warriors,18.0,1.0,U Mumba,26.0,0.0,
+Match 17,Bengaluru Bulls beat Puneri Paltan (29-27), Season 4,Bengaluru Bulls,29.0,1.0,Puneri Paltan,27.0,0.0,
+Match 18,Telugu Titans beat Bengal Warriors (35-18), Season 4,Telugu Titans,35.0,0.0,Bengal Warriors,18.0,2.0,Telugu Titans
+Match 19,Bengaluru Bulls beat Telugu Titans (30-28), Season 4,Telugu Titans,28.0,1.0,Bengaluru Bulls,30.0,1.0,Telugu Titans
+Match 20,Jaipur Pink Panthers beat Dabang Delhi K.C. (51-26), Season 4,Dabang Delhi K.C.,26.0,4.0,Jaipur Pink Panthers,51.0,0.0,
+Match 21,Telugu Titans beat U Mumba (35-30), Season 4,Telugu Titans,35.0,1.0,U Mumba,30.0,2.0,Telugu Titans
+Match 22,Patna Pirates beat Bengaluru Bulls (31-25), Season 4,Patna Pirates,31.0,0.0,Bengaluru Bulls,25.0,1.0,Patna Pirates
+Match 23,U Mumba beat Bengaluru Bulls (24-23), Season 4,Bengaluru Bulls,23.0,1.0,U Mumba,24.0,1.0,
+Match 24,Patna Pirates beat Bengal Warriors (35-21), Season 4,Patna Pirates,35.0,0.0,Bengal Warriors,21.0,1.0,Patna Pirates
+Match 25,Puneri Paltan beat Bengal Warriors (38-31), Season 4,Bengal Warriors,31.0,2.0,Puneri Paltan,38.0,1.0,
+Match 26,Dabang Delhi K.C. beat Patna Pirates (33-15), Season 4,Patna Pirates,15.0,2.0,Dabang Delhi K.C.,33.0,0.0,Patna Pirates
+Match 27,Telugu Titans beat Dabang Delhi K.C. (28-23), Season 4,Dabang Delhi K.C.,23.0,1.0,Telugu Titans,28.0,0.0,
+Match 28,Jaipur Pink Panthers beat Patna Pirates (26-21), Season 4,Patna Pirates,21.0,0.0,Jaipur Pink Panthers,26.0,0.0,Patna Pirates
+Match 29,Telugu Titans beat Bengaluru Bulls (32-24), Season 4,Bengaluru Bulls,24.0,2.0,Telugu Titans,32.0,0.0,Bengaluru Bulls
+Match 30,Match Tied, Season 4,Puneri Paltan,34.0,1.0,Bengal Warriors,34.0,1.0,
+Match 31,Jaipur Pink Panthers beat Bengaluru Bulls (24-22), Season 4,Bengaluru Bulls,22.0,1.0,Jaipur Pink Panthers,24.0,1.0,Bengaluru Bulls
+Match 32,U Mumba beat Jaipur Pink Panthers (29-23), Season 4,Jaipur Pink Panthers,23.0,1.0,U Mumba,29.0,0.0,
+Match 33,Patna Pirates beat Bengaluru Bulls (38-23), Season 4,Bengaluru Bulls,23.0,3.0,Patna Pirates,38.0,0.0,Bengaluru Bulls
+Match 34,Telugu Titans beat Puneri Paltan (32-29), Season 4,Telugu Titans,32.0,1.0,Puneri Paltan,29.0,1.0,
+Match 35,Dabang Delhi K.C. beat Bengaluru Bulls (40-20), Season 4,Bengaluru Bulls,20.0,3.0,Dabang Delhi K.C.,40.0,0.0,Bengaluru Bulls
+Match 36,Bengal Warriors beat Jaipur Pink Panthers (32-25), Season 4,Bengal Warriors,32.0,0.0,Jaipur Pink Panthers,25.0,1.0,Bengal Warriors
+Match 37,Patna Pirates beat U Mumba (34-24), Season 4,Patna Pirates,34.0,0.0,U Mumba,24.0,2.0,
+Match 38,Jaipur Pink Panthers beat Puneri Paltan (33-27), Season 4,Puneri Paltan,27.0,2.0,Jaipur Pink Panthers,33.0,0.0,
+Match 39,Patna Pirates beat Bengal Warriors (33-27), Season 4,Bengal Warriors,27.0,1.0,Patna Pirates,33.0,0.0,Bengal Warriors
+Match 40,Match Tied, Season 4,Bengal Warriors,34.0,1.0,Telugu Titans,34.0,1.0,Bengal Warriors
+Match 41,Telugu Titans beat Dabang Delhi K.C. (36-28), Season 4,Telugu Titans,36.0,1.0,Dabang Delhi K.C.,28.0,1.0,
+Match 42,Bengaluru Bulls beat Bengal Warriors (27-25), Season 4,Bengal Warriors,25.0,0.0,Bengaluru Bulls,27.0,1.0,Bengal Warriors
+Match 43,U Mumba beat Puneri Paltan (34-31), Season 4,U Mumba,34.0,1.0,Puneri Paltan,31.0,2.0,U Mumba
+Match 44,Jaipur Pink Panthers beat Dabang Delhi K.C. (24-22), Season 4,Jaipur Pink Panthers,24.0,0.0,Dabang Delhi K.C.,22.0,1.0,
+Match 45,Match Tied, Season 4,U Mumba,25.0,1.0,Telugu Titans,25.0,1.0,U Mumba
+Match 46,Jaipur Pink Panthers beat Patna Pirates (29-22), Season 4,Jaipur Pink Panthers,29.0,0.0,Patna Pirates,22.0,2.0,
+Match 47,Bengal Warriors beat U Mumba (31-27), Season 4,U Mumba,27.0,2.0,Bengal Warriors,31.0,1.0,U Mumba
+Match 48,Patna Pirates beat Puneri Paltan (31-28), Season 4,Patna Pirates,31.0,1.0,Puneri Paltan,28.0,2.0,
+Match 49,Bengaluru Bulls beat U Mumba (28-27), Season 4,U Mumba,27.0,2.0,Bengaluru Bulls,28.0,1.0,U Mumba
+Match 50,Dabang Delhi K.C. beat Bengal Warriors (41-20), Season 4,Dabang Delhi K.C.,41.0,0.0,Bengal Warriors,20.0,3.0,Dabang Delhi K.C.
+Match 51,Telugu Titans beat Jaipur Pink Panthers (35-23), Season 4,Telugu Titans,35.0,0.0,Jaipur Pink Panthers,23.0,2.0,
+Match 52,Patna Pirates beat Dabang Delhi K.C. (32-31), Season 4,Dabang Delhi K.C.,31.0,1.0,Patna Pirates,32.0,0.0,Dabang Delhi K.C.
+Match 53,Telugu Titans beat Patna Pirates (46-25), Season 4,Patna Pirates,25.0,3.0,Telugu Titans,46.0,0.0,
+Match 54,Puneri Paltan beat Dabang Delhi K.C. (39-34), Season 4,Dabang Delhi K.C.,34.0,2.0,Puneri Paltan,39.0,0.0,Dabang Delhi K.C.
+Match 55,Puneri Paltan beat Bengaluru Bulls (36-33), Season 4,Puneri Paltan,36.0,1.0,Bengaluru Bulls,33.0,2.0,
+Match 56,U Mumba beat Dabang Delhi K.C. (38-34), Season 4,Dabang Delhi K.C.,34.0,2.0,U Mumba,38.0,2.0,Dabang Delhi K.C.
+Semi-Final 1,Patna Pirates beat Puneri Paltan (37-33), Season 4,Patna Pirates,37.0,1.0,Puneri Paltan,33.0,1.0,
+Semi-Final 2,Jaipur Pink Panthers beat Telugu Titans (34-24), Season 4,Telugu Titans,24.0,2.0,Jaipur Pink Panthers,34.0,0.0,
+3/4 Place,Puneri Paltan beat Telugu Titans (40-35), Season 4,Telugu Titans,35.0,2.0,Puneri Paltan,40.0,2.0,
+Final,Patna Pirates beat Jaipur Pink Panthers (37-29), Season 4,Patna Pirates,37.0,0.0,Jaipur Pink Panthers,29.0,2.0,
+Match 1,Telugu Titans beat Tamil Thalaivas (32-27), Season 5,Telugu Titans,32.0,0.0,Tamil Thalaivas,27.0,1.0,Telugu Titans
+Match 2,Puneri Paltan beat U Mumba (33-21), Season 5,U Mumba,21.0,2.0,Puneri Paltan,33.0,0.0,
+Match 3,Dabang Delhi K.C. beat Jaipur Pink Panthers (30-26), Season 5,Jaipur Pink Panthers,26.0,2.0,Dabang Delhi K.C.,30.0,1.0,
+Match 4,Patna Pirates beat Telugu Titans (35-29), Season 5,Telugu Titans,29.0,1.0,Patna Pirates,35.0,1.0,Telugu Titans
+Match 5,U Mumba beat Haryana Steelers (29-28), Season 5,U Mumba,29.0,1.0,Haryana Steelers,28.0,1.0,
+Match 6,Bengaluru Bulls beat Telugu Titans (31-21), Season 5,Telugu Titans,21.0,2.0,Bengaluru Bulls,31.0,0.0,Telugu Titans
+Match 7,Gujarat Fortunegiants beat Dabang Delhi K.C. (26-20), Season 5,Gujarat Fortunegiants,26.0,1.0,Dabang Delhi K.C.,20.0,2.0,
+Match 8,U.P. Yoddha beat Telugu Titans (31-18), Season 5,Telugu Titans,18.0,1.0,U.P. Yoddha,31.0,0.0,Telugu Titans
+Match 9,Match Tied, Season 5,Gujarat Fortunegiants,27.0,1.0,Haryana Steelers,27.0,1.0,
+Match 10,Bengal Warriors beat Telugu Titans (30-24), Season 5,Telugu Titans,24.0,1.0,Bengal Warriors,30.0,0.0,Telugu Titans
+Match 11,Patna Pirates beat Telugu Titans (43-36), Season 5,Telugu Titans,36.0,2.0,Patna Pirates,43.0,1.0,Telugu Titans
+Match 12,Bengaluru Bulls beat Tamil Thalaivas (32-31), Season 5,Bengaluru Bulls,32.0,2.0,Tamil Thalaivas,31.0,2.0,Bengaluru Bulls
+Match 13,Puneri Paltan beat Dabang Delhi K.C. (26-21), Season 5,Puneri Paltan,26.0,0.0,Dabang Delhi K.C.,21.0,1.0,
+Match 14,U Mumba beat Dabang Delhi K.C. (36-22), Season 5,U Mumba,36.0,0.0,Dabang Delhi K.C.,22.0,2.0,
+Match 15,U.P. Yoddha beat Bengaluru Bulls (32-27), Season 5,Bengaluru Bulls,27.0,1.0,U.P. Yoddha,32.0,1.0,Bengaluru Bulls
+Match 16,Bengal Warriors beat U.P. Yoddha (40-20), Season 5,Bengal Warriors,40.0,0.0,U.P. Yoddha,20.0,3.0,
+Match 17,Patna Pirates beat Bengaluru Bulls (46-32), Season 5,Bengaluru Bulls,32.0,4.0,Patna Pirates,46.0,0.0,Bengaluru Bulls
+Match 18,Haryana Steelers beat Gujarat Fortunegiants (32-20), Season 5,Gujarat Fortunegiants,20.0,1.0,Haryana Steelers,32.0,0.0,
+Match 19,Match Tied, Season 5,Bengaluru Bulls,21.0,0.0,Telugu Titans,21.0,1.0,Bengaluru Bulls
+Match 20,Bengaluru Bulls beat Bengal Warriors (31-25), Season 5,Bengaluru Bulls,31.0,1.0,Bengal Warriors,25.0,1.0,Bengaluru Bulls
+Match 21,Jaipur Pink Panthers beat Puneri Paltan (30-28), Season 5,Puneri Paltan,28.0,1.0,Jaipur Pink Panthers,30.0,0.0,
+Match 22,Tamil Thalaivas beat Bengaluru Bulls (29-24), Season 5,Bengaluru Bulls,24.0,1.0,Tamil Thalaivas,29.0,1.0,Bengaluru Bulls
+Match 23,Gujarat Fortunegiants beat U Mumba (39-21), Season 5,Gujarat Fortunegiants,39.0,0.0,U Mumba,21.0,3.0,Gujarat Fortunegiants
+Match 24,U.P. Yoddha beat Telugu Titans (39-32), Season 5,Telugu Titans,32.0,1.0,U.P. Yoddha,39.0,1.0,
+Match 25,Gujarat Fortunegiants beat Dabang Delhi K.C. (29-25), Season 5,Gujarat Fortunegiants,29.0,1.0,Dabang Delhi K.C.,25.0,1.0,Gujarat Fortunegiants
+Match 26,Match Tied, Season 5,Patna Pirates,27.0,0.0,U.P. Yoddha,27.0,0.0,
+Match 27,Gujarat Fortunegiants beat Jaipur Pink Panthers (27-20), Season 5,Gujarat Fortunegiants,27.0,0.0,Jaipur Pink Panthers,20.0,1.0,Gujarat Fortunegiants
+Match 28,Puneri Paltan beat Bengal Warriors (34-17), Season 5,Bengal Warriors,17.0,2.0,Puneri Paltan,34.0,0.0,
+Match 29,Gujarat Fortunegiants beat Bengaluru Bulls (27-24), Season 5,Gujarat Fortunegiants,27.0,1.0,Bengaluru Bulls,24.0,1.0,Gujarat Fortunegiants
+Match 30,Match Tied, Season 5,Haryana Steelers,25.0,1.0,Tamil Thalaivas,25.0,0.0,
+Match 31,Gujarat Fortunegiants beat Telugu Titans (29-19), Season 5,Gujarat Fortunegiants,29.0,0.0,Telugu Titans,19.0,1.0,Gujarat Fortunegiants
+Match 32,Dabang Delhi K.C. beat Tamil Thalaivas (30-29), Season 5,Dabang Delhi K.C.,30.0,1.0,Tamil Thalaivas,29.0,0.0,
+Match 33,Match Tied, Season 5,Gujarat Fortunegiants,26.0,1.0,Bengal Warriors,26.0,1.0,Gujarat Fortunegiants
+Match 34,U Mumba beat U.P. Yoddha (37-34), Season 5,U.P. Yoddha,34.0,2.0,U Mumba,37.0,2.0,U.P. Yoddha
+Match 35,Jaipur Pink Panthers beat Bengaluru Bulls (30-28), Season 5,Bengaluru Bulls,28.0,2.0,Jaipur Pink Panthers,30.0,2.0,
+Match 36,Telugu Titans beat U Mumba (37-32), Season 5,Telugu Titans,37.0,1.0,U Mumba,32.0,2.0,
+Match 37,Haryana Steelers beat U.P. Yoddha (36-29), Season 5,U.P. Yoddha,29.0,2.0,Haryana Steelers,36.0,0.0,U.P. Yoddha
+Match 38,Puneri Paltan beat Patna Pirates (47-42), Season 5,Patna Pirates,42.0,2.0,Puneri Paltan,47.0,2.0,
+Match 39,Jaipur Pink Panthers beat U.P. Yoddha (24-22), Season 5,U.P. Yoddha,22.0,1.0,Jaipur Pink Panthers,24.0,0.0,U.P. Yoddha
+Match 40,Gujarat Fortunegiants beat Puneri Paltan (35-21), Season 5,Gujarat Fortunegiants,35.0,0.0,Puneri Paltan,21.0,2.0,
+Match 41,Bengal Warriors beat U.P. Yoddha (32-31), Season 5,U.P. Yoddha,31.0,1.0,Bengal Warriors,32.0,0.0,U.P. Yoddha
+Match 42,Haryana Steelers beat Dabang Delhi K.C. (27-25), Season 5,Haryana Steelers,27.0,1.0,Dabang Delhi K.C.,25.0,1.0,
+Match 43,Match Tied, Season 5,U.P. Yoddha,33.0,1.0,Tamil Thalaivas,33.0,1.0,U.P. Yoddha
+Match 44,U.P. Yoddha beat Telugu Titans (25-23), Season 5,U.P. Yoddha,25.0,0.0,Telugu Titans,23.0,0.0,U.P. Yoddha
+Match 45,Jaipur Pink Panthers beat U Mumba (39-36), Season 5,U Mumba,36.0,3.0,Jaipur Pink Panthers,39.0,1.0,U Mumba
+Match 46,Match Tied, Season 5,Bengal Warriors,36.0,2.0,Patna Pirates,36.0,1.0,
+Match 47,Patna Pirates beat Tamil Thalaivas (35-24), Season 5,Patna Pirates,35.0,0.0,Tamil Thalaivas,24.0,2.0,
+Match 48,Puneri Paltan beat U Mumba (26-24), Season 5,U Mumba,24.0,1.0,Puneri Paltan,26.0,1.0,U Mumba
+Match 49,Bengal Warriors beat Bengaluru Bulls (32-26), Season 5,Bengal Warriors,32.0,0.0,Bengaluru Bulls,26.0,1.0,
+Match 50,Dabang Delhi K.C. beat U Mumba (33-32), Season 5,U Mumba,32.0,2.0,Dabang Delhi K.C.,33.0,0.0,U Mumba
+Match 51,Bengaluru Bulls beat U.P. Yoddha (64-24), Season 5,Bengaluru Bulls,64.0,0.0,U.P. Yoddha,24.0,5.0,
+Match 52,Gujarat Fortunegiants beat U Mumba (45-23), Season 5,U Mumba,23.0,3.0,Gujarat Fortunegiants,45.0,0.0,
+Match 53,U Mumba beat Haryana Steelers (38-32), Season 5,U Mumba,38.0,1.0,Haryana Steelers,32.0,1.0,U Mumba
+Match 54,Telugu Titans beat Tamil Thalaivas (33-28), Season 5,Telugu Titans,33.0,1.0,Tamil Thalaivas,28.0,1.0,
+Match 55,U Mumba beat Jaipur Pink Panthers (36-32), Season 5,U Mumba,36.0,2.0,Jaipur Pink Panthers,32.0,1.0,U Mumba
+Match 56,Bengal Warriors beat Patna Pirates (41-38), Season 5,Bengal Warriors,41.0,2.0,Patna Pirates,38.0,1.0,Bengal Warriors
+Match 57,Haryana Steelers beat Gujarat Fortunegiants (42-36), Season 5,Gujarat Fortunegiants,36.0,2.0,Haryana Steelers,42.0,1.0,
+Match 58,Match Tied, Season 5,Bengal Warriors,26.0,0.0,U.P. Yoddha,26.0,1.0,Bengal Warriors
+Match 59,Jaipur Pink Panthers beat Gujarat Fortunegiants (31-25), Season 5,Gujarat Fortunegiants,25.0,2.0,Jaipur Pink Panthers,31.0,0.0,
+Match 60,Bengal Warriors beat Tamil Thalaivas (29-25), Season 5,Bengal Warriors,29.0,1.0,Tamil Thalaivas,25.0,1.0,Bengal Warriors
+Match 61,Patna Pirates beat Jaipur Pink Panthers (47-21), Season 5,Patna Pirates,47.0,0.0,Jaipur Pink Panthers,21.0,4.0,
+Match 62,Haryana Steelers beat Bengal Warriors (36-29), Season 5,Bengal Warriors,29.0,2.0,Haryana Steelers,36.0,1.0,Bengal Warriors
+Match 63,Dabang Delhi K.C. beat Bengaluru Bulls (38-30), Season 5,Dabang Delhi K.C.,38.0,1.0,Bengaluru Bulls,30.0,2.0,
+Match 64,U Mumba beat Bengal Warriors (37-31), Season 5,Bengal Warriors,31.0,2.0,U Mumba,37.0,1.0,Bengal Warriors
+Match 65,Puneri Paltan beat Telugu Titans (42-37), Season 5,Telugu Titans,37.0,3.0,Puneri Paltan,42.0,2.0,
+Match 66,Match Tied, Season 5,Bengal Warriors,31.0,1.0,Dabang Delhi K.C.,31.0,2.0,Bengal Warriors
+Match 67,Match Tied, Season 5,Haryana Steelers,41.0,2.0,Patna Pirates,41.0,2.0,Haryana Steelers
+Match 68,Match Tied, Season 5,Gujarat Fortunegiants,30.0,1.0,U.P. Yoddha,30.0,2.0,
+Match 69,U Mumba beat Patna Pirates (51-41), Season 5,Patna Pirates,41.0,3.0,U Mumba,51.0,1.0,
+Match 70,Haryana Steelers beat Bengaluru Bulls (38-31), Season 5,Haryana Steelers,38.0,0.0,Bengaluru Bulls,31.0,2.0,Haryana Steelers
+Match 71,Bengaluru Bulls beat Puneri Paltan (24-20), Season 5,Bengaluru Bulls,24.0,0.0,Puneri Paltan,20.0,1.0,
+Match 72,Telugu Titans beat Haryana Steelers (37-19), Season 5,Haryana Steelers,19.0,2.0,Telugu Titans,37.0,0.0,Haryana Steelers
+Match 73,Bengal Warriors beat Telugu Titans (32-31), Season 5,Bengal Warriors,32.0,2.0,Telugu Titans,31.0,1.0,
+Match 74,Haryana Steelers beat Dabang Delhi K.C. (27-24), Season 5,Haryana Steelers,27.0,1.0,Dabang Delhi K.C.,24.0,1.0,Haryana Steelers
+Match 75,Tamil Thalaivas beat U.P. Yoddha (34-33), Season 5,Tamil Thalaivas,34.0,1.0,U.P. Yoddha,33.0,2.0,
+Match 76,Puneri Paltan beat Haryana Steelers (38-22), Season 5,Haryana Steelers,22.0,2.0,Puneri Paltan,38.0,0.0,Haryana Steelers
+Match 77,Match Tied, Season 5,Haryana Steelers,27.0,1.0,Jaipur Pink Panthers,27.0,1.0,Haryana Steelers
+Match 78,Patna Pirates beat Telugu Titans (46-30), Season 5,Patna Pirates,46.0,1.0,Telugu Titans,30.0,4.0,Patna Pirates
+Match 79,Gujarat Fortunegiants beat U Mumba (39-28), Season 5,U Mumba,28.0,2.0,Gujarat Fortunegiants,39.0,0.0,
+Match 80,Match Tied, Season 5,Bengaluru Bulls,26.0,0.0,Telugu Titans,26.0,1.0,
+Match 81,Patna Pirates beat U.P. Yoddha (45-42), Season 5,Patna Pirates,45.0,2.0,U.P. Yoddha,42.0,3.0,Patna Pirates
+Match 82,Jaipur Pink Panthers beat Dabang Delhi K.C. (36-25), Season 5,Jaipur Pink Panthers,36.0,0.0,Dabang Delhi K.C.,25.0,2.0,
+Match 83,Match Tied, Season 5,Patna Pirates,37.0,1.0,Bengal Warriors,37.0,2.0,Patna Pirates
+match 84,Puneri Paltan beat Haryana Steelers (37-25), Season 5,Puneri Paltan,37.0,0.0,Haryana Steelers,25.0,2.0,
+Match 85,Patna Pirates beat Bengaluru Bulls (36-32), Season 5,Patna Pirates,36.0,1.0,Bengaluru Bulls,32.0,2.0,Patna Pirates
+Match 86,Patna Pirates beat Tamil Thalaivas (41-39), Season 5,Patna Pirates,41.0,1.0,Tamil Thalaivas,39.0,2.0,Patna Pirates
+Match 87,Haryana Steelers beat Jaipur Pink Panthers (30-26), Season 5,Jaipur Pink Panthers,26.0,1.0,Haryana Steelers,30.0,0.0,
+Match 88,U.P. Yoddha beat Patna Pirates (46-41), Season 5,Patna Pirates,41.0,2.0,U.P. Yoddha,46.0,1.0,Patna Pirates
+Match 89,U Mumba beat Dabang Delhi K.C. (30-28), Season 5,Dabang Delhi K.C.,28.0,1.0,U Mumba,30.0,1.0,Dabang Delhi K.C.
+Match 90,Bengal Warriors beat Bengaluru Bulls (33-29), Season 5,Bengaluru Bulls,29.0,1.0,Bengal Warriors,33.0,1.0,
+Match 91,Puneri Paltan beat Dabang Delhi K.C. (34-29), Season 5,Dabang Delhi K.C.,29.0,2.0,Puneri Paltan,34.0,1.0,Dabang Delhi K.C.
+Match 92,Tamil Thalaivas beat Bengal Warriors (33-32), Season 5,Bengal Warriors,32.0,1.0,Tamil Thalaivas,33.0,1.0,
+Match 93,Haryana Steelers beat Dabang Delhi K.C. (42-24), Season 5,Dabang Delhi K.C.,24.0,3.0,Haryana Steelers,42.0,0.0,Dabang Delhi K.C.
+Match 94,Tamil Thalaivas beat Gujarat Fortunegiants (35-34), Season 5,Gujarat Fortunegiants,34.0,1.0,Tamil Thalaivas,35.0,2.0,
+Match 95,Patna Pirates beat Dabang Delhi K.C. (36-34), Season 5,Dabang Delhi K.C.,34.0,2.0,Patna Pirates,36.0,2.0,Dabang Delhi K.C.
+Match 96,Telugu Titans beat Jaipur Pink Panthers (41-34), Season 5,Telugu Titans,41.0,1.0,Jaipur Pink Panthers,34.0,1.0,
+Match 97,U.P. Yoddha beat Dabang Delhi K.C. (45-16), Season 5,Dabang Delhi K.C.,16.0,3.0,U.P. Yoddha,45.0,0.0,Dabang Delhi K.C.
+Match 98,U Mumba beat Bengaluru Bulls (42-30), Season 5,Bengaluru Bulls,30.0,2.0,U Mumba,42.0,0.0,
+Match 99,Telugu Titans beat Dabang Delhi K.C. (44-22), Season 5,Dabang Delhi K.C.,22.0,3.0,Telugu Titans,44.0,0.0,Dabang Delhi K.C.
+Match 100,Puneri Paltan beat Tamil Thalaivas (33-20), Season 5,Tamil Thalaivas,20.0,2.0,Puneri Paltan,33.0,0.0,Tamil Thalaivas
+Match 101,Gujarat Fortunegiants beat Patna Pirates (30-29), Season 5,Gujarat Fortunegiants,30.0,0.0,Patna Pirates,29.0,1.0,
+Match 102,Puneri Paltan beat U.P. Yoddha (34-33), Season 5,Puneri Paltan,34.0,1.0,U.P. Yoddha,33.0,2.0,
+Match 103,Jaipur Pink Panthers beat Tamil Thalaivas (27-26), Season 5,Tamil Thalaivas,26.0,1.0,Jaipur Pink Panthers,27.0,0.0,Tamil Thalaivas
+Match 104,Bengal Warriors beat Jaipur Pink Panthers (32-31), Season 5,Jaipur Pink Panthers,31.0,1.0,Bengal Warriors,32.0,1.0,
+Match 105,U Mumba beat Tamil Thalaivas (33-30), Season 5,Tamil Thalaivas,30.0,1.0,U Mumba,33.0,1.0,Tamil Thalaivas
+Match 106,Gujarat Fortunegiants beat Dabang Delhi K.C. (42-22), Season 5,Dabang Delhi K.C.,22.0,3.0,Gujarat Fortunegiants,42.0,0.0,
+Match 107,Telugu Titans beat Tamil Thalaivas (58-37), Season 5,Tamil Thalaivas,37.0,4.0,Telugu Titans,58.0,1.0,Tamil Thalaivas
+Match 108,Haryana Steelers beat U Mumba (41-30), Season 5,U Mumba,30.0,2.0,Haryana Steelers,41.0,0.0,
+Match 109,U.P. Yoddha beat Tamil Thalaivas (37-33), Season 5,Tamil Thalaivas,33.0,1.0,U.P. Yoddha,37.0,0.0,Tamil Thalaivas
+Match 110,Bengaluru Bulls beat Tamil Thalaivas (45-35), Season 5,Tamil Thalaivas,35.0,3.0,Bengaluru Bulls,45.0,1.0,Tamil Thalaivas
+Match 111,Gujarat Fortunegiants beat Jaipur Pink Panthers (29-23), Season 5,Jaipur Pink Panthers,23.0,1.0,Gujarat Fortunegiants,29.0,0.0,Jaipur Pink Panthers
+Match 112,Bengal Warriors beat Puneri Paltan (25-19), Season 5,Puneri Paltan,19.0,1.0,Bengal Warriors,25.0,0.0,
+Match 113,Haryana Steelers beat Telugu Titans (32-30), Season 5,Haryana Steelers,32.0,1.0,Telugu Titans,30.0,1.0,
+Match 114,Jaipur Pink Panthers beat U Mumba (36-32), Season 5,Jaipur Pink Panthers,36.0,1.0,U Mumba,32.0,2.0,Jaipur Pink Panthers
+Match 115,Gujarat Fortunegiants beat Patna Pirates (33-29), Season 5,Gujarat Fortunegiants,33.0,1.0,Patna Pirates,29.0,1.0,
+Match 116,Puneri Paltan beat Jaipur Pink Panthers (38-30), Season 5,Jaipur Pink Panthers,30.0,2.0,Puneri Paltan,38.0,1.0,Jaipur Pink Panthers
+Match 117,Tamil Thalaivas beat U Mumba (38-35), Season 5,U Mumba,35.0,1.0,Tamil Thalaivas,38.0,1.0,
+Match 118,Dabang Delhi K.C. beat Jaipur Pink Panthers (35-34), Season 5,Jaipur Pink Panthers,34.0,1.0,Dabang Delhi K.C.,35.0,1.0,Jaipur Pink Panthers
+Match 119,Bengaluru Bulls beat Dabang Delhi K.C. (35-32), Season 5,Dabang Delhi K.C.,32.0,1.0,Bengaluru Bulls,35.0,1.0,
+Match 120,Haryana Steelers beat Jaipur Pink Panthers (37-27), Season 5,Jaipur Pink Panthers,27.0,2.0,Haryana Steelers,37.0,0.0,Jaipur Pink Panthers
+Match 121,U.P. Yoddha beat Jaipur Pink Panthers (53-32), Season 5,Jaipur Pink Panthers,32.0,3.0,U.P. Yoddha,53.0,0.0,Jaipur Pink Panthers
+Match 122,Gujarat Fortunegiants beat Puneri Paltan (44-20), Season 5,Puneri Paltan,20.0,3.0,Gujarat Fortunegiants,44.0,0.0,Puneri Paltan
+Match 123,Bengal Warriors beat Tamil Thalaivas (34-30), Season 5,Bengal Warriors,34.0,0.0,Tamil Thalaivas,30.0,2.0,
+Match 124,Tamil Thalaivas beat Patna Pirates (40-37), Season 5,Tamil Thalaivas,40.0,1.0,Patna Pirates,37.0,2.0,
+Match 125,Puneri Paltan beat U Mumba (43-24), Season 5,Puneri Paltan,43.0,0.0,U Mumba,24.0,3.0,Puneri Paltan
+Match 126,Bengaluru Bulls beat U.P. Yoddha (38-32), Season 5,Bengaluru Bulls,38.0,1.0,U.P. Yoddha,32.0,2.0,
+Match 127,Puneri Paltan beat Dabang Delhi K.C. (34-31), Season 5,Puneri Paltan,34.0,1.0,Dabang Delhi K.C.,31.0,1.0,Puneri Paltan
+Match 128,Haryana Steelers beat Puneri Paltan (31-27), Season 5,Puneri Paltan,27.0,1.0,Haryana Steelers,31.0,0.0,Puneri Paltan
+Match 129,Match Tied, Season 5,Patna Pirates,29.0,1.0,Bengaluru Bulls,29.0,0.0,
+Match 130,Puneri Paltan beat Jaipur Pink Panthers (38-15), Season 5,Puneri Paltan,38.0,0.0,Jaipur Pink Panthers,15.0,2.0,Puneri Paltan
+Match 131,Match Tied, Season 5,Telugu Titans,37.0,2.0,Bengal Warriors,37.0,2.0,
+Match 132,Gujarat Fortunegiants beat Puneri Paltan (23-22), Season 5,Puneri Paltan,22.0,0.0,Gujarat Fortunegiants,23.0,0.0,Puneri Paltan
+Eliminator 1,Puneri Paltan beat U.P. Yoddha (40-38), Season 5,Puneri Paltan,40.0,2.0,U.P. Yoddha,38.0,2.0,
+Eliminator 2,Patna Pirates beat Haryana Steelers (69-30), Season 5,Patna Pirates,69.0,0.0,Haryana Steelers,30.0,5.0,
+Qualifier 1,Gujarat Fortunegiants beat Bengal Warriors (42-17), Season 5,Gujarat Fortunegiants,42.0,0.0,Bengal Warriors,17.0,3.0,
+Eliminator 3,Patna Pirates beat Puneri Paltan (42-32), Season 5,Puneri Paltan,32.0,3.0,Patna Pirates,42.0,1.0,
+Qualifier 2,Patna Pirates beat Bengal Warriors (47-44), Season 5,Bengal Warriors,44.0,3.0,Patna Pirates,47.0,1.0,
+Final,Patna Pirates beat Gujarat Fortunegiants (55-38), Season 5,Gujarat Fortunegiants,38.0,4.0,Patna Pirates,55.0,1.0,
+Match 1,Tamil Thalaivas beat Patna Pirates (42-26), Season 6,Tamil Thalaivas,42.0,1.0,Patna Pirates,26.0,3.0,Tamil Thalaivas
+Match 2,Match Tied, Season 6,Puneri Paltan,32.0,1.0,U Mumba,32.0,0.0,
+Match 3,Puneri Paltan beat Haryana Steelers (34-22), Season 6,Puneri Paltan,34.0,0.0,Haryana Steelers,22.0,2.0,
+Match 4,U.P. Yoddha beat Tamil Thalaivas (37-32), Season 6,Tamil Thalaivas,32.0,2.0,U.P. Yoddha,37.0,2.0,Tamil Thalaivas
+Match 5,Match Tied, Season 6,Dabang Delhi K.C.,32.0,1.0,Gujarat Fortunegiants,32.0,1.0,
+Match 6,Telugu Titans beat Tamil Thalaivas (33-28), Season 6,Tamil Thalaivas,28.0,1.0,Telugu Titans,33.0,0.0,Tamil Thalaivas
+Match 7,U Mumba beat Jaipur Pink Panthers (39-32), Season 6,U Mumba,39.0,1.0,Jaipur Pink Panthers,32.0,2.0,
+Match 8,Bengaluru Bulls beat Tamil Thalaivas (48-37), Season 6,Tamil Thalaivas,37.0,2.0,Bengaluru Bulls,48.0,1.0,Tamil Thalaivas
+Match 58,Dabang Delhi K.C. beat Jaipur Pink Panthers (40-29), Season 6,Jaipur Pink Panthers,29.0,2.0,Dabang Delhi K.C.,40.0,0.0,
+Match 10,Bengal Warriors beat Tamil Thalaivas (36-27), Season 6,Tamil Thalaivas,27.0,2.0,Bengal Warriors,36.0,0.0,Tamil Thalaivas
+Match 84,Bengaluru Bulls beat U.P. Yoddha (37-27), Season 6,Bengaluru Bulls,37.0,0.0,U.P. Yoddha,27.0,2.0,Bengaluru Bulls
+Match 11,Haryana Steelers beat Gujarat Fortunegiants (32-25), Season 6,Haryana Steelers,32.0,0.0,Gujarat Fortunegiants,25.0,1.0,Haryana Steelers
+Match 15,Patna Pirates beat U.P. Yoddha (43-37), Season 6,Patna Pirates,43.0,1.0,U.P. Yoddha,37.0,2.0,
+Match 12,Dabang Delhi K.C. beat Puneri Paltan (41-37), Season 6,Puneri Paltan,37.0,2.0,Dabang Delhi K.C.,41.0,1.0,
+Match 14,U Mumba beat Haryana Steelers (53-26), Season 6,Haryana Steelers,26.0,4.0,U Mumba,53.0,0.0,Haryana Steelers
+Match 13,Telugu Titans beat U.P. Yoddha (34-29), Season 6,Telugu Titans,34.0,0.0,U.P. Yoddha,29.0,0.0,
+Match 16,Puneri Paltan beat Haryana Steelers (45-27), Season 6,Haryana Steelers,27.0,3.0,Puneri Paltan,45.0,0.0,Haryana Steelers
+Match 17,Bengal Warriors beat Telugu Titans (30-25), Season 6,Bengal Warriors,30.0,0.0,Telugu Titans,25.0,1.0,
+Match 18,Jaipur Pink Panthers beat Haryana Steelers (36-33), Season 6,Haryana Steelers,33.0,1.0,Jaipur Pink Panthers,36.0,0.0,Haryana Steelers
+Match 19,Bengaluru Bulls beat Tamil Thalaivas (44-35), Season 6,Bengaluru Bulls,44.0,1.0,Tamil Thalaivas,35.0,2.0,
+Match 20,U Mumba beat Haryana Steelers (42-32), Season 6,Haryana Steelers,32.0,2.0,U Mumba,42.0,0.0,Haryana Steelers
+Match 21,Haryana Steelers beat Dabang Delhi K.C. (34-31), Season 6,Haryana Steelers,34.0,0.0,Dabang Delhi K.C.,31.0,1.0,Haryana Steelers
+Match 22,Gujarat Fortunegiants beat Puneri Paltan (34-28), Season 6,Puneri Paltan,28.0,1.0,Gujarat Fortunegiants,34.0,0.0,Puneri Paltan
+Match 23,Telugu Titans beat Patna Pirates (35-31), Season 6,Patna Pirates,31.0,1.0,Telugu Titans,35.0,1.0,
+Match 24,Puneri Paltan beat Jaipur Pink Panthers (29-25), Season 6,Puneri Paltan,29.0,1.0,Jaipur Pink Panthers,25.0,0.0,Puneri Paltan
+Match 25,Match Tied, Season 6,U.P. Yoddha,40.0,1.0,Bengal Warriors,40.0,1.0,
+Match 26,Puneri Paltan beat U Mumba (33-32), Season 6,Puneri Paltan,33.0,1.0,U Mumba,32.0,1.0,Puneri Paltan
+Match 27,Dabang Delhi K.C. beat Bengal Warriors (39-30), Season 6,Dabang Delhi K.C.,39.0,0.0,Bengal Warriors,30.0,2.0,
+Match 28,Puneri Paltan beat Bengaluru Bulls (27-25), Season 6,Puneri Paltan,27.0,1.0,Bengaluru Bulls,25.0,0.0,Puneri Paltan
+Match 29,U Mumba beat Telugu Titans (41-20), Season 6,U Mumba,41.0,0.0,Telugu Titans,20.0,3.0,
+Match 30,Tamil Thalaivas beat Puneri Paltan (36-31), Season 6,Puneri Paltan,31.0,2.0,Tamil Thalaivas,36.0,0.0,Puneri Paltan
+Match 31,Bengaluru Bulls beat Haryana Steelers (42-34), Season 6,Bengaluru Bulls,42.0,0.0,Haryana Steelers,34.0,2.0,
+Match 32,U.P. Yoddha beat Puneri Paltan (29-23), Season 6,Puneri Paltan,23.0,0.0,U.P. Yoddha,29.0,0.0,Puneri Paltan
+Match 33,Patna Pirates beat Jaipur Pink Panthers (41-30), Season 6,Patna Pirates,41.0,0.0,Jaipur Pink Panthers,30.0,2.0,Patna Pirates
+Match 34,Gujarat Fortunegiants beat Tamil Thalaivas (36-25), Season 6,Gujarat Fortunegiants,36.0,0.0,Tamil Thalaivas,25.0,1.0,
+Match 35,Bengal Warriors beat Jaipur Pink Panthers (39-28), Season 6,Jaipur Pink Panthers,28.0,2.0,Bengal Warriors,39.0,0.0,
+Match 36,U Mumba beat Patna Pirates (40-39), Season 6,Patna Pirates,39.0,0.0,U Mumba,40.0,2.0,Patna Pirates
+Match 37,U.P. Yoddha beat Dabang Delhi K.C. (38-36), Season 6,Dabang Delhi K.C.,36.0,2.0,U.P. Yoddha,38.0,1.0,
+Match 38,Haryana Steelers beat Patna Pirates (43-32), Season 6,Patna Pirates,32.0,2.0,Haryana Steelers,43.0,0.0,Patna Pirates
+Match 39,Gujarat Fortunegiants beat Puneri Paltan (37-27), Season 6,Puneri Paltan,27.0,2.0,Gujarat Fortunegiants,37.0,0.0,
+Match 40,Telugu Titans beat Patna Pirates (53-32), Season 6,Patna Pirates,32.0,3.0,Telugu Titans,53.0,0.0,Patna Pirates
+Match 41,Puneri Paltan beat Dabang Delhi K.C. (31-27), Season 6,Dabang Delhi K.C.,27.0,1.0,Puneri Paltan,31.0,1.0,
+Match 42,Bengaluru Bulls beat Patna Pirates (43-41), Season 6,Patna Pirates,41.0,1.0,Bengaluru Bulls,43.0,2.0,Patna Pirates
+Match 43,Patna Pirates beat Bengal Warriors (29-27), Season 6,Patna Pirates,29.0,0.0,Bengal Warriors,27.0,1.0,Patna Pirates
+Match 44,Tamil Thalaivas beat U.P. Yoddha (46-24), Season 6,U.P. Yoddha,24.0,3.0,Tamil Thalaivas,46.0,0.0,U.P. Yoddha
+Match 45,Gujarat Fortunegiants beat Jaipur Pink Panthers (36-25), Season 6,Jaipur Pink Panthers,25.0,2.0,Gujarat Fortunegiants,36.0,0.0,
+Match 46,U Mumba beat Puneri Paltan (31-22), Season 6,U Mumba,31.0,0.0,Puneri Paltan,22.0,2.0,
+Match 47,Bengaluru Bulls beat U.P. Yoddha (35-29), Season 6,U.P. Yoddha,29.0,1.0,Bengaluru Bulls,35.0,1.0,U.P. Yoddha
+Match 48,Gujarat Fortunegiants beat Dabang Delhi K.C. (45-38), Season 6,Dabang Delhi K.C.,38.0,2.0,Gujarat Fortunegiants,45.0,2.0,
+Match 49,Match Tied, Season 6,U.P. Yoddha,30.0,1.0,Bengal Warriors,30.0,1.0,U.P. Yoddha
+Match 50,Jaipur Pink Panthers beat Haryana Steelers (38-32), Season 6,Jaipur Pink Panthers,38.0,1.0,Haryana Steelers,32.0,2.0,
+Match 51,Match Tied, Season 6,U.P. Yoddha,26.0,1.0,Telugu Titans,26.0,1.0,U.P. Yoddha
+Match 9,Patna Pirates beat U.P. Yoddha (43-41), Season 6,U.P. Yoddha,41.0,2.0,Patna Pirates,43.0,2.0,U.P. Yoddha
+Match 52,Dabang Delhi K.C. beat Haryana Steelers (39-33), Season 6,Haryana Steelers,33.0,2.0,Dabang Delhi K.C.,39.0,1.0,
+Match 53,Bengaluru Bulls beat U.P. Yoddha (37-27), Season 6,U.P. Yoddha,27.0,2.0,Bengaluru Bulls,37.0,0.0,U.P. Yoddha
+Match 54,U Mumba beat Jaipur Pink Panthers (48-24), Season 6,U Mumba,48.0,0.0,Jaipur Pink Panthers,24.0,4.0,U Mumba
+Match 55,Bengal Warriors beat Telugu Titans (30-25), Season 6,Bengal Warriors,30.0,0.0,Telugu Titans,25.0,1.0,
+Match 56,Patna Pirates beat Bengal Warriors (50-30), Season 6,Patna Pirates,50.0,1.0,Bengal Warriors,30.0,3.0,
+Match 57,Gujarat Fortunegiants beat U Mumba (38-36), Season 6,U Mumba,36.0,2.0,Gujarat Fortunegiants,38.0,1.0,U Mumba
+Match 59,Haryana Steelers beat U Mumba (35-31), Season 6,U Mumba,31.0,1.0,Haryana Steelers,35.0,1.0,U Mumba
+Match 60,Telugu Titans beat Puneri Paltan (28-25), Season 6,Puneri Paltan,25.0,2.0,Telugu Titans,28.0,1.0,
+Match 61,U Mumba beat U.P. Yoddha (41-24), Season 6,U Mumba,41.0,0.0,U.P. Yoddha,24.0,3.0,U Mumba
+Match 62,Match Tied, Season 6,Tamil Thalaivas,32.0,1.0,Haryana Steelers,32.0,1.0,
+Match 63,U Mumba beat Bengaluru Bulls (32-29), Season 6,U Mumba,32.0,1.0,Bengaluru Bulls,29.0,2.0,U Mumba
+Match 64,Patna Pirates beat Dabang Delhi K.C. (38-35), Season 6,Patna Pirates,38.0,1.0,Dabang Delhi K.C.,35.0,2.0,
+Match 65,U Mumba beat Tamil Thalaivas (36-22), Season 6,U Mumba,36.0,0.0,Tamil Thalaivas,22.0,2.0,U Mumba
+Match 66,Gujarat Fortunegiants beat Bengal Warriors (35-23), Season 6,Gujarat Fortunegiants,35.0,0.0,Bengal Warriors,23.0,2.0,Gujarat Fortunegiants
+Match 67,Jaipur Pink Panthers beat U.P. Yoddha (45-28), Season 6,Jaipur Pink Panthers,45.0,0.0,U.P. Yoddha,28.0,3.0,
+Match 68,Bengal Warriors beat Puneri Paltan (26-22), Season 6,Puneri Paltan,22.0,1.0,Bengal Warriors,26.0,0.0,
+Match 69,Match Tied, Season 6,Gujarat Fortunegiants,30.0,1.0,Bengaluru Bulls,30.0,1.0,Gujarat Fortunegiants
+Match 70,Bengaluru Bulls beat Jaipur Pink Panthers (45-32), Season 6,Jaipur Pink Panthers,32.0,3.0,Bengaluru Bulls,45.0,1.0,
+Match 71,Gujarat Fortunegiants beat U.P. Yoddha (37-32), Season 6,Gujarat Fortunegiants,37.0,1.0,U.P. Yoddha,32.0,2.0,Gujarat Fortunegiants
+Match 72,Tamil Thalaivas beat Telugu Titans (27-23), Season 6,Tamil Thalaivas,27.0,0.0,Telugu Titans,23.0,1.0,
+Match 73,Dabang Delhi K.C. beat Gujarat Fortunegiants (29-26), Season 6,Gujarat Fortunegiants,26.0,1.0,Dabang Delhi K.C.,29.0,0.0,Gujarat Fortunegiants
+Match 74,Patna Pirates beat Tamil Thalaivas (45-27), Season 6,Patna Pirates,45.0,1.0,Tamil Thalaivas,27.0,3.0,
+Match 75,Gujarat Fortunegiants beat U Mumba (39-35), Season 6,Gujarat Fortunegiants,39.0,1.0,U Mumba,35.0,2.0,Gujarat Fortunegiants
+Match 76,Gujarat Fortunegiants beat Haryana Steelers (40-31), Season 6,Gujarat Fortunegiants,40.0,0.0,Haryana Steelers,31.0,2.0,Gujarat Fortunegiants
+Match 77,Bengal Warriors beat Bengaluru Bulls (33-31), Season 6,Bengaluru Bulls,31.0,1.0,Bengal Warriors,33.0,1.0,Bengaluru Bulls
+Match 78,Match Tied, Season 6,Jaipur Pink Panthers,30.0,1.0,Puneri Paltan,30.0,1.0,
+Match 79,U Mumba beat Dabang Delhi K.C. (39-23), Season 6,U Mumba,39.0,0.0,Dabang Delhi K.C.,23.0,2.0,
+Match 80,Bengaluru Bulls beat Tamil Thalaivas (36-22), Season 6,Bengaluru Bulls,36.0,0.0,Tamil Thalaivas,22.0,2.0,Bengaluru Bulls
+Match 82,Patna Pirates beat Bengaluru Bulls (35-32), Season 6,Bengaluru Bulls,32.0,1.0,Patna Pirates,35.0,1.0,Bengaluru Bulls
+Match 81,Haryana Steelers beat Dabang Delhi K.C. (34-27), Season 6,Dabang Delhi K.C.,27.0,1.0,Haryana Steelers,34.0,0.0,
+Match 83,Tamil Thalaivas beat Telugu Titans (31-25), Season 6,Tamil Thalaivas,31.0,0.0,Telugu Titans,25.0,1.0,
+Match 85,Puneri Paltan beat Haryana Steelers (35-33), Season 6,Haryana Steelers,33.0,2.0,Puneri Paltan,35.0,2.0,
+Match 86,Bengaluru Bulls beat Telugu Titans (34-26), Season 6,Bengaluru Bulls,34.0,1.0,Telugu Titans,26.0,1.0,Bengaluru Bulls
+Match 87,Gujarat Fortunegiants beat Puneri Paltan (35-20), Season 6,Puneri Paltan,20.0,2.0,Gujarat Fortunegiants,35.0,0.0,
+Match 88,Bengal Warriors beat Bengaluru Bulls (44-37), Season 6,Bengaluru Bulls,37.0,3.0,Bengal Warriors,44.0,1.0,Bengaluru Bulls
+Match 89,Dabang Delhi K.C. beat Jaipur Pink Panthers (48-35), Season 6,Dabang Delhi K.C.,48.0,1.0,Jaipur Pink Panthers,35.0,3.0,Dabang Delhi K.C.
+Match 90,Match Tied, Season 6,Tamil Thalaivas,35.0,2.0,Patna Pirates,35.0,1.0,
+Match 91,U Mumba beat Dabang Delhi K.C. (41-34), Season 6,Dabang Delhi K.C.,34.0,2.0,U Mumba,41.0,2.0,Dabang Delhi K.C.
+Match 92,U Mumba beat Gujarat Fortunegiants (36-26), Season 6,U Mumba,36.0,0.0,Gujarat Fortunegiants,26.0,2.0,
+Match 93,Dabang Delhi K.C. beat Puneri Paltan (35-24), Season 6,Dabang Delhi K.C.,35.0,0.0,Puneri Paltan,24.0,2.0,Dabang Delhi K.C.
+Match 94,Gujarat Fortunegiants beat Patna Pirates (45-27), Season 6,Patna Pirates,27.0,3.0,Gujarat Fortunegiants,45.0,0.0,
+Match 95,Dabang Delhi K.C. beat Telugu Titans (34-29), Season 6,Dabang Delhi K.C.,34.0,1.0,Telugu Titans,29.0,2.0,Dabang Delhi K.C.
+Match 96,Haryana Steelers beat Bengal Warriors (35-33), Season 6,Haryana Steelers,35.0,1.0,Bengal Warriors,33.0,1.0,
+Match 97,Dabang Delhi K.C. beat Bengaluru Bulls (32-31), Season 6,Dabang Delhi K.C.,32.0,0.0,Bengaluru Bulls,31.0,2.0,Dabang Delhi K.C.
+Match 98,U.P. Yoddha beat Haryana Steelers (30-29), Season 6,U.P. Yoddha,30.0,0.0,Haryana Steelers,29.0,1.0,
+Match 99,Dabang Delhi K.C. beat Tamil Thalaivas (37-33), Season 6,Dabang Delhi K.C.,37.0,1.0,Tamil Thalaivas,33.0,2.0,Dabang Delhi K.C.
+Match 100,Gujarat Fortunegiants beat Telugu Titans (29-27), Season 6,Telugu Titans,27.0,1.0,Gujarat Fortunegiants,29.0,1.0,Telugu Titans
+Match 101,Patna Pirates beat Puneri Paltan (53-36), Season 6,Patna Pirates,53.0,0.0,Puneri Paltan,36.0,3.0,
+Match 102,U Mumba beat Bengal Warriors (31-20), Season 6,U Mumba,31.0,0.0,Bengal Warriors,20.0,1.0,
+Match 103,Telugu Titans beat Jaipur Pink Panthers (36-26), Season 6,Telugu Titans,36.0,0.0,Jaipur Pink Panthers,26.0,2.0,Telugu Titans
+Match 104,Jaipur Pink Panthers beat Tamil Thalaivas (37-24), Season 6,Tamil Thalaivas,24.0,2.0,Jaipur Pink Panthers,37.0,0.0,
+Match 105,Telugu Titans beat Haryana Steelers (35-31), Season 6,Telugu Titans,35.0,1.0,Haryana Steelers,31.0,1.0,Telugu Titans
+Match 106,U Mumba beat Dabang Delhi K.C. (44-19), Season 6,Dabang Delhi K.C.,19.0,3.0,U Mumba,44.0,0.0,
+Match 107,U.P. Yoddha beat Telugu Titans (27-20), Season 6,Telugu Titans,20.0,1.0,U.P. Yoddha,27.0,0.0,Telugu Titans
+Match 108,Gujarat Fortunegiants beat Haryana Steelers (47-37), Season 6,Haryana Steelers,37.0,2.0,Gujarat Fortunegiants,47.0,1.0,
+Match 109,Bengaluru Bulls beat Telugu Titans (37-24), Season 6,Telugu Titans,24.0,2.0,Bengaluru Bulls,37.0,0.0,Telugu Titans
+Match 110,Telugu Titans beat Patna Pirates (41-36), Season 6,Telugu Titans,41.0,1.0,Patna Pirates,36.0,2.0,Telugu Titans
+Match 111,Jaipur Pink Panthers beat Puneri Paltan (36-23), Season 6,Jaipur Pink Panthers,36.0,0.0,Puneri Paltan,23.0,2.0,Jaipur Pink Panthers
+Match 112,Bengal Warriors beat Tamil Thalaivas (28-21), Season 6,Bengal Warriors,28.0,0.0,Tamil Thalaivas,21.0,1.0,
+Match 113,Match Tied, Season 6,U.P. Yoddha,25.0,0.0,Tamil Thalaivas,25.0,0.0,
+Match 114,Match Tied, Season 6,Jaipur Pink Panthers,35.0,1.0,U Mumba,35.0,2.0,Jaipur Pink Panthers
+Match 115,U.P. Yoddha beat Patna Pirates (47-31), Season 6,Patna Pirates,31.0,3.0,U.P. Yoddha,47.0,0.0,
+Match 116,Gujarat Fortunegiants beat Jaipur Pink Panthers (34-29), Season 6,Jaipur Pink Panthers,29.0,1.0,Gujarat Fortunegiants,34.0,1.0,Jaipur Pink Panthers
+Match 117,Bengaluru Bulls beat Telugu Titans (44-28), Season 6,Bengaluru Bulls,44.0,1.0,Telugu Titans,28.0,3.0,
+Match 118,Jaipur Pink Panthers beat Haryana Steelers (39-30), Season 6,Jaipur Pink Panthers,39.0,1.0,Haryana Steelers,30.0,2.0,Jaipur Pink Panthers
+Match 119,Match Tied, Season 6,Patna Pirates,40.0,1.0,Bengaluru Bulls,40.0,2.0,
+Match 120,Gujarat Fortunegiants beat Jaipur Pink Panthers (33-31), Season 6,Jaipur Pink Panthers,31.0,2.0,Gujarat Fortunegiants,33.0,1.0,Jaipur Pink Panthers
+Match 121,Match Tied, Season 6,Jaipur Pink Panthers,37.0,1.0,Dabang Delhi K.C.,37.0,1.0,Jaipur Pink Panthers
+Match 123,Puneri Paltan beat Telugu Titans (35-20), Season 6,Puneri Paltan,35.0,0.0,Telugu Titans,20.0,2.0,
+Match 124,U.P. Yoddha beat U Mumba (34-32), Season 6,U Mumba,32.0,1.0,U.P. Yoddha,34.0,1.0,
+Match 125,Bengal Warriors beat Patna Pirates (39-23), Season 6,Bengal Warriors,39.0,0.0,Patna Pirates,23.0,2.0,Bengal Warriors
+Match 126,Dabang Delhi K.C. beat Bengal Warriors (37-31), Season 6,Bengal Warriors,31.0,2.0,Dabang Delhi K.C.,37.0,1.0,Bengal Warriors
+Match 122,Bengal Warriors beat Tamil Thalaivas (27-24), Season 6,Bengal Warriors,27.0,0.0,Tamil Thalaivas,24.0,0.0,Bengal Warriors
+Match 127,Match Tied, Season 6,Haryana Steelers,40.0,2.0,Tamil Thalaivas,40.0,1.0,
+Match 128,Bengal Warriors beat Telugu Titans (39-34), Season 6,Bengal Warriors,39.0,1.0,Telugu Titans,34.0,1.0,Bengal Warriors
+Match 129,Gujarat Fortunegiants beat Patna Pirates (37-29), Season 6,Gujarat Fortunegiants,37.0,0.0,Patna Pirates,29.0,1.0,
+Match 130,Bengal Warriors beat Bengaluru Bulls (37-31), Season 6,Bengal Warriors,37.0,1.0,Bengaluru Bulls,31.0,2.0,Bengal Warriors
+Match 131,Bengaluru Bulls beat Jaipur Pink Panthers (40-32), Season 6,Jaipur Pink Panthers,32.0,2.0,Bengaluru Bulls,40.0,0.0,
+Match 132,U.P. Yoddha beat Bengal Warriors (41-25), Season 6,Bengal Warriors,25.0,3.0,U.P. Yoddha,41.0,0.0,Bengal Warriors
+Eliminator 1,U.P. Yoddha beat U Mumba (34-29), Season 6,U Mumba,29.0,1.0,U.P. Yoddha,34.0,0.0,
+Eliminator 2,Dabang Delhi K.C. beat Bengal Warriors (39-28), Season 6,Dabang Delhi K.C.,39.0,1.0,Bengal Warriors,28.0,2.0,
+Qualifier 1,Bengaluru Bulls beat Gujarat Fortunegiants (41-29), Season 6,Gujarat Fortunegiants,29.0,2.0,Bengaluru Bulls,41.0,1.0,
+Eliminator 3,U.P. Yoddha beat Dabang Delhi K.C. (45-33), Season 6,U.P. Yoddha,45.0,1.0,Dabang Delhi K.C.,33.0,3.0,
+Qualifier 2,Gujarat Fortunegiants beat U.P. Yoddha (38-31), Season 6,Gujarat Fortunegiants,38.0,1.0,U.P. Yoddha,31.0,2.0,
+Final,Bengaluru Bulls beat Gujarat Fortunegiants (38-33), Season 6,Bengaluru Bulls,38.0,1.0,Gujarat Fortunegiants,33.0,2.0,
+Match 1,U Mumba beat Telugu Titans (31-25), Season 7,Telugu Titans,25.0,2.0,U Mumba,31.0,0.0,Telugu Titans
+Match 2,Bengaluru Bulls beat Patna Pirates (34-32), Season 7,Bengaluru Bulls,34.0,1.0,Patna Pirates,32.0,1.0,
+Match 3,Gujarat Fortunegiants beat Bengaluru Bulls (42-24), Season 7,Bengaluru Bulls,24.0,3.0,Gujarat Fortunegiants,42.0,0.0,
+Match 4,Tamil Thalaivas beat Telugu Titans (39-26), Season 7,Telugu Titans,26.0,2.0,Tamil Thalaivas,39.0,0.0,Telugu Titans
+Match 5,Jaipur Pink Panthers beat U Mumba (42-23), Season 7,U Mumba,23.0,3.0,Jaipur Pink Panthers,42.0,0.0,
+Match 6,Haryana Steelers beat Puneri Paltan (34-24), Season 7,Puneri Paltan,24.0,2.0,Haryana Steelers,34.0,0.0,
+Match 7,Bengal Warriors beat U.P. Yoddha (48-17), Season 7,U.P. Yoddha,17.0,4.0,Bengal Warriors,48.0,0.0,
+Match 8,Dabang Delhi K.C. beat Telugu Titans (34-33), Season 7,Telugu Titans,33.0,1.0,Dabang Delhi K.C.,34.0,0.0,Telugu Titans
+Match 9,Dabang Delhi K.C. beat Tamil Thalaivas (30-29), Season 7,Dabang Delhi K.C.,30.0,1.0,Tamil Thalaivas,29.0,1.0,
+Match 10,Gujarat Fortunegiants beat U.P. Yoddha (44-19), Season 7,U.P. Yoddha,19.0,3.0,Gujarat Fortunegiants,44.0,0.0,
+Match 11,Patna Pirates beat Telugu Titans (34-22), Season 7,Telugu Titans,22.0,2.0,Patna Pirates,34.0,0.0,Telugu Titans
+Match 12,U Mumba beat Puneri Paltan (33-23), Season 7,U Mumba,33.0,0.0,Puneri Paltan,23.0,2.0,U Mumba
+Match 13,Jaipur Pink Panthers beat Bengal Warriors (27-25), Season 7,Jaipur Pink Panthers,27.0,0.0,Bengal Warriors,25.0,1.0,
+Match 14,Dabang Delhi K.C. beat Haryana Steelers (41-21), Season 7,Dabang Delhi K.C.,41.0,0.0,Haryana Steelers,21.0,2.0,
+Match 15,Bengaluru Bulls beat U Mumba (30-26), Season 7,U Mumba,26.0,1.0,Bengaluru Bulls,30.0,1.0,U Mumba
+Match 16,Patna Pirates beat Tamil Thalaivas (24-23), Season 7,Tamil Thalaivas,23.0,0.0,Patna Pirates,24.0,0.0,
+Match 17,Bengal Warriors beat Puneri Paltan (43-23), Season 7,Bengal Warriors,43.0,0.0,Puneri Paltan,23.0,3.0,
+Match 18,Jaipur Pink Panthers beat Haryana Steelers (37-21), Season 7,Haryana Steelers,21.0,2.0,Jaipur Pink Panthers,37.0,0.0,
+Match 19,U.P. Yoddha beat U Mumba (27-23), Season 7,U Mumba,23.0,1.0,U.P. Yoddha,27.0,0.0,U Mumba
+Match 20,Gujarat Fortunegiants beat Dabang Delhi K.C. (31-26), Season 7,Gujarat Fortunegiants,31.0,1.0,Dabang Delhi K.C.,26.0,1.0,
+Match 21,Match Tied, Season 7,Telugu Titans,20.0,0.0,U.P. Yoddha,20.0,0.0,
+Match 22,U Mumba beat Gujarat Fortunegiants (32-20), Season 7,U Mumba,32.0,0.0,Gujarat Fortunegiants,20.0,2.0,U Mumba
+Match 23,Jaipur Pink Panthers beat Patna Pirates (34-21), Season 7,Patna Pirates,21.0,2.0,Jaipur Pink Panthers,34.0,0.0,Patna Pirates
+Match 24,Bengaluru Bulls beat Bengal Warriors (43-42), Season 7,Bengal Warriors,42.0,2.0,Bengaluru Bulls,43.0,2.0,
+Match 25,Tamil Thalaivas beat Haryana Steelers (35-28), Season 7,Haryana Steelers,28.0,2.0,Tamil Thalaivas,35.0,1.0,
+Match 26,Puneri Paltan beat Patna Pirates (41-20), Season 7,Patna Pirates,20.0,2.0,Puneri Paltan,41.0,1.0,
+Match 27,Dabang Delhi K.C. beat Jaipur Pink Panthers (35-24), Season 7,Dabang Delhi K.C.,35.0,0.0,Jaipur Pink Panthers,24.0,2.0,
+Match 28,Puneri Paltan beat Gujarat Fortunegiants (33-31), Season 7,Gujarat Fortunegiants,31.0,1.0,Puneri Paltan,33.0,1.0,
+Match 29,Match Tied, Season 7,U.P. Yoddha,28.0,1.0,Tamil Thalaivas,28.0,1.0,
+Match 30,Haryana Steelers beat Patna Pirates (35-26), Season 7,Patna Pirates,26.0,2.0,Haryana Steelers,35.0,1.0,Patna Pirates
+Match 31,Bengaluru Bulls beat Telugu Titans (47-26), Season 7,Telugu Titans,26.0,2.0,Bengaluru Bulls,47.0,0.0,
+Match 32,Bengal Warriors beat U Mumba (32-30), Season 7,Bengal Warriors,32.0,2.0,U Mumba,30.0,2.0,
+Match 33,Patna Pirates beat U.P. Yoddha (41-20), Season 7,Patna Pirates,41.0,0.0,U.P. Yoddha,20.0,3.0,Patna Pirates
+Match 34,Tamil Thalaivas beat Gujarat Fortunegiants (34-28), Season 7,Gujarat Fortunegiants,28.0,2.0,Tamil Thalaivas,34.0,1.0,Gujarat Fortunegiants
+Match 35,Dabang Delhi K.C. beat Puneri Paltan (32-30), Season 7,Puneri Paltan,30.0,1.0,Dabang Delhi K.C.,32.0,0.0,
+Match 36,Haryana Steelers beat Bengaluru Bulls (33-30), Season 7,Bengaluru Bulls,30.0,1.0,Haryana Steelers,33.0,1.0,
+Match 37,Telugu Titans beat Gujarat Fortunegiants (30-24), Season 7,Gujarat Fortunegiants,24.0,1.0,Telugu Titans,30.0,0.0,Gujarat Fortunegiants
+Match 38,Match Tied, Season 7,Bengal Warriors,29.0,1.0,Telugu Titans,29.0,1.0,
+Match 39,U.P. Yoddha beat Bengaluru Bulls (35-33), Season 7,U.P. Yoddha,35.0,0.0,Bengaluru Bulls,33.0,2.0,
+Match 40,Haryana Steelers beat U.P. Yoddha (36-33), Season 7,U.P. Yoddha,33.0,2.0,Haryana Steelers,36.0,1.0,
+Match 41,Bengal Warriors beat Gujarat Fortunegiants (28-26), Season 7,Gujarat Fortunegiants,26.0,1.0,Bengal Warriors,28.0,0.0,Gujarat Fortunegiants
+Match 42,Jaipur Pink Panthers beat Puneri Paltan (33-25), Season 7,Jaipur Pink Panthers,33.0,0.0,Puneri Paltan,25.0,2.0,
+Match 43,U Mumba beat Patna Pirates (34-30), Season 7,U Mumba,34.0,1.0,Patna Pirates,30.0,1.0,
+Match 44,Jaipur Pink Panthers beat Gujarat Fortunegiants (22-19), Season 7,Gujarat Fortunegiants,19.0,0.0,Jaipur Pink Panthers,22.0,0.0,Gujarat Fortunegiants
+Match 45,Bengaluru Bulls beat Tamil Thalaivas (32-21), Season 7,Tamil Thalaivas,21.0,2.0,Bengaluru Bulls,32.0,0.0,Tamil Thalaivas
+Match 46,Match Tied, Season 7,Bengal Warriors,30.0,1.0,Dabang Delhi K.C.,30.0,1.0,
+Match 47,Telugu Titans beat Haryana Steelers (40-29), Season 7,Haryana Steelers,29.0,2.0,Telugu Titans,40.0,0.0,
+Match 48,Match Tied, Season 7,Tamil Thalaivas,31.0,1.0,Puneri Paltan,31.0,1.0,Tamil Thalaivas
+Match 49,Haryana Steelers beat U Mumba (30-27), Season 7,U Mumba,27.0,1.0,Haryana Steelers,30.0,1.0,
+Match 50,U.P. Yoddha beat Jaipur Pink Panthers (31-24), Season 7,U.P. Yoddha,31.0,0.0,Jaipur Pink Panthers,24.0,1.0,
+Match 51,Puneri Paltan beat Bengaluru Bulls (31-23), Season 7,Puneri Paltan,31.0,0.0,Bengaluru Bulls,23.0,1.0,
+Match 52,Jaipur Pink Panthers beat Tamil Thalaivas (28-26), Season 7,Tamil Thalaivas,26.0,0.0,Jaipur Pink Panthers,28.0,1.0,Tamil Thalaivas
+Match 53,Bengal Warriors beat Patna Pirates (35-26), Season 7,Bengal Warriors,35.0,1.0,Patna Pirates,26.0,2.0,
+Match 54,Gujarat Fortunegiants beat Patna Pirates (29-26), Season 7,Gujarat Fortunegiants,29.0,1.0,Patna Pirates,26.0,1.0,
+Match 55,U Mumba beat Tamil Thalaivas (29-24), Season 7,Tamil Thalaivas,24.0,1.0,U Mumba,29.0,0.0,Tamil Thalaivas
+Match 56,Dabang Delhi K.C. beat Bengaluru Bulls (33-31), Season 7,Dabang Delhi K.C.,33.0,1.0,Bengaluru Bulls,31.0,1.0,Dabang Delhi K.C.
+Match 57,Telugu Titans beat Jaipur Pink Panthers (24-21), Season 7,Jaipur Pink Panthers,21.0,0.0,Telugu Titans,24.0,0.0,
+Match 58,Bengaluru Bulls beat Jaipur Pink Panthers (41-30), Season 7,Jaipur Pink Panthers,30.0,2.0,Bengaluru Bulls,41.0,1.0,
+Match 59,Dabang Delhi K.C. beat U.P. Yoddha (36-27), Season 7,Dabang Delhi K.C.,36.0,0.0,U.P. Yoddha,27.0,2.0,Dabang Delhi K.C.
+Match 60,Haryana Steelers beat Bengal Warriors (36-33), Season 7,Bengal Warriors,33.0,1.0,Haryana Steelers,36.0,1.0,
+Match 61,U.P. Yoddha beat Puneri Paltan (35-30), Season 7,U.P. Yoddha,35.0,1.0,Puneri Paltan,30.0,2.0,
+Match 62,Haryana Steelers beat Gujarat Fortunegiants (41-25), Season 7,Gujarat Fortunegiants,25.0,3.0,Haryana Steelers,41.0,0.0,
+Match 63,Dabang Delhi K.C. beat U Mumba (40-24), Season 7,Dabang Delhi K.C.,40.0,0.0,U Mumba,24.0,3.0,Dabang Delhi K.C.
+Match 64,Bengal Warriors beat Tamil Thalaivas (35-26), Season 7,Bengal Warriors,35.0,0.0,Tamil Thalaivas,26.0,2.0,
+Match 65,Puneri Paltan beat Telugu Titans (34-27), Season 7,Telugu Titans,27.0,1.0,Puneri Paltan,34.0,0.0,
+Match 66,Dabang Delhi K.C. beat Patna Pirates (38-35), Season 7,Dabang Delhi K.C.,38.0,2.0,Patna Pirates,35.0,2.0,Dabang Delhi K.C.
+Match 67,Gujarat Fortunegiants beat Bengaluru Bulls (32-23), Season 7,Bengaluru Bulls,23.0,2.0,Gujarat Fortunegiants,32.0,0.0,Bengaluru Bulls
+Match 68,U Mumba beat Jaipur Pink Panthers (47-21), Season 7,U Mumba,47.0,0.0,Jaipur Pink Panthers,21.0,4.0,
+Match 69,U.P. Yoddha beat Bengal Warriors (32-29), Season 7,U.P. Yoddha,32.0,0.0,Bengal Warriors,29.0,1.0,
+Match 70,Bengaluru Bulls beat Tamil Thalaivas (33-27), Season 7,Bengaluru Bulls,33.0,0.0,Tamil Thalaivas,27.0,1.0,Bengaluru Bulls
+Match 71,Haryana Steelers beat Puneri Paltan (41-27), Season 7,Puneri Paltan,27.0,2.0,Haryana Steelers,41.0,0.0,
+Match 72,Telugu Titans beat Tamil Thalaivas (35-30), Season 7,Telugu Titans,35.0,0.0,Tamil Thalaivas,30.0,1.0,
+Match 73,Dabang Delhi K.C. beat Jaipur Pink Panthers (46-44), Season 7,Jaipur Pink Panthers,44.0,2.0,Dabang Delhi K.C.,46.0,2.0,
+Match 74,Bengaluru Bulls beat Patna Pirates (40-39), Season 7,Bengaluru Bulls,40.0,1.0,Patna Pirates,39.0,1.0,Bengaluru Bulls
+Match 75,Match Tied, Season 7,Puneri Paltan,33.0,1.0,U Mumba,33.0,2.0,
+Match 76,U.P. Yoddha beat Patna Pirates (41-29), Season 7,Patna Pirates,29.0,3.0,U.P. Yoddha,41.0,1.0,
+Match 77,Bengaluru Bulls beat Telugu Titans (40-39), Season 7,Bengaluru Bulls,40.0,1.0,Telugu Titans,39.0,2.0,Bengaluru Bulls
+Match 78,Match Tied, Season 7,Bengal Warriors,25.0,0.0,Gujarat Fortunegiants,25.0,0.0,Bengal Warriors
+Match 79,Haryana Steelers beat Dabang Delhi K.C. (47-25), Season 7,Dabang Delhi K.C.,25.0,3.0,Haryana Steelers,47.0,0.0,
+Match 80,Dabang Delhi K.C. beat Tamil Thalaivas (50-34), Season 7,Dabang Delhi K.C.,50.0,0.0,Tamil Thalaivas,34.0,3.0,
+Match 81,Bengal Warriors beat Puneri Paltan (42-39), Season 7,Bengal Warriors,42.0,2.0,Puneri Paltan,39.0,2.0,Bengal Warriors
+Match 82,U.P. Yoddha beat Gujarat Fortunegiants (33-26), Season 7,U.P. Yoddha,33.0,1.0,Gujarat Fortunegiants,26.0,2.0,
+Match 83,Patna Pirates beat Tamil Thalaivas (51-25), Season 7,Tamil Thalaivas,25.0,4.0,Patna Pirates,51.0,0.0,
+Match 84,Match Tied, Season 7,Haryana Steelers,32.0,2.0,Jaipur Pink Panthers,32.0,1.0,
+Match 85,Bengal Warriors beat U Mumba (29-26), Season 7,Bengal Warriors,29.0,0.0,U Mumba,26.0,1.0,Bengal Warriors
+Match 86,Patna Pirates beat Jaipur Pink Panthers (36-33), Season 7,Jaipur Pink Panthers,33.0,1.0,Patna Pirates,36.0,0.0,
+Match 87,U Mumba beat Telugu Titans (41-27), Season 7,Telugu Titans,27.0,3.0,U Mumba,41.0,1.0,
+Match 88,Bengal Warriors beat Bengaluru Bulls (42-40), Season 7,Bengal Warriors,42.0,1.0,Bengaluru Bulls,40.0,2.0,Bengal Warriors
+Match 89,Puneri Paltan beat Gujarat Fortunegiants (43-33), Season 7,Puneri Paltan,43.0,1.0,Gujarat Fortunegiants,33.0,2.0,Puneri Paltan
+Match 90,Haryana Steelers beat Tamil Thalaivas (43-35), Season 7,Tamil Thalaivas,35.0,2.0,Haryana Steelers,43.0,1.0,
+Match 91,Dabang Delhi K.C. beat Gujarat Fortunegiants (34-30), Season 7,Dabang Delhi K.C.,34.0,1.0,Gujarat Fortunegiants,30.0,2.0,
+Match 92,Patna Pirates beat Puneri Paltan (55-33), Season 7,Puneri Paltan,33.0,4.0,Patna Pirates,55.0,0.0,Puneri Paltan
+Match 93,U.P. Yoddha beat Jaipur Pink Panthers (38-32), Season 7,Jaipur Pink Panthers,32.0,2.0,U.P. Yoddha,38.0,0.0,
+Match 94,Dabang Delhi K.C. beat Telugu Titans (37-29), Season 7,Telugu Titans,29.0,2.0,Dabang Delhi K.C.,37.0,0.0,
+Match 95,U Mumba beat U.P. Yoddha (39-36), Season 7,U Mumba,39.0,1.0,U.P. Yoddha,36.0,2.0,
+Match 96,Match Tied, Season 7,Puneri Paltan,36.0,1.0,Tamil Thalaivas,36.0,2.0,Puneri Paltan
+Match 97,Bengal Warriors beat Haryana Steelers (48-36), Season 7,Bengal Warriors,48.0,1.0,Haryana Steelers,36.0,3.0,
+Match 98,Match Tied, Season 7,Telugu Titans,42.0,2.0,Patna Pirates,42.0,2.0,
+Match 99,Puneri Paltan beat Bengaluru Bulls (42-38), Season 7,Puneri Paltan,42.0,1.0,Bengaluru Bulls,38.0,2.0,Puneri Paltan
+Match 100,Match Tied, Season 7,Jaipur Pink Panthers,28.0,1.0,Gujarat Fortunegiants,28.0,1.0,Jaipur Pink Panthers
+Match 101,U.P. Yoddha beat Tamil Thalaivas (42-22), Season 7,U.P. Yoddha,42.0,1.0,Tamil Thalaivas,22.0,3.0,
+Match 102,U Mumba beat Gujarat Fortunegiants (31-25), Season 7,U Mumba,31.0,1.0,Gujarat Fortunegiants,25.0,2.0,
+Match 103,Bengal Warriors beat Jaipur Pink Panthers (41-40), Season 7,Jaipur Pink Panthers,40.0,2.0,Bengal Warriors,41.0,1.0,Jaipur Pink Panthers
+Match 104,Haryana Steelers beat Patna Pirates (39-34), Season 7,Patna Pirates,34.0,3.0,Haryana Steelers,39.0,0.0,
+Match 105,Match Tied, Season 7,Dabang Delhi K.C.,39.0,1.0,Bengaluru Bulls,39.0,2.0,
+Match 106,Bengal Warriors beat Telugu Titans (40-39), Season 7,Telugu Titans,39.0,2.0,Bengal Warriors,40.0,1.0,
+Match 107,Jaipur Pink Panthers beat Puneri Paltan (43-34), Season 7,Jaipur Pink Panthers,43.0,1.0,Puneri Paltan,34.0,2.0,Jaipur Pink Panthers
+Match 108,Dabang Delhi K.C. beat Patna Pirates (43-39), Season 7,Patna Pirates,39.0,1.0,Dabang Delhi K.C.,43.0,2.0,
+Match 109,Bengaluru Bulls beat U Mumba (35-33), Season 7,U Mumba,33.0,2.0,Bengaluru Bulls,35.0,1.0,
+Match 110,Telugu Titans beat Jaipur Pink Panthers (51-31), Season 7,Jaipur Pink Panthers,31.0,3.0,Telugu Titans,51.0,0.0,Jaipur Pink Panthers
+Match 111,U.P. Yoddha beat Haryana Steelers (37-30), Season 7,Haryana Steelers,30.0,1.0,U.P. Yoddha,37.0,1.0,Haryana Steelers
+Match 112,Gujarat Fortunegiants beat Tamil Thalaivas (50-21), Season 7,Gujarat Fortunegiants,50.0,0.0,Tamil Thalaivas,21.0,3.0,
