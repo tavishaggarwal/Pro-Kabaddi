@@ -1,0 +1,1410 @@
+series_name,team_name,player_name,position_name,match_played,total_points,total_raid_points,tackle_points,total_raids,success_raids,unsuccess_raids,empty_raid,super_raids,success_raid_percent,tackle_success_rate,total_tackles,success_tackles,unsuccesful_tackles,super_tackles,most_point_in_a_match,green_cards,yellow_cards,red_cards
+ Season 1,Puneri Paltan,Takamitsu Kono,All Rounder,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0
+ Season 2,Puneri Paltan,Takamitsu Kono,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 3,Puneri Paltan,Takamitsu Kono,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,Puneri Paltan,Takamitsu Kono,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Puneri Paltan,Takamitsu Kono,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Puneri Paltan,Takamitsu Kono,All Rounder,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,100.0,100.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0
+ Season 1,Bengaluru Bulls,Dong Ju Hong,All Rounder,2.0,1.0,1.0,0.0,2.0,1.0,0.0,1.0,0.0,50.0,0.0,2.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0
+ Season 2,Bengaluru Bulls,Dong Ju Hong,All Rounder,4.0,0.0,0.0,0.0,4.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,Bengaluru Bulls,Dong Ju Hong,All Rounder,3.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,100.0,0.0,2.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0
+ Overall,Bengaluru Bulls,Dong Ju Hong,All Rounder,9.0,2.0,2.0,0.0,7.0,1.0,4.0,2.0,0.0,28.57,0.0,4.0,0.0,4.0,0.0,1.0,0.0,0.0,0.0
+ Season 1,Patna Pirates,Tae Deok Eom,All Rounder,9.0,4.0,2.0,2.0,8.0,1.0,4.0,3.0,0.0,25.0,22.22,9.0,1.0,8.0,1.0,3.0,0.0,0.0,0.0
+ Season 2,Patna Pirates,Tae Deok Eom,All Rounder,8.0,16.0,11.0,5.0,20.0,8.0,5.0,7.0,0.0,55.0,50.0,10.0,5.0,5.0,0.0,5.0,0.0,0.0,0.0
+ Season 3,Patna Pirates,Tae Deok Eom,All Rounder,7.0,1.0,1.0,0.0,5.0,1.0,2.0,2.0,0.0,20.0,0.0,8.0,0.0,8.0,0.0,1.0,0.0,0.0,0.0
+ Season 6,Patna Pirates,Tae Deok Eom,All Rounder,11.0,1.0,0.0,1.0,2.0,0.0,1.0,1.0,0.0,0.0,6.25,16.0,1.0,15.0,0.0,1.0,0.0,0.0,0.0
+ Season 4,Patna Pirates,Tae Deok Eom,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Patna Pirates,Tae Deok Eom,All Rounder,35.0,22.0,14.0,8.0,35.0,10.0,12.0,13.0,0.0,40.0,18.6,43.0,7.0,36.0,1.0,5.0,0.0,0.0,0.0
+ Season 1,Bengaluru Bulls,Sanjay Shrestha,All Rounder,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 2,Bengaluru Bulls,Sanjay Shrestha,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 3,Bengaluru Bulls,Sanjay Shrestha,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 4,Bengaluru Bulls,Sanjay Shrestha,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,Bengaluru Bulls,Sanjay Shrestha,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Bengaluru Bulls,Sanjay Shrestha,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 7,Bengaluru Bulls,Sanjay Shrestha,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Bengaluru Bulls,Sanjay Shrestha,All Rounder,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 1,Tamil Thalaivas,Waleed Al Hasani,Raider,6.0,14.0,14.0,0.0,23.0,10.0,13.0,0.0,1.0,43.47,0.0,1.0,0.0,1.0,0.0,9.0,0.0,0.0,0.0
+ Overall,Tamil Thalaivas,Waleed Al Hasani,Raider,6.0,14.0,14.0,0.0,23.0,10.0,13.0,0.0,1.0,43.47,0.0,1.0,0.0,1.0,0.0,9.0,0.0,0.0,0.0
+ Season 1,,Sinotharan Kanesharajah,,1.0,5.0,4.0,1.0,5.0,2.0,0.0,3.0,1.0,80.0,100.0,1.0,1.0,0.0,0.0,5.0,0.0,0.0,0.0
+ Season 2,,Sinotharan Kanesharajah,,2.0,1.0,1.0,0.0,3.0,0.0,1.0,2.0,0.0,33.33,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+ Overall,,Sinotharan Kanesharajah,,3.0,6.0,5.0,1.0,8.0,2.0,1.0,5.0,1.0,62.5,50.0,2.0,1.0,1.0,0.0,5.0,0.0,0.0,0.0
+ Season 1,Tamil Thalaivas,Ajay Thakur,Raider,15.0,127.0,122.0,5.0,228.0,96.0,58.0,73.0,2.0,53.5,27.77,18.0,5.0,13.0,0.0,16.0,1.0,0.0,0.0
+ Season 2,Tamil Thalaivas,Ajay Thakur,Raider,13.0,80.0,79.0,1.0,190.0,56.0,55.0,79.0,6.0,41.57,16.66,6.0,1.0,5.0,0.0,12.0,6.0,0.0,0.0
+ Season 3,Tamil Thalaivas,Ajay Thakur,Raider,14.0,56.0,52.0,4.0,148.0,41.0,34.0,73.0,2.0,35.13,44.44,9.0,4.0,5.0,0.0,11.0,2.0,0.0,0.0
+ Season 4,Tamil Thalaivas,Ajay Thakur,Raider,16.0,64.0,63.0,1.0,155.0,41.0,34.0,80.0,5.0,40.64,12.5,8.0,1.0,7.0,0.0,12.0,0.0,1.0,0.0
+ Season 5,Tamil Thalaivas,Ajay Thakur,Raider,22.0,222.0,213.0,9.0,407.0,182.0,75.0,150.0,3.0,52.33,36.0,25.0,9.0,16.0,0.0,20.0,4.0,0.0,0.0
+ Season 6,Tamil Thalaivas,Ajay Thakur,Raider,22.0,204.0,203.0,1.0,388.0,177.0,80.0,131.0,3.0,52.31,9.09,11.0,1.0,10.0,0.0,20.0,3.0,0.0,0.0
+ Season 7,Tamil Thalaivas,Ajay Thakur,Raider,13.0,58.0,58.0,0.0,171.0,47.0,43.0,81.0,2.0,33.91,0.0,5.0,0.0,5.0,0.0,11.0,2.0,0.0,0.0
+ Overall,Tamil Thalaivas,Ajay Thakur,Raider,115.0,811.0,790.0,21.0,1687.0,640.0,379.0,667.0,23.0,46.82,25.6,82.0,21.0,61.0,0.0,20.0,18.0,1.0,0.0
+ Season 1,Telugu Titans,Amit Singh Chhillar,"Defender, left corner",14.0,30.0,1.0,29.0,4.0,1.0,1.0,2.0,0.0,25.0,35.8,81.0,26.0,55.0,3.0,7.0,2.0,0.0,0.0
+ Season 2,Telugu Titans,Amit Singh Chhillar,"Defender, left corner",6.0,12.0,0.0,12.0,1.0,0.0,0.0,1.0,0.0,0.0,57.14,21.0,11.0,10.0,1.0,5.0,0.0,0.0,0.0
+ Season 3,Telugu Titans,Amit Singh Chhillar,"Defender, left corner",5.0,5.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,29.41,17.0,5.0,12.0,0.0,2.0,0.0,0.0,0.0
+ Season 4,Telugu Titans,Amit Singh Chhillar,"Defender, left corner",9.0,13.0,0.0,13.0,1.0,0.0,0.0,1.0,0.0,0.0,38.23,34.0,13.0,21.0,0.0,4.0,0.0,0.0,0.0
+ Season 5,Telugu Titans,Amit Singh Chhillar,"Defender, left corner",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Telugu Titans,Amit Singh Chhillar,"Defender, left corner",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Telugu Titans,Amit Singh Chhillar,"Defender, left corner",35.0,60.0,1.0,59.0,6.0,1.0,1.0,4.0,0.0,16.66,38.31,154.0,55.0,99.0,4.0,7.0,2.0,0.0,0.0
+ Season 1,Jaipur Pink Panthers,Anup Kumar,Raider,16.0,169.0,155.0,14.0,255.0,123.0,46.0,86.0,8.0,60.78,40.0,35.0,12.0,23.0,2.0,16.0,3.0,0.0,0.0
+ Season 2,Jaipur Pink Panthers,Anup Kumar,Raider,14.0,81.0,74.0,7.0,244.0,61.0,35.0,148.0,1.0,30.32,58.33,12.0,6.0,6.0,1.0,10.0,8.0,0.0,0.0
+ Season 3,Jaipur Pink Panthers,Anup Kumar,Raider,13.0,79.0,76.0,3.0,209.0,63.0,25.0,121.0,3.0,36.36,33.33,9.0,3.0,6.0,0.0,9.0,1.0,1.0,0.0
+ Season 4,Jaipur Pink Panthers,Anup Kumar,Raider,14.0,82.0,72.0,10.0,230.0,60.0,29.0,141.0,1.0,31.3,41.66,24.0,9.0,15.0,1.0,11.0,4.0,1.0,0.0
+ Season 5,Jaipur Pink Panthers,Anup Kumar,Raider,21.0,135.0,112.0,23.0,281.0,84.0,44.0,153.0,2.0,39.85,38.33,60.0,19.0,41.0,4.0,11.0,6.0,0.0,0.0
+ Season 6,Jaipur Pink Panthers,Anup Kumar,Raider,13.0,50.0,38.0,12.0,127.0,30.0,21.0,76.0,2.0,29.92,36.36,33.0,12.0,21.0,0.0,8.0,2.0,0.0,0.0
+ Overall,Jaipur Pink Panthers,Anup Kumar,Raider,91.0,596.0,527.0,69.0,1346.0,421.0,200.0,725.0,17.0,39.15,39.88,173.0,61.0,112.0,8.0,16.0,24.0,2.0,0.0
+ Season 2,Bengal Warriors,Bhupender Singh,All Rounder,11.0,30.0,22.0,8.0,63.0,18.0,15.0,30.0,1.0,34.92,40.0,20.0,8.0,12.0,0.0,7.0,2.0,0.0,0.0
+ Season 3,Bengal Warriors,Bhupender Singh,All Rounder,11.0,12.0,11.0,1.0,33.0,8.0,11.0,14.0,0.0,33.33,14.28,7.0,1.0,6.0,0.0,3.0,0.0,0.0,0.0
+ Season 4,Bengal Warriors,Bhupender Singh,All Rounder,4.0,0.0,0.0,0.0,13.0,0.0,1.0,12.0,0.0,0.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,Bengal Warriors,Bhupender Singh,All Rounder,17.0,28.0,28.0,0.0,83.0,16.0,19.0,48.0,2.0,33.73,0.0,8.0,0.0,8.0,0.0,4.0,0.0,0.0,0.0
+ Season 6,Bengal Warriors,Bhupender Singh,All Rounder,4.0,13.0,10.0,3.0,20.0,6.0,5.0,9.0,1.0,50.0,60.0,5.0,2.0,3.0,1.0,5.0,0.0,0.0,0.0
+ Overall,Bengal Warriors,Bhupender Singh,All Rounder,47.0,83.0,71.0,12.0,212.0,48.0,51.0,113.0,4.0,33.49,27.27,44.0,11.0,33.0,1.0,7.0,2.0,0.0,0.0
+ Season 1,Dabang Delhi K.C.,Chandran Ranjit,Raider,6.0,6.0,6.0,0.0,20.0,4.0,8.0,8.0,0.0,30.0,0.0,6.0,0.0,6.0,0.0,4.0,0.0,0.0,0.0
+ Season 2,Dabang Delhi K.C.,Chandran Ranjit,Raider,1.0,1.0,0.0,1.0,8.0,0.0,3.0,5.0,0.0,0.0,50.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0
+ Season 5,Dabang Delhi K.C.,Chandran Ranjit,Raider,11.0,51.0,51.0,0.0,122.0,43.0,27.0,52.0,3.0,41.8,0.0,4.0,0.0,4.0,0.0,11.0,0.0,0.0,0.0
+ Season 6,Dabang Delhi K.C.,Chandran Ranjit,Raider,24.0,158.0,153.0,5.0,316.0,127.0,73.0,116.0,3.0,48.41,33.33,15.0,4.0,11.0,1.0,11.0,0.0,0.0,0.0
+ Season 7,Dabang Delhi K.C.,Chandran Ranjit,Raider,17.0,92.0,88.0,4.0,214.0,67.0,57.0,90.0,3.0,41.12,25.0,16.0,3.0,13.0,1.0,11.0,0.0,0.0,0.0
+ Overall,Dabang Delhi K.C.,Chandran Ranjit,Raider,59.0,308.0,298.0,10.0,680.0,241.0,168.0,271.0,9.0,43.82,23.25,43.0,8.0,35.0,2.0,11.0,0.0,0.0,0.0
+ Season 1,Jaipur Pink Panthers,Deepak Niwas Hooda,All Rounder,14.0,89.0,87.0,2.0,148.0,72.0,32.0,44.0,3.0,58.78,9.09,22.0,2.0,20.0,0.0,18.0,0.0,0.0,0.0
+ Season 2,Jaipur Pink Panthers,Deepak Niwas Hooda,All Rounder,15.0,96.0,60.0,36.0,153.0,54.0,27.0,72.0,1.0,39.21,59.01,61.0,32.0,29.0,4.0,14.0,1.0,0.0,0.0
+ Season 3,Jaipur Pink Panthers,Deepak Niwas Hooda,All Rounder,12.0,76.0,69.0,7.0,157.0,62.0,28.0,67.0,0.0,43.94,33.33,21.0,7.0,14.0,0.0,13.0,0.0,0.0,0.0
+ Season 4,Jaipur Pink Panthers,Deepak Niwas Hooda,All Rounder,16.0,130.0,126.0,4.0,277.0,108.0,39.0,130.0,2.0,45.48,14.28,28.0,4.0,24.0,0.0,17.0,0.0,0.0,0.0
+ Season 5,Jaipur Pink Panthers,Deepak Niwas Hooda,All Rounder,24.0,186.0,172.0,14.0,360.0,127.0,76.0,157.0,8.0,47.77,41.17,34.0,13.0,21.0,1.0,17.0,1.0,0.0,0.0
+ Season 6,Jaipur Pink Panthers,Deepak Niwas Hooda,All Rounder,22.0,208.0,196.0,12.0,366.0,162.0,72.0,132.0,4.0,53.55,31.57,38.0,11.0,27.0,1.0,20.0,4.0,0.0,0.0
+ Season 7,Jaipur Pink Panthers,Deepak Niwas Hooda,All Rounder,20.0,158.0,146.0,12.0,304.0,113.0,58.0,133.0,2.0,48.02,44.44,27.0,10.0,17.0,2.0,14.0,0.0,0.0,0.0
+ Overall,Jaipur Pink Panthers,Deepak Niwas Hooda,All Rounder,123.0,943.0,856.0,87.0,1765.0,698.0,332.0,735.0,20.0,48.49,37.66,231.0,79.0,152.0,8.0,20.0,6.0,0.0,0.0
+ Season 1,Haryana Steelers,Dharmaraj Cheralathan,"Defender, right and left corner",16.0,52.0,13.0,39.0,31.0,8.0,2.0,21.0,0.0,41.93,56.52,69.0,34.0,35.0,5.0,7.0,1.0,0.0,0.0
+ Season 2,Haryana Steelers,Dharmaraj Cheralathan,"Defender, right and left corner",15.0,61.0,19.0,42.0,42.0,15.0,2.0,25.0,0.0,45.23,61.76,68.0,41.0,27.0,1.0,9.0,0.0,0.0,0.0
+ Season 3,Haryana Steelers,Dharmaraj Cheralathan,"Defender, right and left corner",14.0,37.0,6.0,31.0,20.0,3.0,4.0,13.0,0.0,30.0,53.44,58.0,28.0,30.0,3.0,8.0,0.0,0.0,0.0
+ Season 4,Haryana Steelers,Dharmaraj Cheralathan,"Defender, right and left corner",14.0,41.0,2.0,39.0,28.0,2.0,0.0,26.0,0.0,7.14,61.9,63.0,31.0,32.0,8.0,9.0,1.0,0.0,0.0
+ Season 5,Haryana Steelers,Dharmaraj Cheralathan,"Defender, right and left corner",18.0,25.0,0.0,25.0,15.0,0.0,0.0,15.0,0.0,0.0,39.06,64.0,24.0,40.0,1.0,4.0,0.0,0.0,0.0
+ Season 6,Haryana Steelers,Dharmaraj Cheralathan,"Defender, right and left corner",22.0,40.0,0.0,40.0,22.0,0.0,1.0,21.0,0.0,0.0,57.97,69.0,37.0,32.0,3.0,6.0,0.0,0.0,0.0
+ Season 7,Haryana Steelers,Dharmaraj Cheralathan,"Defender, right and left corner",15.0,38.0,2.0,36.0,16.0,1.0,1.0,14.0,0.0,12.5,48.0,75.0,33.0,42.0,3.0,5.0,0.0,0.0,0.0
+ Overall,Haryana Steelers,Dharmaraj Cheralathan,"Defender, right and left corner",114.0,294.0,42.0,252.0,174.0,29.0,10.0,135.0,0.0,24.13,54.07,466.0,228.0,238.0,24.0,9.0,2.0,0.0,0.0
+ Season 2,Bengal Warriors,Dharmendra Singh,"Defender, left corner",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 3,Bengal Warriors,Dharmendra Singh,"Defender, left corner",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 7,Bengal Warriors,Dharmendra Singh,"Defender, left corner",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Bengal Warriors,Dharmendra Singh,"Defender, left corner",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 1,Jaipur Pink Panthers,Gangadhari Mallesh,Raider,10.0,16.0,13.0,3.0,22.0,10.0,1.0,11.0,0.0,59.09,21.42,14.0,3.0,11.0,0.0,4.0,0.0,0.0,0.0
+ Season 2,Jaipur Pink Panthers,Gangadhari Mallesh,Raider,10.0,11.0,3.0,8.0,12.0,2.0,6.0,4.0,0.0,25.0,57.14,14.0,6.0,8.0,2.0,4.0,0.0,0.0,0.0
+ Season 3,Jaipur Pink Panthers,Gangadhari Mallesh,Raider,10.0,10.0,1.0,9.0,22.0,1.0,4.0,17.0,0.0,4.54,47.36,19.0,8.0,11.0,1.0,3.0,0.0,0.0,0.0
+ Season 6,Jaipur Pink Panthers,Gangadhari Mallesh,Raider,6.0,4.0,2.0,2.0,10.0,1.0,4.0,5.0,0.0,20.0,28.57,7.0,1.0,6.0,1.0,3.0,0.0,0.0,0.0
+ Overall,Jaipur Pink Panthers,Gangadhari Mallesh,Raider,36.0,41.0,19.0,22.0,66.0,14.0,15.0,37.0,0.0,28.78,40.74,54.0,18.0,36.0,4.0,4.0,0.0,0.0,0.0
+ Season 1,Gujarat Fortunegiants,Gurvinder Singh,Raider,7.0,13.0,9.0,4.0,18.0,6.0,7.0,5.0,0.0,50.0,30.76,13.0,3.0,10.0,1.0,5.0,0.0,0.0,0.0
+ Season 2,Gujarat Fortunegiants,Gurvinder Singh,Raider,16.0,49.0,44.0,5.0,134.0,34.0,32.0,68.0,1.0,32.83,22.72,22.0,5.0,17.0,0.0,11.0,0.0,0.0,0.0
+ Season 3,Gujarat Fortunegiants,Gurvinder Singh,Raider,5.0,6.0,4.0,2.0,12.0,2.0,2.0,8.0,0.0,33.33,40.0,5.0,2.0,3.0,0.0,4.0,0.0,0.0,0.0
+ Season 4,Gujarat Fortunegiants,Gurvinder Singh,Raider,6.0,4.0,4.0,0.0,17.0,4.0,4.0,9.0,0.0,23.52,0.0,5.0,0.0,5.0,0.0,1.0,0.0,0.0,0.0
+ Season 5,Gujarat Fortunegiants,Gurvinder Singh,Raider,9.0,24.0,17.0,7.0,37.0,10.0,8.0,19.0,1.0,45.94,35.0,20.0,7.0,13.0,0.0,7.0,0.0,0.0,0.0
+ Season 7,Gujarat Fortunegiants,Gurvinder Singh,Raider,2.0,4.0,4.0,0.0,7.0,3.0,4.0,0.0,0.0,57.14,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0
+ Season 6,Gujarat Fortunegiants,Gurvinder Singh,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Gujarat Fortunegiants,Gurvinder Singh,Raider,45.0,100.0,82.0,18.0,225.0,59.0,57.0,109.0,2.0,36.44,27.69,65.0,17.0,48.0,1.0,11.0,0.0,0.0,0.0
+ Season 1,Bengaluru Bulls,Jasmer Singh Gulia,All Rounder,14.0,45.0,7.0,38.0,20.0,7.0,5.0,8.0,0.0,35.0,45.23,84.0,36.0,48.0,2.0,5.0,1.0,0.0,0.0
+ Season 2,Bengaluru Bulls,Jasmer Singh Gulia,All Rounder,3.0,2.0,0.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,13.33,15.0,2.0,13.0,0.0,1.0,0.0,0.0,0.0
+ Season 3,Bengaluru Bulls,Jasmer Singh Gulia,All Rounder,16.0,46.0,0.0,46.0,2.0,0.0,0.0,2.0,0.0,0.0,60.52,76.0,41.0,35.0,5.0,6.0,1.0,0.0,0.0
+ Season 4,Bengaluru Bulls,Jasmer Singh Gulia,All Rounder,13.0,19.0,0.0,19.0,6.0,0.0,1.0,5.0,0.0,0.0,42.22,45.0,19.0,26.0,0.0,5.0,0.0,0.0,0.0
+ Season 6,Bengaluru Bulls,Jasmer Singh Gulia,All Rounder,6.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,20.0,4.0,16.0,0.0,2.0,1.0,0.0,0.0
+ Overall,Bengaluru Bulls,Jasmer Singh Gulia,All Rounder,52.0,116.0,7.0,109.0,29.0,7.0,6.0,16.0,0.0,24.13,45.41,240.0,102.0,138.0,7.0,6.0,3.0,0.0,0.0
+ Season 1,Tamil Thalaivas,Jasvir Singh,Raider,15.0,113.0,106.0,7.0,221.0,83.0,39.0,99.0,2.0,47.96,38.88,18.0,6.0,12.0,1.0,12.0,1.0,0.0,0.0
+ Season 2,Tamil Thalaivas,Jasvir Singh,Raider,13.0,74.0,64.0,10.0,199.0,52.0,43.0,104.0,0.0,32.16,55.55,18.0,8.0,10.0,2.0,9.0,4.0,0.0,0.0
+ Season 3,Tamil Thalaivas,Jasvir Singh,Raider,4.0,25.0,25.0,0.0,51.0,15.0,10.0,26.0,2.0,49.01,0.0,2.0,0.0,2.0,0.0,11.0,0.0,0.0,0.0
+ Season 4,Tamil Thalaivas,Jasvir Singh,Raider,14.0,88.0,82.0,6.0,224.0,64.0,45.0,115.0,0.0,36.6,42.85,14.0,4.0,10.0,2.0,13.0,5.0,1.0,0.0
+ Season 5,Tamil Thalaivas,Jasvir Singh,Raider,15.0,66.0,61.0,5.0,210.0,49.0,50.0,111.0,3.0,29.04,33.33,15.0,3.0,12.0,2.0,10.0,6.0,1.0,0.0
+ Season 6,Tamil Thalaivas,Jasvir Singh,Raider,16.0,46.0,42.0,4.0,117.0,32.0,29.0,56.0,0.0,35.89,20.0,20.0,4.0,16.0,0.0,8.0,2.0,0.0,0.0
+ Overall,Tamil Thalaivas,Jasvir Singh,Raider,77.0,412.0,380.0,32.0,1022.0,295.0,216.0,511.0,7.0,37.18,36.78,87.0,25.0,62.0,7.0,13.0,18.0,2.0,0.0
+ Season 1,Haryana Steelers,Jeeva Gopal,"Defender, left cover",11.0,6.0,0.0,6.0,2.0,0.0,2.0,0.0,0.0,0.0,19.35,31.0,6.0,25.0,0.0,2.0,0.0,0.0,0.0
+ Season 2,Haryana Steelers,Jeeva Gopal,"Defender, left cover",2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,10.0,1.0,9.0,0.0,1.0,0.0,0.0,0.0
+ Season 4,Haryana Steelers,Jeeva Gopal,"Defender, left cover",5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,Haryana Steelers,Jeeva Gopal,"Defender, left cover",6.0,5.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,27.27,11.0,3.0,8.0,2.0,2.0,0.0,0.0,0.0
+ Overall,Haryana Steelers,Jeeva Gopal,"Defender, left cover",24.0,12.0,0.0,12.0,2.0,0.0,2.0,0.0,0.0,0.0,17.24,58.0,10.0,48.0,2.0,2.0,0.0,0.0,0.0
+ Season 1,Bengal Warriors,Jeeva Kumar,"Defender, right and left cover",9.0,16.0,0.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,51.61,31.0,16.0,15.0,0.0,4.0,0.0,0.0,0.0
+ Season 2,Bengal Warriors,Jeeva Kumar,"Defender, right and left cover",13.0,39.0,1.0,38.0,1.0,1.0,0.0,0.0,0.0,100.0,65.51,58.0,31.0,27.0,7.0,9.0,1.0,0.0,0.0
+ Season 3,Bengal Warriors,Jeeva Kumar,"Defender, right and left cover",16.0,31.0,0.0,31.0,0.0,0.0,0.0,0.0,0.0,0.0,50.0,62.0,30.0,32.0,1.0,4.0,0.0,0.0,0.0
+ Season 4,Bengal Warriors,Jeeva Kumar,"Defender, right and left cover",14.0,26.0,0.0,26.0,0.0,0.0,0.0,0.0,0.0,0.0,41.93,62.0,24.0,38.0,2.0,4.0,0.0,0.0,0.0
+ Season 5,Bengal Warriors,Jeeva Kumar,"Defender, right and left cover",22.0,44.0,0.0,44.0,2.0,0.0,0.0,2.0,0.0,0.0,42.3,104.0,37.0,67.0,7.0,5.0,1.0,0.0,0.0
+ Season 6,Bengal Warriors,Jeeva Kumar,"Defender, right and left cover",19.0,40.0,0.0,40.0,1.0,0.0,0.0,1.0,0.0,0.0,44.44,90.0,36.0,54.0,4.0,5.0,0.0,0.0,0.0
+ Season 7,Bengal Warriors,Jeeva Kumar,"Defender, right and left cover",18.0,31.0,0.0,31.0,0.0,0.0,0.0,0.0,0.0,0.0,38.75,80.0,30.0,50.0,1.0,4.0,0.0,0.0,0.0
+ Overall,Bengal Warriors,Jeeva Kumar,"Defender, right and left cover",111.0,227.0,1.0,226.0,4.0,1.0,0.0,3.0,0.0,25.0,46.4,487.0,204.0,283.0,22.0,9.0,2.0,0.0,0.0
+ Season 1,Bengaluru Bulls,Kashiling Adake,Raider,14.0,122.0,113.0,9.0,202.0,92.0,46.0,64.0,3.0,55.94,36.0,25.0,8.0,17.0,1.0,16.0,1.0,0.0,0.0
+ Season 2,Bengaluru Bulls,Kashiling Adake,Raider,14.0,117.0,114.0,3.0,241.0,87.0,56.0,98.0,7.0,47.3,25.0,12.0,3.0,9.0,0.0,24.0,4.0,0.0,0.0
+ Season 3,Bengaluru Bulls,Kashiling Adake,Raider,11.0,78.0,75.0,3.0,171.0,55.0,40.0,76.0,3.0,43.85,23.07,13.0,3.0,10.0,0.0,12.0,0.0,0.0,0.0
+ Season 4,Bengaluru Bulls,Kashiling Adake,Raider,13.0,89.0,78.0,11.0,189.0,58.0,42.0,89.0,3.0,41.26,61.11,18.0,8.0,10.0,3.0,13.0,1.0,0.0,0.0
+ Season 5,Bengaluru Bulls,Kashiling Adake,Raider,20.0,122.0,114.0,8.0,223.0,81.0,50.0,92.0,4.0,51.12,50.0,16.0,7.0,9.0,1.0,17.0,0.0,0.0,0.0
+ Season 6,Bengaluru Bulls,Kashiling Adake,Raider,20.0,84.0,67.0,17.0,164.0,51.0,30.0,83.0,3.0,40.85,36.95,46.0,15.0,31.0,2.0,12.0,2.0,0.0,0.0
+ Overall,Bengaluru Bulls,Kashiling Adake,Raider,92.0,612.0,561.0,51.0,1190.0,424.0,264.0,502.0,23.0,47.14,39.23,130.0,44.0,86.0,7.0,24.0,8.0,0.0,0.0
+ Season 1,,Kuldeep Singh,,3.0,5.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,35.71,14.0,4.0,10.0,1.0,3.0,0.0,0.0,0.0
+ Season 3,,Kuldeep Singh,,1.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,75.0,4.0,3.0,1.0,0.0,3.0,0.0,0.0,0.0
+ Season 5,,Kuldeep Singh,,16.0,32.0,0.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,47.05,68.0,30.0,38.0,2.0,5.0,0.0,0.0,0.0
+ Overall,,Kuldeep Singh,,20.0,40.0,0.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,46.51,86.0,37.0,49.0,3.0,5.0,0.0,0.0,0.0
+ Season 1,Bengal Warriors,Mahesh Goud,Raider,13.0,59.0,51.0,8.0,109.0,40.0,28.0,41.0,1.0,46.78,44.44,18.0,8.0,10.0,0.0,11.0,0.0,0.0,0.0
+ Season 2,Bengal Warriors,Mahesh Goud,Raider,1.0,3.0,3.0,0.0,6.0,3.0,0.0,3.0,0.0,50.0,0.0,1.0,0.0,1.0,0.0,3.0,0.0,0.0,0.0
+ Season 3,Bengal Warriors,Mahesh Goud,Raider,13.0,34.0,33.0,1.0,134.0,30.0,28.0,76.0,0.0,24.62,7.69,13.0,1.0,12.0,0.0,5.0,0.0,0.0,0.0
+ Season 4,Bengal Warriors,Mahesh Goud,Raider,7.0,5.0,5.0,0.0,23.0,4.0,10.0,9.0,0.0,21.73,0.0,2.0,0.0,2.0,0.0,3.0,0.0,0.0,0.0
+ Season 5,Bengal Warriors,Mahesh Goud,Raider,21.0,42.0,35.0,7.0,90.0,30.0,26.0,34.0,0.0,38.88,28.0,25.0,4.0,21.0,3.0,6.0,1.0,0.0,0.0
+ Season 6,Bengal Warriors,Mahesh Goud,Raider,10.0,46.0,38.0,8.0,92.0,26.0,23.0,43.0,3.0,41.3,47.05,17.0,8.0,9.0,0.0,9.0,1.0,0.0,0.0
+ Overall,Bengal Warriors,Mahesh Goud,Raider,65.0,189.0,165.0,24.0,454.0,133.0,115.0,206.0,4.0,36.34,31.57,76.0,21.0,55.0,3.0,11.0,2.0,0.0,0.0
+ Season 1,Gujarat Fortunegiants,Mahipal Narwal,All Rounder,5.0,31.0,24.0,7.0,61.0,16.0,14.0,31.0,2.0,26.22,53.84,13.0,7.0,6.0,0.0,10.0,0.0,0.0,0.0
+ Season 2,Gujarat Fortunegiants,Mahipal Narwal,All Rounder,9.0,21.0,15.0,6.0,67.0,13.0,22.0,32.0,0.0,19.4,46.15,13.0,6.0,7.0,0.0,4.0,0.0,0.0,0.0
+ Season 3,Gujarat Fortunegiants,Mahipal Narwal,All Rounder,4.0,13.0,5.0,8.0,11.0,3.0,3.0,5.0,0.0,27.27,66.66,12.0,8.0,4.0,0.0,6.0,0.0,0.0,0.0
+ Season 4,Gujarat Fortunegiants,Mahipal Narwal,All Rounder,14.0,22.0,13.0,9.0,28.0,8.0,7.0,13.0,1.0,28.57,30.43,23.0,7.0,16.0,2.0,6.0,0.0,0.0,0.0
+ Season 5,Gujarat Fortunegiants,Mahipal Narwal,All Rounder,2.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Gujarat Fortunegiants,Mahipal Narwal,All Rounder,34.0,87.0,57.0,30.0,168.0,40.0,46.0,82.0,3.0,23.8,43.75,64.0,28.0,36.0,2.0,10.0,0.0,0.0,0.0
+ Season 1,Tamil Thalaivas,Manjeet Chhillar,All Rounder,16.0,122.0,71.0,51.0,177.0,53.0,50.0,74.0,2.0,40.11,60.71,84.0,51.0,33.0,0.0,14.0,3.0,0.0,0.0
+ Season 2,Tamil Thalaivas,Manjeet Chhillar,All Rounder,16.0,107.0,67.0,40.0,217.0,60.0,32.0,125.0,0.0,30.87,51.28,78.0,39.0,39.0,1.0,11.0,8.0,0.0,0.0
+ Season 3,Tamil Thalaivas,Manjeet Chhillar,All Rounder,15.0,106.0,45.0,61.0,171.0,37.0,14.0,120.0,2.0,26.31,61.61,99.0,56.0,43.0,5.0,13.0,1.0,2.0,0.0
+ Season 4,Tamil Thalaivas,Manjeet Chhillar,All Rounder,12.0,68.0,24.0,44.0,77.0,20.0,19.0,38.0,1.0,31.16,60.27,73.0,43.0,30.0,1.0,11.0,4.0,0.0,0.0
+ Season 5,Tamil Thalaivas,Manjeet Chhillar,All Rounder,15.0,52.0,5.0,47.0,29.0,4.0,9.0,16.0,0.0,17.24,55.29,85.0,46.0,39.0,1.0,9.0,5.0,0.0,0.0
+ Season 6,Tamil Thalaivas,Manjeet Chhillar,All Rounder,19.0,67.0,8.0,59.0,29.0,5.0,6.0,18.0,0.0,27.58,48.76,121.0,54.0,67.0,5.0,8.0,6.0,2.0,0.0
+ Season 7,Tamil Thalaivas,Manjeet Chhillar,All Rounder,15.0,41.0,4.0,37.0,19.0,0.0,6.0,13.0,0.0,21.05,45.67,81.0,35.0,46.0,2.0,6.0,1.0,0.0,0.0
+ Overall,Tamil Thalaivas,Manjeet Chhillar,All Rounder,108.0,563.0,224.0,339.0,719.0,179.0,136.0,404.0,5.0,31.15,54.58,621.0,324.0,297.0,15.0,14.0,28.0,4.0,0.0
+ Season 1,Gujarat Fortunegiants,Manoj Kumar,"Defender, left cover",14.0,42.0,22.0,20.0,42.0,14.0,12.0,16.0,2.0,33.33,26.98,63.0,17.0,46.0,3.0,10.0,1.0,0.0,0.0
+ Season 2,Gujarat Fortunegiants,Manoj Kumar,"Defender, left cover",14.0,20.0,3.0,17.0,25.0,2.0,2.0,21.0,0.0,8.0,26.53,49.0,13.0,36.0,4.0,7.0,2.0,0.0,0.0
+ Season 3,Gujarat Fortunegiants,Manoj Kumar,"Defender, left cover",11.0,17.0,0.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,26.53,49.0,13.0,36.0,4.0,5.0,0.0,0.0,0.0
+ Season 4,Gujarat Fortunegiants,Manoj Kumar,"Defender, left cover",8.0,4.0,0.0,4.0,4.0,0.0,0.0,4.0,0.0,0.0,19.04,21.0,4.0,17.0,0.0,2.0,0.0,0.0,0.0
+ Season 5,Gujarat Fortunegiants,Manoj Kumar,"Defender, left cover",5.0,1.0,0.0,1.0,2.0,0.0,0.0,2.0,0.0,0.0,20.0,5.0,1.0,4.0,0.0,1.0,0.0,0.0,0.0
+ Overall,Gujarat Fortunegiants,Manoj Kumar,"Defender, left cover",52.0,84.0,25.0,59.0,73.0,16.0,14.0,43.0,2.0,21.91,25.66,187.0,48.0,139.0,11.0,10.0,3.0,0.0,0.0
+ Season 1,Tamil Thalaivas,Mohit Chhillar,"Defender, right corner",16.0,36.0,1.0,35.0,1.0,1.0,0.0,0.0,0.0,100.0,39.32,89.0,30.0,59.0,5.0,8.0,0.0,0.0,0.0
+ Season 2,Tamil Thalaivas,Mohit Chhillar,"Defender, right corner",14.0,42.0,0.0,42.0,5.0,0.0,0.0,5.0,0.0,0.0,58.33,72.0,39.0,33.0,3.0,5.0,4.0,0.0,0.0
+ Season 3,Tamil Thalaivas,Mohit Chhillar,"Defender, right corner",13.0,46.0,0.0,46.0,3.0,0.0,0.0,3.0,0.0,0.0,62.16,74.0,44.0,30.0,2.0,6.0,1.0,1.0,0.0
+ Season 4,Tamil Thalaivas,Mohit Chhillar,"Defender, right corner",14.0,50.0,3.0,47.0,8.0,1.0,1.0,6.0,0.0,37.5,54.02,87.0,44.0,43.0,3.0,8.0,1.0,0.0,0.0
+ Season 5,Tamil Thalaivas,Mohit Chhillar,"Defender, right corner",20.0,42.0,3.0,39.0,9.0,1.0,1.0,7.0,0.0,33.33,46.98,83.0,35.0,48.0,4.0,7.0,1.0,0.0,0.0
+ Season 6,Tamil Thalaivas,Mohit Chhillar,"Defender, right corner",14.0,31.0,0.0,31.0,4.0,0.0,1.0,3.0,0.0,0.0,44.92,69.0,28.0,41.0,3.0,4.0,1.0,0.0,0.0
+ Season 7,Tamil Thalaivas,Mohit Chhillar,"Defender, right corner",17.0,37.0,0.0,37.0,2.0,0.0,0.0,2.0,0.0,0.0,47.43,78.0,34.0,44.0,3.0,5.0,3.0,0.0,0.0
+ Overall,Tamil Thalaivas,Mohit Chhillar,"Defender, right corner",108.0,284.0,7.0,277.0,32.0,3.0,3.0,26.0,0.0,21.87,50.18,552.0,254.0,298.0,23.0,8.0,11.0,1.0,0.0
+ Season 1,Jaipur Pink Panthers,Navneet Gautam,"Defender, left corner",14.0,17.0,0.0,17.0,2.0,0.0,0.0,2.0,0.0,0.0,32.0,50.0,16.0,34.0,1.0,6.0,0.0,0.0,0.0
+ Season 2,Jaipur Pink Panthers,Navneet Gautam,"Defender, left corner",7.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,10.0,1.0,9.0,0.0,1.0,0.0,0.0,0.0
+ Season 3,Jaipur Pink Panthers,Navneet Gautam,"Defender, left corner",7.0,4.0,1.0,3.0,2.0,0.0,1.0,1.0,0.0,0.0,18.75,16.0,3.0,13.0,0.0,2.0,0.0,0.0,0.0
+ Season 5,Jaipur Pink Panthers,Navneet Gautam,"Defender, left corner",3.0,0.0,0.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,7.0,0.0,7.0,0.0,0.0,3.0,0.0,0.0
+ Overall,Jaipur Pink Panthers,Navneet Gautam,"Defender, left corner",31.0,22.0,1.0,21.0,6.0,0.0,1.0,5.0,0.0,0.0,24.09,83.0,20.0,63.0,1.0,6.0,3.0,0.0,0.0
+ Season 1,Dabang Delhi K.C.,Nilesh Shinde,"Defender, right corner",14.0,35.0,7.0,28.0,8.0,5.0,2.0,1.0,0.0,62.5,34.24,73.0,25.0,48.0,3.0,7.0,0.0,0.0,0.0
+ Season 2,Dabang Delhi K.C.,Nilesh Shinde,"Defender, right corner",12.0,30.0,3.0,27.0,21.0,1.0,5.0,15.0,0.0,4.76,51.21,41.0,21.0,20.0,6.0,7.0,2.0,0.0,0.0
+ Season 3,Dabang Delhi K.C.,Nilesh Shinde,"Defender, right corner",16.0,36.0,2.0,34.0,17.0,2.0,1.0,14.0,0.0,11.76,47.61,63.0,30.0,33.0,4.0,7.0,3.0,0.0,0.0
+ Season 4,Dabang Delhi K.C.,Nilesh Shinde,"Defender, right corner",12.0,28.0,2.0,26.0,15.0,1.0,3.0,11.0,0.0,6.66,50.0,52.0,26.0,26.0,0.0,5.0,1.0,0.0,0.0
+ Season 5,Dabang Delhi K.C.,Nilesh Shinde,"Defender, right corner",15.0,24.0,4.0,20.0,14.0,2.0,2.0,10.0,0.0,14.28,32.75,58.0,19.0,39.0,1.0,5.0,1.0,0.0,0.0
+ Overall,Dabang Delhi K.C.,Nilesh Shinde,"Defender, right corner",69.0,153.0,18.0,135.0,75.0,11.0,13.0,51.0,0.0,14.66,42.16,287.0,121.0,166.0,14.0,7.0,7.0,0.0,0.0
+ Season 6,Bengaluru Bulls,Nithesh B R,"Defender, right corner",2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,33.33,3.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0
+ Overall,Bengaluru Bulls,Nithesh B R,"Defender, right corner",2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,33.33,3.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0
+ Season 1,U Mumba,Nitin Madane,Raider,12.0,107.0,101.0,6.0,181.0,78.0,37.0,66.0,3.0,55.8,27.27,22.0,4.0,18.0,2.0,20.0,1.0,0.0,0.0
+ Season 4,U Mumba,Nitin Madane,Raider,13.0,53.0,51.0,2.0,153.0,43.0,19.0,91.0,1.0,33.33,14.28,14.0,1.0,13.0,1.0,12.0,0.0,0.0,0.0
+ Season 5,U Mumba,Nitin Madane,Raider,12.0,13.0,13.0,0.0,51.0,11.0,16.0,24.0,0.0,25.49,0.0,6.0,0.0,6.0,0.0,3.0,0.0,0.0,0.0
+ Overall,U Mumba,Nitin Madane,Raider,37.0,173.0,165.0,8.0,385.0,132.0,72.0,181.0,4.0,42.85,19.04,42.0,5.0,37.0,3.0,20.0,1.0,0.0,0.0
+ Season 1,Tamil Thalaivas,Rahul Chaudhari,Raider,14.0,161.0,151.0,10.0,241.0,122.0,43.0,76.0,2.0,62.65,32.25,31.0,9.0,22.0,1.0,23.0,2.0,0.0,0.0
+ Season 2,Tamil Thalaivas,Rahul Chaudhari,Raider,14.0,107.0,98.0,9.0,183.0,75.0,31.0,77.0,6.0,53.55,26.47,34.0,9.0,25.0,0.0,14.0,3.0,0.0,0.0
+ Season 3,Tamil Thalaivas,Rahul Chaudhari,Raider,13.0,99.0,87.0,12.0,208.0,77.0,42.0,89.0,1.0,41.82,41.37,29.0,10.0,19.0,2.0,17.0,1.0,1.0,0.0
+ Season 4,Tamil Thalaivas,Rahul Chaudhari,Raider,16.0,150.0,146.0,4.0,325.0,110.0,45.0,170.0,6.0,44.92,36.36,11.0,3.0,8.0,1.0,18.0,0.0,0.0,0.0
+ Season 5,Tamil Thalaivas,Rahul Chaudhari,Raider,22.0,193.0,184.0,9.0,412.0,159.0,78.0,175.0,5.0,44.66,27.27,33.0,9.0,24.0,0.0,17.0,1.0,0.0,0.0
+ Season 6,Tamil Thalaivas,Rahul Chaudhari,Raider,21.0,166.0,159.0,7.0,350.0,136.0,87.0,127.0,4.0,45.42,36.84,19.0,6.0,13.0,1.0,18.0,2.0,0.0,0.0
+ Season 7,Tamil Thalaivas,Rahul Chaudhari,Raider,18.0,120.0,113.0,7.0,258.0,92.0,69.0,97.0,0.0,43.79,26.92,26.0,7.0,19.0,0.0,14.0,1.0,0.0,0.0
+ Overall,Tamil Thalaivas,Rahul Chaudhari,Raider,118.0,996.0,938.0,58.0,1977.0,771.0,395.0,811.0,24.0,47.44,31.69,183.0,53.0,130.0,5.0,23.0,10.0,1.0,0.0
+ Season 1,U Mumba,Rajaguru Subramanian,"Defender, right cover",14.0,19.0,0.0,19.0,0.0,0.0,0.0,0.0,0.0,0.0,34.54,55.0,18.0,37.0,1.0,4.0,4.0,0.0,0.0
+ Season 2,U Mumba,Rajaguru Subramanian,"Defender, right cover",12.0,18.0,1.0,17.0,2.0,0.0,1.0,1.0,0.0,50.0,40.47,42.0,15.0,27.0,2.0,3.0,2.0,0.0,0.0
+ Season 3,U Mumba,Rajaguru Subramanian,"Defender, right cover",7.0,6.0,0.0,6.0,3.0,0.0,0.0,3.0,0.0,0.0,27.27,22.0,6.0,16.0,0.0,2.0,2.0,0.0,0.0
+ Season 6,U Mumba,Rajaguru Subramanian,"Defender, right cover",8.0,10.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,47.61,21.0,10.0,11.0,0.0,2.0,1.0,0.0,0.0
+ Season 7,U Mumba,Rajaguru Subramanian,"Defender, right cover",5.0,2.0,0.0,2.0,2.0,0.0,0.0,2.0,0.0,0.0,33.33,6.0,2.0,4.0,0.0,2.0,0.0,0.0,0.0
+ Overall,U Mumba,Rajaguru Subramanian,"Defender, right cover",46.0,55.0,1.0,54.0,7.0,0.0,1.0,6.0,0.0,14.28,36.98,146.0,51.0,95.0,3.0,4.0,9.0,0.0,0.0
+ Season 1,Puneri Paltan,Rajesh Mondal,Raider,15.0,44.0,39.0,5.0,98.0,32.0,30.0,36.0,2.0,39.79,38.46,13.0,4.0,9.0,1.0,9.0,0.0,0.0,0.0
+ Season 2,Puneri Paltan,Rajesh Mondal,Raider,15.0,34.0,33.0,1.0,114.0,27.0,31.0,56.0,1.0,28.94,7.69,13.0,1.0,12.0,0.0,6.0,2.0,0.0,0.0
+ Season 3,Puneri Paltan,Rajesh Mondal,Raider,9.0,28.0,27.0,1.0,66.0,18.0,17.0,31.0,2.0,40.9,33.33,3.0,1.0,2.0,0.0,8.0,0.0,0.0,0.0
+ Season 4,Puneri Paltan,Rajesh Mondal,Raider,15.0,59.0,57.0,2.0,162.0,47.0,33.0,82.0,1.0,35.18,12.5,16.0,2.0,14.0,0.0,9.0,0.0,0.0,0.0
+ Season 5,Puneri Paltan,Rajesh Mondal,Raider,24.0,91.0,90.0,1.0,269.0,75.0,70.0,124.0,1.0,33.45,12.5,8.0,1.0,7.0,0.0,10.0,0.0,0.0,0.0
+ Season 6,Puneri Paltan,Rajesh Mondal,Raider,11.0,14.0,14.0,0.0,75.0,13.0,22.0,40.0,0.0,18.66,0.0,3.0,0.0,3.0,0.0,7.0,0.0,0.0,0.0
+ Overall,Puneri Paltan,Rajesh Mondal,Raider,89.0,270.0,260.0,10.0,784.0,212.0,203.0,369.0,7.0,33.16,17.85,56.0,9.0,47.0,1.0,10.0,2.0,0.0,0.0
+ Season 1,Dabang Delhi K.C.,Rajesh Narwal,All Rounder,16.0,98.0,72.0,26.0,145.0,59.0,27.0,59.0,3.0,49.65,50.98,51.0,25.0,26.0,1.0,12.0,2.0,0.0,0.0
+ Season 2,Dabang Delhi K.C.,Rajesh Narwal,All Rounder,14.0,87.0,69.0,18.0,142.0,54.0,32.0,56.0,3.0,48.59,47.36,38.0,16.0,22.0,2.0,19.0,3.0,0.0,0.0
+ Season 3,Dabang Delhi K.C.,Rajesh Narwal,All Rounder,14.0,80.0,59.0,21.0,198.0,47.0,40.0,111.0,2.0,29.79,53.84,39.0,18.0,21.0,3.0,11.0,1.0,0.0,0.0
+ Season 4,Dabang Delhi K.C.,Rajesh Narwal,All Rounder,16.0,85.0,66.0,19.0,147.0,52.0,29.0,66.0,3.0,44.89,35.84,53.0,18.0,35.0,1.0,16.0,2.0,0.0,0.0
+ Season 5,Dabang Delhi K.C.,Rajesh Narwal,All Rounder,16.0,27.0,11.0,16.0,80.0,7.0,12.0,61.0,1.0,13.75,27.58,58.0,15.0,43.0,1.0,5.0,5.0,1.0,0.0
+ Season 6,Dabang Delhi K.C.,Rajesh Narwal,All Rounder,16.0,20.0,7.0,13.0,20.0,5.0,4.0,11.0,0.0,35.0,26.0,50.0,13.0,37.0,0.0,5.0,0.0,0.0,0.0
+ Overall,Dabang Delhi K.C.,Rajesh Narwal,All Rounder,92.0,397.0,284.0,113.0,732.0,224.0,144.0,364.0,12.0,38.79,39.1,289.0,105.0,184.0,8.0,19.0,13.0,1.0,0.0
+ Season 1,Bengaluru Bulls,Raju Lal Choudhary,"Defender, right corner",5.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,16.66,12.0,2.0,10.0,0.0,2.0,0.0,0.0,0.0
+ Season 3,Bengaluru Bulls,Raju Lal Choudhary,"Defender, right corner",1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,33.33,3.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0
+ Season 6,Bengaluru Bulls,Raju Lal Choudhary,"Defender, right corner",16.0,20.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,36.36,55.0,20.0,35.0,0.0,3.0,1.0,0.0,0.0
+ Season 7,Bengaluru Bulls,Raju Lal Choudhary,"Defender, right corner",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 2,Bengaluru Bulls,Raju Lal Choudhary,"Defender, right corner",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,Bengaluru Bulls,Raju Lal Choudhary,"Defender, right corner",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Bengaluru Bulls,Raju Lal Choudhary,"Defender, right corner",23.0,23.0,0.0,23.0,0.0,0.0,0.0,0.0,0.0,0.0,32.85,70.0,23.0,47.0,0.0,3.0,1.0,0.0,0.0
+ Season 1,Telugu Titans,Rakesh Kumar,All Rounder,12.0,99.0,88.0,11.0,168.0,76.0,27.0,65.0,0.0,52.38,34.37,32.0,11.0,21.0,0.0,16.0,1.0,0.0,0.0
+ Season 2,Telugu Titans,Rakesh Kumar,All Rounder,4.0,17.0,14.0,3.0,55.0,12.0,9.0,34.0,0.0,25.45,50.0,6.0,3.0,3.0,0.0,8.0,0.0,0.0,0.0
+ Season 3,Telugu Titans,Rakesh Kumar,All Rounder,15.0,51.0,33.0,18.0,134.0,29.0,20.0,85.0,0.0,24.62,54.54,33.0,16.0,17.0,2.0,7.0,3.0,0.0,0.0
+ Season 4,Telugu Titans,Rakesh Kumar,All Rounder,14.0,70.0,44.0,26.0,93.0,40.0,12.0,41.0,1.0,47.31,55.31,47.0,23.0,24.0,3.0,12.0,1.0,0.0,0.0
+ Season 5,Telugu Titans,Rakesh Kumar,All Rounder,10.0,23.0,7.0,16.0,43.0,7.0,3.0,33.0,0.0,16.27,48.48,33.0,15.0,18.0,1.0,6.0,2.0,0.0,0.0
+ Season 6,Telugu Titans,Rakesh Kumar,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Telugu Titans,Rakesh Kumar,All Rounder,55.0,260.0,186.0,74.0,493.0,164.0,71.0,258.0,1.0,37.72,49.0,151.0,68.0,83.0,6.0,16.0,7.0,0.0,0.0
+ Season 1,Dabang Delhi K.C.,Ravi Dalal,Raider,16.0,111.0,111.0,0.0,229.0,87.0,50.0,91.0,4.0,37.99,0.0,15.0,0.0,15.0,0.0,15.0,0.0,0.0,0.0
+ Season 2,Dabang Delhi K.C.,Ravi Dalal,Raider,11.0,47.0,44.0,3.0,129.0,38.0,26.0,65.0,1.0,29.45,25.0,12.0,3.0,9.0,0.0,10.0,1.0,0.0,0.0
+ Season 4,Dabang Delhi K.C.,Ravi Dalal,Raider,6.0,13.0,13.0,0.0,48.0,8.0,10.0,30.0,1.0,16.66,0.0,3.0,0.0,3.0,0.0,6.0,0.0,0.0,0.0
+ Season 5,Dabang Delhi K.C.,Ravi Dalal,Raider,5.0,8.0,5.0,3.0,28.0,3.0,4.0,21.0,0.0,10.71,42.85,7.0,3.0,4.0,0.0,5.0,0.0,0.0,0.0
+ Overall,Dabang Delhi K.C.,Ravi Dalal,Raider,38.0,179.0,173.0,6.0,434.0,136.0,90.0,207.0,6.0,31.33,16.21,37.0,6.0,31.0,0.0,15.0,1.0,0.0,0.0
+ Season 1,U.P. Yoddha,Rishank Devadiga,Raider,16.0,77.0,64.0,13.0,122.0,45.0,42.0,35.0,2.0,52.45,38.23,34.0,13.0,21.0,0.0,9.0,0.0,0.0,0.0
+ Season 2,U.P. Yoddha,Rishank Devadiga,Raider,13.0,58.0,44.0,14.0,120.0,36.0,39.0,45.0,0.0,36.66,53.84,26.0,14.0,12.0,0.0,8.0,2.0,0.0,0.0
+ Season 3,U.P. Yoddha,Rishank Devadiga,Raider,16.0,115.0,106.0,9.0,184.0,86.0,47.0,51.0,4.0,57.6,40.9,22.0,8.0,14.0,1.0,14.0,0.0,1.0,0.0
+ Season 4,U.P. Yoddha,Rishank Devadiga,Raider,14.0,70.0,70.0,0.0,141.0,57.0,42.0,42.0,2.0,49.64,0.0,17.0,0.0,17.0,0.0,11.0,0.0,0.0,0.0
+ Season 5,U.P. Yoddha,Rishank Devadiga,Raider,21.0,170.0,165.0,5.0,305.0,126.0,74.0,105.0,12.0,54.09,31.25,16.0,4.0,12.0,1.0,28.0,5.0,0.0,0.0
+ Season 6,U.P. Yoddha,Rishank Devadiga,Raider,23.0,104.0,100.0,4.0,262.0,82.0,53.0,127.0,3.0,38.16,21.05,19.0,4.0,15.0,0.0,10.0,4.0,0.0,0.0
+ Season 7,U.P. Yoddha,Rishank Devadiga,Raider,13.0,46.0,45.0,1.0,122.0,34.0,20.0,68.0,2.0,36.88,12.5,8.0,1.0,7.0,0.0,9.0,1.0,0.0,0.0
+ Overall,U.P. Yoddha,Rishank Devadiga,Raider,116.0,640.0,594.0,46.0,1256.0,466.0,317.0,473.0,25.0,47.29,32.39,142.0,44.0,98.0,2.0,28.0,12.0,1.0,0.0
+ Season 1,U Mumba,Rohit Rana,"Defender, left cover",15.0,38.0,0.0,38.0,1.0,0.0,0.0,1.0,0.0,0.0,48.1,79.0,37.0,42.0,1.0,6.0,0.0,0.0,0.0
+ Season 2,U Mumba,Rohit Rana,"Defender, left cover",10.0,17.0,1.0,16.0,2.0,1.0,0.0,1.0,0.0,50.0,39.02,41.0,16.0,25.0,0.0,5.0,0.0,0.0,0.0
+ Season 3,U Mumba,Rohit Rana,"Defender, left cover",12.0,18.0,1.0,17.0,12.0,0.0,5.0,7.0,0.0,8.33,40.47,42.0,14.0,28.0,3.0,9.0,0.0,1.0,0.0
+ Season 4,U Mumba,Rohit Rana,"Defender, left cover",5.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,12.0,3.0,9.0,0.0,1.0,0.0,0.0,0.0
+ Season 5,U Mumba,Rohit Rana,"Defender, left cover",21.0,24.0,0.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,27.9,86.0,24.0,62.0,0.0,3.0,1.0,0.0,0.0
+ Season 6,U Mumba,Rohit Rana,"Defender, left cover",19.0,38.0,0.0,38.0,0.0,0.0,0.0,0.0,0.0,0.0,41.75,91.0,37.0,54.0,1.0,6.0,2.0,0.0,0.0
+ Overall,U Mumba,Rohit Rana,"Defender, left cover",82.0,138.0,2.0,136.0,15.0,1.0,5.0,9.0,0.0,13.33,38.74,351.0,131.0,220.0,5.0,9.0,3.0,1.0,0.0
+ Season 1,Dabang Delhi K.C.,Rupesh Tomar,All Rounder,5.0,5.0,1.0,4.0,1.0,1.0,0.0,0.0,0.0,100.0,18.75,16.0,3.0,13.0,1.0,2.0,0.0,0.0,0.0
+ Season 2,Dabang Delhi K.C.,Rupesh Tomar,All Rounder,6.0,10.0,4.0,6.0,5.0,3.0,1.0,1.0,0.0,60.0,22.22,18.0,4.0,14.0,2.0,4.0,0.0,0.0,0.0
+ Season 4,Dabang Delhi K.C.,Rupesh Tomar,All Rounder,3.0,3.0,0.0,3.0,4.0,0.0,3.0,1.0,0.0,0.0,50.0,6.0,3.0,3.0,0.0,3.0,0.0,0.0,0.0
+ Season 5,Dabang Delhi K.C.,Rupesh Tomar,All Rounder,1.0,1.0,0.0,1.0,7.0,0.0,0.0,7.0,0.0,0.0,50.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0
+ Overall,Dabang Delhi K.C.,Rupesh Tomar,All Rounder,15.0,19.0,5.0,14.0,17.0,4.0,4.0,9.0,0.0,23.52,26.19,42.0,11.0,31.0,3.0,4.0,0.0,0.0,0.0
+ Season 5,U.P. Yoddha,Santhosh B.S,"Defender, left corner",9.0,12.0,3.0,9.0,18.0,1.0,6.0,11.0,1.0,5.55,36.36,22.0,8.0,14.0,1.0,3.0,1.0,0.0,0.0
+ Overall,U.P. Yoddha,Santhosh B.S,"Defender, left corner",9.0,12.0,3.0,9.0,18.0,1.0,6.0,11.0,1.0,5.55,36.36,22.0,8.0,14.0,1.0,3.0,1.0,0.0,0.0
+ Season 1,Tamil Thalaivas,Shabeer Bappu,Raider,10.0,67.0,66.0,1.0,119.0,51.0,12.0,56.0,2.0,55.46,7.69,13.0,1.0,12.0,0.0,15.0,0.0,0.0,0.0
+ Season 2,Tamil Thalaivas,Shabeer Bappu,Raider,10.0,47.0,46.0,1.0,124.0,36.0,25.0,63.0,2.0,37.09,16.66,6.0,1.0,5.0,0.0,10.0,1.0,0.0,0.0
+ Season 3,Tamil Thalaivas,Shabeer Bappu,Raider,10.0,13.0,13.0,0.0,67.0,11.0,19.0,37.0,0.0,19.4,0.0,4.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0
+ Season 4,Tamil Thalaivas,Shabeer Bappu,Raider,12.0,35.0,24.0,11.0,100.0,18.0,10.0,72.0,1.0,24.0,57.89,19.0,6.0,13.0,5.0,10.0,0.0,0.0,0.0
+ Season 5,Tamil Thalaivas,Shabeer Bappu,Raider,12.0,38.0,35.0,3.0,108.0,30.0,21.0,57.0,0.0,32.4,21.42,14.0,2.0,12.0,1.0,13.0,0.0,1.0,0.0
+ Season 6,Tamil Thalaivas,Shabeer Bappu,Raider,6.0,7.0,7.0,0.0,26.0,6.0,9.0,11.0,0.0,26.92,0.0,7.0,0.0,7.0,0.0,5.0,0.0,0.0,0.0
+ Season 7,Tamil Thalaivas,Shabeer Bappu,Raider,14.0,29.0,22.0,7.0,93.0,17.0,12.0,64.0,0.0,23.65,31.81,22.0,6.0,16.0,1.0,5.0,0.0,0.0,0.0
+ Overall,Tamil Thalaivas,Shabeer Bappu,Raider,74.0,236.0,213.0,23.0,637.0,169.0,108.0,360.0,5.0,33.43,27.05,85.0,16.0,69.0,7.0,15.0,1.0,1.0,0.0
+ Season 3,U.P. Yoddha,Shrikant Jadhav,Raider,5.0,10.0,10.0,0.0,35.0,9.0,15.0,11.0,0.0,28.57,0.0,1.0,0.0,1.0,0.0,7.0,0.0,0.0,0.0
+ Season 4,U.P. Yoddha,Shrikant Jadhav,Raider,5.0,7.0,7.0,0.0,16.0,6.0,5.0,5.0,0.0,43.75,0.0,3.0,0.0,3.0,0.0,5.0,0.0,0.0,0.0
+ Season 5,U.P. Yoddha,Shrikant Jadhav,Raider,19.0,98.0,86.0,12.0,170.0,70.0,43.0,57.0,2.0,50.58,54.54,22.0,10.0,12.0,2.0,13.0,1.0,0.0,0.0
+ Season 6,U.P. Yoddha,Shrikant Jadhav,Raider,25.0,146.0,141.0,5.0,332.0,108.0,98.0,126.0,4.0,42.46,45.45,11.0,4.0,7.0,1.0,17.0,0.0,0.0,0.0
+ Season 7,U.P. Yoddha,Shrikant Jadhav,Raider,17.0,106.0,103.0,3.0,222.0,76.0,51.0,95.0,2.0,46.39,37.5,8.0,3.0,5.0,0.0,15.0,0.0,0.0,0.0
+ Season 2,U.P. Yoddha,Shrikant Jadhav,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,U.P. Yoddha,Shrikant Jadhav,Raider,71.0,367.0,347.0,20.0,775.0,269.0,212.0,294.0,8.0,44.77,44.44,45.0,17.0,28.0,3.0,17.0,1.0,0.0,0.0
+ Season 1,Bengal Warriors,Shrikant Tewthia,All Rounder,14.0,50.0,41.0,9.0,89.0,37.0,25.0,27.0,0.0,46.06,24.32,37.0,8.0,29.0,1.0,12.0,0.0,0.0,0.0
+ Season 2,Bengal Warriors,Shrikant Tewthia,All Rounder,9.0,19.0,10.0,9.0,37.0,9.0,11.0,17.0,0.0,27.02,29.03,31.0,8.0,23.0,1.0,6.0,0.0,0.0,0.0
+ Season 3,Bengal Warriors,Shrikant Tewthia,All Rounder,13.0,33.0,20.0,13.0,58.0,16.0,10.0,32.0,1.0,34.48,33.33,39.0,12.0,27.0,1.0,5.0,0.0,0.0,0.0
+ Season 4,Bengal Warriors,Shrikant Tewthia,All Rounder,4.0,2.0,0.0,2.0,7.0,0.0,4.0,3.0,0.0,0.0,40.0,5.0,1.0,4.0,1.0,2.0,0.0,0.0,0.0
+ Season 5,Bengal Warriors,Shrikant Tewthia,All Rounder,23.0,40.0,4.0,36.0,5.0,2.0,2.0,1.0,1.0,80.0,35.64,101.0,31.0,70.0,5.0,6.0,1.0,0.0,0.0
+ Season 6,Bengal Warriors,Shrikant Tewthia,All Rounder,8.0,13.0,3.0,10.0,9.0,2.0,2.0,5.0,0.0,33.33,37.03,27.0,10.0,17.0,0.0,4.0,0.0,0.0,0.0
+ Overall,Bengal Warriors,Shrikant Tewthia,All Rounder,71.0,157.0,78.0,79.0,205.0,66.0,54.0,85.0,2.0,38.04,32.91,240.0,70.0,170.0,9.0,12.0,1.0,0.0,0.0
+ Season 1,Jaipur Pink Panthers,Somvir Shekhar,"Defender, right cover",6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27.0,0.0,27.0,0.0,0.0,0.0,0.0,0.0
+ Season 2,Jaipur Pink Panthers,Somvir Shekhar,"Defender, right cover",14.0,35.0,1.0,34.0,1.0,1.0,0.0,0.0,0.0,100.0,51.61,62.0,32.0,30.0,2.0,6.0,3.0,0.0,0.0
+ Season 3,Jaipur Pink Panthers,Somvir Shekhar,"Defender, right cover",3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0
+ Season 4,Jaipur Pink Panthers,Somvir Shekhar,"Defender, right cover",16.0,22.0,0.0,22.0,2.0,0.0,1.0,1.0,0.0,0.0,36.84,57.0,21.0,36.0,1.0,4.0,1.0,0.0,0.0
+ Season 5,Jaipur Pink Panthers,Somvir Shekhar,"Defender, right cover",22.0,30.0,0.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,29.89,97.0,29.0,68.0,1.0,4.0,4.0,0.0,0.0
+ Overall,Jaipur Pink Panthers,Somvir Shekhar,"Defender, right cover",61.0,87.0,1.0,86.0,3.0,1.0,1.0,1.0,0.0,33.33,32.66,251.0,82.0,169.0,4.0,6.0,8.0,0.0,0.0
+ Season 1,Bengal Warriors,Sukesh Hegde,Raider,14.0,83.0,79.0,4.0,130.0,60.0,24.0,46.0,3.0,60.76,19.04,21.0,4.0,17.0,0.0,9.0,0.0,0.0,0.0
+ Season 2,Bengal Warriors,Sukesh Hegde,Raider,13.0,64.0,62.0,2.0,133.0,44.0,22.0,67.0,5.0,46.61,15.38,13.0,2.0,11.0,0.0,9.0,0.0,0.0,0.0
+ Season 3,Bengal Warriors,Sukesh Hegde,Raider,13.0,64.0,61.0,3.0,146.0,49.0,29.0,68.0,0.0,41.78,18.75,16.0,2.0,14.0,1.0,9.0,0.0,0.0,0.0
+ Season 4,Bengal Warriors,Sukesh Hegde,Raider,9.0,7.0,7.0,0.0,38.0,5.0,8.0,25.0,0.0,18.42,0.0,7.0,0.0,7.0,0.0,3.0,0.0,0.0,0.0
+ Season 5,Bengal Warriors,Sukesh Hegde,Raider,18.0,77.0,75.0,2.0,235.0,58.0,29.0,148.0,2.0,31.91,15.38,13.0,2.0,11.0,0.0,15.0,3.0,0.0,0.0
+ Season 6,Bengal Warriors,Sukesh Hegde,Raider,17.0,71.0,68.0,3.0,176.0,51.0,31.0,94.0,3.0,38.63,15.78,19.0,2.0,17.0,1.0,9.0,1.0,0.0,0.0
+ Season 7,Bengal Warriors,Sukesh Hegde,Raider,12.0,34.0,33.0,1.0,73.0,22.0,13.0,38.0,2.0,45.2,25.0,4.0,1.0,3.0,0.0,8.0,0.0,0.0,0.0
+ Overall,Bengal Warriors,Sukesh Hegde,Raider,96.0,400.0,385.0,15.0,931.0,289.0,156.0,486.0,15.0,41.35,16.12,93.0,13.0,80.0,2.0,15.0,4.0,0.0,0.0
+ Season 7,Telugu Titans,Suraj Desai,Raider,12.0,45.0,44.0,1.0,103.0,35.0,31.0,37.0,1.0,42.71,14.28,7.0,1.0,6.0,0.0,18.0,0.0,0.0,0.0
+ Season 2,Telugu Titans,Suraj Desai,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,Telugu Titans,Suraj Desai,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Telugu Titans,Suraj Desai,Raider,12.0,45.0,44.0,1.0,103.0,35.0,31.0,37.0,1.0,42.71,14.28,7.0,1.0,6.0,0.0,18.0,0.0,0.0,0.0
+ Season 3,Tamil Thalaivas,CPO Surjeet Singh,Raider,12.0,68.0,68.0,0.0,165.0,54.0,58.0,53.0,0.0,41.21,0.0,6.0,0.0,6.0,0.0,13.0,0.0,1.0,0.0
+ Season 4,Tamil Thalaivas,CPO Surjeet Singh,Raider,10.0,37.0,33.0,4.0,74.0,27.0,14.0,33.0,1.0,44.59,33.33,12.0,4.0,8.0,0.0,7.0,0.0,0.0,0.0
+ Season 5,Tamil Thalaivas,CPO Surjeet Singh,Raider,17.0,63.0,59.0,4.0,146.0,47.0,36.0,63.0,1.0,40.41,36.36,11.0,4.0,7.0,0.0,10.0,1.0,0.0,0.0
+ Season 6,Tamil Thalaivas,CPO Surjeet Singh,Raider,9.0,16.0,16.0,0.0,45.0,10.0,14.0,21.0,1.0,35.55,0.0,4.0,0.0,4.0,0.0,7.0,0.0,0.0,0.0
+ Season 2,Tamil Thalaivas,CPO Surjeet Singh,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Tamil Thalaivas,CPO Surjeet Singh,Raider,48.0,184.0,176.0,8.0,430.0,138.0,122.0,170.0,3.0,40.93,24.24,33.0,8.0,25.0,0.0,13.0,1.0,1.0,0.0
+ Season 5,Patna Pirates,Vikas Jaglan,All Rounder,13.0,13.0,10.0,3.0,25.0,8.0,6.0,11.0,1.0,40.0,33.33,9.0,3.0,6.0,0.0,5.0,0.0,0.0,0.0
+ Season 6,Patna Pirates,Vikas Jaglan,All Rounder,14.0,37.0,21.0,16.0,42.0,13.0,9.0,20.0,1.0,50.0,43.24,37.0,16.0,21.0,0.0,9.0,2.0,0.0,0.0
+ Season 7,Patna Pirates,Vikas Jaglan,All Rounder,19.0,28.0,12.0,16.0,56.0,7.0,11.0,38.0,0.0,21.42,30.18,53.0,16.0,37.0,0.0,6.0,0.0,0.0,0.0
+ Overall,Patna Pirates,Vikas Jaglan,All Rounder,46.0,78.0,43.0,35.0,123.0,28.0,26.0,69.0,2.0,34.95,35.35,99.0,35.0,64.0,0.0,9.0,2.0,0.0,0.0
+ Season 1,Dabang Delhi K.C.,Vishal Mane,"Defender, right cover",16.0,20.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,30.76,65.0,19.0,46.0,1.0,5.0,0.0,0.0,0.0
+ Season 2,Dabang Delhi K.C.,Vishal Mane,"Defender, right cover",14.0,26.0,0.0,26.0,0.0,0.0,0.0,0.0,0.0,0.0,49.05,53.0,26.0,27.0,0.0,5.0,1.0,0.0,0.0
+ Season 3,Dabang Delhi K.C.,Vishal Mane,"Defender, right cover",13.0,16.0,0.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,45.71,35.0,16.0,19.0,0.0,3.0,0.0,0.0,0.0
+ Season 4,Dabang Delhi K.C.,Vishal Mane,"Defender, right cover",14.0,31.0,0.0,31.0,1.0,0.0,1.0,0.0,0.0,0.0,46.96,66.0,28.0,38.0,3.0,6.0,1.0,0.0,0.0
+ Season 5,Dabang Delhi K.C.,Vishal Mane,"Defender, right cover",26.0,39.0,0.0,39.0,1.0,0.0,0.0,1.0,0.0,0.0,34.51,113.0,36.0,77.0,3.0,6.0,2.0,1.0,0.0
+ Season 6,Dabang Delhi K.C.,Vishal Mane,"Defender, right cover",22.0,38.0,0.0,38.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0,95.0,36.0,59.0,2.0,6.0,4.0,0.0,0.0
+ Season 7,Dabang Delhi K.C.,Vishal Mane,"Defender, right cover",18.0,23.0,0.0,23.0,0.0,0.0,0.0,0.0,0.0,0.0,31.94,72.0,23.0,49.0,0.0,3.0,0.0,0.0,0.0
+ Overall,Dabang Delhi K.C.,Vishal Mane,"Defender, right cover",123.0,193.0,0.0,193.0,2.0,0.0,1.0,1.0,0.0,0.0,38.67,499.0,184.0,315.0,9.0,6.0,8.0,1.0,0.0
+ Season 1,Haryana Steelers,Wazir Singh,Raider,12.0,111.0,104.0,7.0,179.0,85.0,43.0,51.0,2.0,58.1,46.66,15.0,5.0,10.0,2.0,16.0,0.0,1.0,0.0
+ Season 2,Haryana Steelers,Wazir Singh,Raider,11.0,67.0,65.0,2.0,154.0,48.0,36.0,70.0,2.0,42.2,22.22,9.0,2.0,7.0,0.0,13.0,4.0,1.0,0.0
+ Season 3,Haryana Steelers,Wazir Singh,Raider,1.0,0.0,0.0,0.0,4.0,0.0,0.0,4.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,Haryana Steelers,Wazir Singh,Raider,21.0,120.0,107.0,13.0,271.0,86.0,42.0,143.0,3.0,39.48,48.14,27.0,11.0,16.0,2.0,14.0,5.0,0.0,0.0
+ Season 6,Haryana Steelers,Wazir Singh,Raider,2.0,2.0,2.0,0.0,10.0,2.0,3.0,5.0,0.0,20.0,0.0,2.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0
+ Overall,Haryana Steelers,Wazir Singh,Raider,47.0,300.0,278.0,22.0,618.0,221.0,124.0,273.0,7.0,44.98,40.74,54.0,18.0,36.0,4.0,16.0,9.0,2.0,0.0
+ Season 1,,Sunil Jaipal,,13.0,50.0,33.0,17.0,87.0,22.0,27.0,38.0,2.0,25.28,48.14,27.0,13.0,14.0,4.0,10.0,3.0,0.0,0.0
+ Season 2,,Sunil Jaipal,,10.0,40.0,34.0,6.0,88.0,24.0,19.0,45.0,2.0,27.27,40.0,10.0,4.0,6.0,2.0,12.0,0.0,0.0,0.0
+ Season 3,,Sunil Jaipal,,2.0,4.0,4.0,0.0,10.0,4.0,2.0,4.0,0.0,40.0,0.0,4.0,0.0,4.0,0.0,3.0,0.0,0.0,0.0
+ Season 5,,Sunil Jaipal,,13.0,31.0,16.0,15.0,54.0,13.0,6.0,35.0,0.0,24.07,41.37,29.0,12.0,17.0,3.0,9.0,2.0,0.0,0.0
+ Overall,,Sunil Jaipal,,38.0,125.0,87.0,38.0,239.0,63.0,54.0,122.0,4.0,26.35,41.42,70.0,29.0,41.0,9.0,12.0,5.0,0.0,0.0
+ Season 1,U Mumba,Sandeep Narwal,All Rounder,16.0,119.0,92.0,27.0,174.0,68.0,34.0,72.0,8.0,52.87,65.85,41.0,21.0,20.0,6.0,14.0,2.0,0.0,0.0
+ Season 2,U Mumba,Sandeep Narwal,All Rounder,16.0,83.0,46.0,37.0,146.0,36.0,27.0,83.0,1.0,31.5,52.11,71.0,34.0,37.0,3.0,11.0,3.0,0.0,0.0
+ Season 3,U Mumba,Sandeep Narwal,All Rounder,14.0,64.0,9.0,55.0,55.0,8.0,1.0,46.0,0.0,16.36,57.89,95.0,53.0,42.0,2.0,11.0,1.0,0.0,0.0
+ Season 4,U Mumba,Sandeep Narwal,All Rounder,16.0,66.0,24.0,42.0,88.0,20.0,9.0,59.0,0.0,27.27,50.6,83.0,40.0,43.0,2.0,7.0,4.0,2.0,0.0
+ Season 5,U Mumba,Sandeep Narwal,All Rounder,21.0,85.0,33.0,52.0,117.0,29.0,8.0,80.0,1.0,28.2,50.98,102.0,49.0,53.0,3.0,9.0,6.0,2.0,0.0
+ Season 6,U Mumba,Sandeep Narwal,All Rounder,18.0,66.0,25.0,41.0,86.0,16.0,11.0,59.0,1.0,29.06,50.61,81.0,34.0,47.0,7.0,7.0,9.0,1.0,0.0
+ Season 7,U Mumba,Sandeep Narwal,All Rounder,18.0,58.0,16.0,42.0,53.0,12.0,9.0,32.0,0.0,30.18,58.33,72.0,37.0,35.0,5.0,6.0,4.0,0.0,0.0
+ Overall,U Mumba,Sandeep Narwal,All Rounder,119.0,541.0,245.0,296.0,719.0,189.0,99.0,431.0,11.0,34.07,54.31,545.0,268.0,277.0,28.0,14.0,29.0,5.0,0.0
+ Season 1,Bengal Warriors,Maninder Singh,Raider,16.0,137.0,130.0,7.0,175.0,103.0,42.0,30.0,3.0,74.28,36.84,19.0,6.0,13.0,1.0,13.0,0.0,0.0,0.0
+ Season 5,Bengal Warriors,Maninder Singh,Raider,21.0,192.0,190.0,2.0,367.0,154.0,66.0,147.0,6.0,51.77,15.38,13.0,2.0,11.0,0.0,17.0,0.0,0.0,0.0
+ Season 6,Bengal Warriors,Maninder Singh,Raider,22.0,206.0,206.0,0.0,376.0,158.0,77.0,141.0,6.0,54.78,0.0,5.0,0.0,5.0,0.0,17.0,0.0,0.0,0.0
+ Season 7,Bengal Warriors,Maninder Singh,Raider,19.0,192.0,192.0,0.0,306.0,161.0,55.0,90.0,6.0,62.74,0.0,7.0,0.0,7.0,0.0,19.0,0.0,0.0,0.0
+ Season 2,Bengal Warriors,Maninder Singh,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Bengal Warriors,Maninder Singh,Raider,78.0,727.0,718.0,9.0,1224.0,576.0,240.0,408.0,21.0,58.66,20.45,44.0,8.0,36.0,1.0,19.0,0.0,0.0,0.0
+ Season 1,Patna Pirates,Surender Nada,"Defender, left corner",15.0,61.0,10.0,51.0,13.0,8.0,0.0,5.0,0.0,76.92,55.43,92.0,47.0,45.0,4.0,9.0,0.0,0.0,0.0
+ Season 2,Patna Pirates,Surender Nada,"Defender, left corner",14.0,44.0,3.0,41.0,22.0,2.0,1.0,19.0,0.0,13.63,60.29,68.0,39.0,29.0,2.0,10.0,3.0,0.0,0.0
+ Season 3,Patna Pirates,Surender Nada,"Defender, left corner",7.0,14.0,1.0,13.0,7.0,0.0,1.0,6.0,0.0,14.28,40.62,32.0,13.0,19.0,0.0,4.0,0.0,0.0,0.0
+ Season 4,Patna Pirates,Surender Nada,"Defender, left corner",13.0,37.0,4.0,33.0,15.0,3.0,3.0,9.0,0.0,26.66,53.22,62.0,29.0,33.0,4.0,5.0,2.0,0.0,0.0
+ Season 5,Patna Pirates,Surender Nada,"Defender, left corner",21.0,83.0,3.0,80.0,22.0,2.0,2.0,18.0,0.0,13.63,55.55,144.0,74.0,70.0,6.0,8.0,4.0,0.0,0.0
+ Season 6,Patna Pirates,Surender Nada,"Defender, left corner",1.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,50.0,8.0,4.0,4.0,0.0,4.0,0.0,0.0,0.0
+ Season 7,Patna Pirates,Surender Nada,"Defender, left corner",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Patna Pirates,Surender Nada,"Defender, left corner",71.0,243.0,21.0,222.0,79.0,15.0,7.0,57.0,0.0,26.58,54.67,406.0,206.0,200.0,16.0,10.0,9.0,0.0,0.0
+ Season 1,Haryana Steelers,Parmod Narwal,All Rounder,16.0,36.0,13.0,23.0,30.0,10.0,6.0,14.0,0.0,33.33,33.33,60.0,20.0,40.0,3.0,7.0,2.0,1.0,0.0
+ Season 2,Haryana Steelers,Parmod Narwal,All Rounder,1.0,0.0,0.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0
+ Season 3,Haryana Steelers,Parmod Narwal,All Rounder,4.0,2.0,0.0,2.0,2.0,0.0,2.0,0.0,0.0,0.0,50.0,4.0,2.0,2.0,0.0,1.0,0.0,0.0,0.0
+ Season 4,Haryana Steelers,Parmod Narwal,All Rounder,8.0,9.0,8.0,1.0,15.0,3.0,7.0,5.0,1.0,20.0,8.33,12.0,1.0,11.0,0.0,3.0,0.0,0.0,0.0
+ Season 5,Haryana Steelers,Parmod Narwal,All Rounder,6.0,2.0,0.0,2.0,12.0,0.0,3.0,9.0,0.0,0.0,12.5,16.0,2.0,14.0,0.0,2.0,0.0,0.0,0.0
+ Overall,Haryana Steelers,Parmod Narwal,All Rounder,35.0,49.0,21.0,28.0,61.0,13.0,18.0,30.0,1.0,21.31,26.04,96.0,25.0,71.0,3.0,7.0,2.0,1.0,0.0
+ Season 1,Tamil Thalaivas,D. Gopu,"Defender, right and left corner",15.0,27.0,4.0,23.0,10.0,4.0,4.0,2.0,0.0,40.0,38.33,60.0,20.0,40.0,3.0,4.0,0.0,0.0,0.0
+ Season 2,Tamil Thalaivas,D. Gopu,"Defender, right and left corner",7.0,9.0,0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,40.9,22.0,9.0,13.0,0.0,3.0,0.0,0.0,0.0
+ Season 3,Tamil Thalaivas,D. Gopu,"Defender, right and left corner",2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,4.0,1.0,3.0,0.0,1.0,0.0,0.0,0.0
+ Season 4,Tamil Thalaivas,D. Gopu,"Defender, right and left corner",5.0,7.0,0.0,7.0,1.0,0.0,0.0,1.0,0.0,0.0,70.0,10.0,5.0,5.0,2.0,5.0,0.0,0.0,0.0
+ Season 6,Tamil Thalaivas,D. Gopu,"Defender, right and left corner",5.0,7.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,50.0,14.0,5.0,9.0,2.0,3.0,0.0,0.0,0.0
+ Overall,Tamil Thalaivas,D. Gopu,"Defender, right and left corner",34.0,51.0,4.0,47.0,12.0,4.0,4.0,4.0,0.0,33.33,42.72,110.0,40.0,70.0,7.0,5.0,0.0,0.0,0.0
+ Season 1,Haryana Steelers,Prashanth Kumar Rai,Raider,7.0,5.0,5.0,0.0,13.0,5.0,3.0,5.0,0.0,38.46,0.0,8.0,0.0,8.0,0.0,2.0,0.0,0.0,0.0
+ Season 2,Haryana Steelers,Prashanth Kumar Rai,Raider,15.0,58.0,54.0,4.0,106.0,42.0,19.0,45.0,1.0,50.94,40.0,10.0,3.0,7.0,1.0,10.0,0.0,0.0,0.0
+ Season 3,Haryana Steelers,Prashanth Kumar Rai,Raider,13.0,12.0,12.0,0.0,35.0,8.0,11.0,16.0,0.0,34.28,0.0,4.0,0.0,4.0,0.0,3.0,0.0,0.0,0.0
+ Season 4,Haryana Steelers,Prashanth Kumar Rai,Raider,9.0,19.0,19.0,0.0,39.0,12.0,9.0,18.0,2.0,48.71,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0
+ Season 5,Haryana Steelers,Prashanth Kumar Rai,Raider,16.0,80.0,78.0,2.0,149.0,62.0,26.0,61.0,3.0,52.34,20.0,10.0,1.0,9.0,1.0,16.0,0.0,0.0,0.0
+ Season 6,Haryana Steelers,Prashanth Kumar Rai,Raider,21.0,147.0,144.0,3.0,261.0,112.0,47.0,102.0,2.0,55.17,33.33,9.0,2.0,7.0,1.0,13.0,1.0,0.0,0.0
+ Season 7,Haryana Steelers,Prashanth Kumar Rai,Raider,11.0,46.0,46.0,0.0,75.0,35.0,18.0,22.0,0.0,61.33,0.0,5.0,0.0,5.0,0.0,10.0,0.0,0.0,0.0
+ Overall,Haryana Steelers,Prashanth Kumar Rai,Raider,92.0,367.0,358.0,9.0,678.0,276.0,133.0,269.0,8.0,52.8,19.56,46.0,6.0,40.0,3.0,16.0,1.0,0.0,0.0
+ Season 1,Puneri Paltan,Pawan Kumar Kadian,Raider,10.0,44.0,43.0,1.0,87.0,32.0,24.0,31.0,0.0,49.42,14.28,7.0,1.0,6.0,0.0,14.0,0.0,0.0,0.0
+ Season 2,Puneri Paltan,Pawan Kumar Kadian,Raider,10.0,16.0,16.0,0.0,42.0,9.0,16.0,17.0,1.0,38.09,0.0,1.0,0.0,1.0,0.0,7.0,0.0,0.0,0.0
+ Season 3,Puneri Paltan,Pawan Kumar Kadian,Raider,5.0,6.0,6.0,0.0,25.0,4.0,5.0,16.0,0.0,24.0,0.0,2.0,0.0,2.0,0.0,3.0,1.0,0.0,0.0
+ Season 4,Puneri Paltan,Pawan Kumar Kadian,Raider,9.0,21.0,20.0,1.0,66.0,15.0,16.0,35.0,0.0,30.3,14.28,7.0,1.0,6.0,0.0,6.0,0.0,0.0,0.0
+ Season 5,Puneri Paltan,Pawan Kumar Kadian,Raider,21.0,122.0,122.0,0.0,284.0,95.0,69.0,120.0,2.0,42.95,0.0,13.0,0.0,13.0,0.0,17.0,1.0,0.0,0.0
+ Season 6,Puneri Paltan,Pawan Kumar Kadian,Raider,13.0,45.0,45.0,0.0,90.0,32.0,18.0,40.0,1.0,50.0,0.0,5.0,0.0,5.0,0.0,9.0,0.0,0.0,0.0
+ Season 7,Puneri Paltan,Pawan Kumar Kadian,Raider,6.0,25.0,25.0,0.0,59.0,19.0,12.0,28.0,0.0,42.37,0.0,2.0,0.0,2.0,0.0,10.0,0.0,0.0,0.0
+ Overall,Puneri Paltan,Pawan Kumar Kadian,Raider,74.0,279.0,277.0,2.0,653.0,206.0,160.0,287.0,4.0,42.41,5.4,37.0,2.0,35.0,0.0,17.0,2.0,0.0,0.0
+ Season 1,Dabang Delhi K.C.,Ravinder Pahal,"Defender, right corner",9.0,29.0,0.0,29.0,0.0,0.0,0.0,0.0,0.0,0.0,45.31,64.0,29.0,35.0,0.0,7.0,1.0,0.0,0.0
+ Season 2,Dabang Delhi K.C.,Ravinder Pahal,"Defender, right corner",14.0,64.0,4.0,60.0,17.0,3.0,3.0,11.0,0.0,23.52,62.5,96.0,53.0,43.0,7.0,9.0,4.0,0.0,0.0
+ Season 3,Dabang Delhi K.C.,Ravinder Pahal,"Defender, right corner",11.0,34.0,8.0,26.0,34.0,4.0,4.0,26.0,0.0,23.52,44.82,58.0,22.0,36.0,4.0,9.0,1.0,0.0,0.0
+ Season 4,Dabang Delhi K.C.,Ravinder Pahal,"Defender, right corner",14.0,37.0,0.0,37.0,0.0,0.0,0.0,0.0,0.0,0.0,51.38,72.0,35.0,37.0,2.0,6.0,1.0,0.0,0.0
+ Season 5,Dabang Delhi K.C.,Ravinder Pahal,"Defender, right corner",19.0,54.0,2.0,52.0,6.0,1.0,1.0,4.0,0.0,33.33,50.0,104.0,49.0,55.0,3.0,7.0,0.0,0.0,1.0
+ Season 6,Dabang Delhi K.C.,Ravinder Pahal,"Defender, right corner",22.0,59.0,0.0,59.0,0.0,0.0,0.0,0.0,0.0,0.0,47.2,125.0,56.0,69.0,3.0,6.0,2.0,0.0,0.0
+ Season 7,Dabang Delhi K.C.,Ravinder Pahal,"Defender, right corner",18.0,49.0,0.0,49.0,1.0,0.0,0.0,1.0,0.0,0.0,42.98,114.0,49.0,65.0,0.0,8.0,2.0,0.0,0.0
+ Overall,Dabang Delhi K.C.,Ravinder Pahal,"Defender, right corner",107.0,326.0,14.0,312.0,58.0,8.0,8.0,42.0,0.0,24.13,49.28,633.0,293.0,340.0,19.0,9.0,11.0,0.0,1.0
+ Season 1,Telugu Titans,Rakesh Singh Kumar,"Defender, left cover",9.0,4.0,1.0,3.0,2.0,1.0,0.0,1.0,0.0,50.0,10.34,29.0,3.0,26.0,0.0,2.0,0.0,0.0,0.0
+ Season 2,Telugu Titans,Rakesh Singh Kumar,"Defender, left cover",13.0,19.0,0.0,19.0,6.0,0.0,1.0,5.0,0.0,0.0,28.81,59.0,17.0,42.0,2.0,6.0,1.0,0.0,0.0
+ Season 3,Telugu Titans,Rakesh Singh Kumar,"Defender, left cover",8.0,3.0,0.0,3.0,5.0,0.0,0.0,5.0,0.0,0.0,12.0,25.0,3.0,22.0,0.0,2.0,0.0,0.0,0.0
+ Season 5,Telugu Titans,Rakesh Singh Kumar,"Defender, left cover",19.0,24.0,0.0,24.0,3.0,0.0,0.0,3.0,0.0,0.0,28.04,82.0,23.0,59.0,1.0,7.0,1.0,0.0,0.0
+ Season 6,Telugu Titans,Rakesh Singh Kumar,"Defender, left cover",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Telugu Titans,Rakesh Singh Kumar,"Defender, left cover",49.0,50.0,1.0,49.0,16.0,1.0,1.0,14.0,0.0,6.25,23.58,195.0,46.0,149.0,3.0,7.0,2.0,0.0,0.0
+ Season 1,Tamil Thalaivas,Ran Singh,All Rounder,10.0,36.0,11.0,25.0,16.0,5.0,5.0,6.0,1.0,68.75,60.97,41.0,23.0,18.0,2.0,8.0,0.0,0.0,0.0
+ Season 2,Tamil Thalaivas,Ran Singh,All Rounder,14.0,44.0,13.0,31.0,35.0,10.0,5.0,20.0,0.0,37.14,58.49,53.0,27.0,26.0,4.0,9.0,0.0,0.0,0.0
+ Season 3,Tamil Thalaivas,Ran Singh,All Rounder,14.0,41.0,20.0,21.0,57.0,15.0,14.0,28.0,2.0,35.08,40.38,52.0,21.0,31.0,0.0,5.0,0.0,0.0,0.0
+ Season 4,Tamil Thalaivas,Ran Singh,All Rounder,16.0,33.0,5.0,28.0,9.0,4.0,0.0,5.0,0.0,55.55,45.16,62.0,27.0,35.0,1.0,4.0,0.0,0.0,0.0
+ Season 5,Tamil Thalaivas,Ran Singh,All Rounder,23.0,64.0,12.0,52.0,27.0,10.0,5.0,12.0,0.0,44.44,46.42,112.0,49.0,63.0,3.0,7.0,1.0,0.0,0.0
+ Season 6,Tamil Thalaivas,Ran Singh,All Rounder,22.0,71.0,29.0,42.0,72.0,23.0,12.0,37.0,1.0,40.27,47.72,88.0,41.0,47.0,1.0,7.0,2.0,0.0,0.0
+ Season 7,Tamil Thalaivas,Ran Singh,All Rounder,17.0,35.0,8.0,27.0,13.0,4.0,4.0,5.0,0.0,61.53,44.26,61.0,26.0,35.0,1.0,4.0,0.0,0.0,0.0
+ Overall,Tamil Thalaivas,Ran Singh,All Rounder,116.0,324.0,98.0,226.0,229.0,71.0,45.0,113.0,4.0,42.79,48.18,469.0,214.0,255.0,12.0,9.0,3.0,0.0,0.0
+ Season 1,Puneri Paltan,Girish Maruti Ernak,"Defender, left corner",12.0,25.0,2.0,23.0,6.0,2.0,1.0,3.0,0.0,33.33,32.85,70.0,22.0,48.0,1.0,6.0,2.0,0.0,0.0
+ Season 2,Puneri Paltan,Girish Maruti Ernak,"Defender, left corner",13.0,27.0,0.0,27.0,5.0,0.0,0.0,5.0,0.0,0.0,40.9,66.0,26.0,40.0,1.0,5.0,1.0,0.0,0.0
+ Season 3,Puneri Paltan,Girish Maruti Ernak,"Defender, left corner",11.0,34.0,1.0,33.0,17.0,0.0,1.0,16.0,0.0,5.88,50.76,65.0,33.0,32.0,0.0,5.0,1.0,0.0,0.0
+ Season 4,Puneri Paltan,Girish Maruti Ernak,"Defender, left corner",12.0,25.0,0.0,25.0,13.0,0.0,0.0,13.0,0.0,0.0,43.1,58.0,23.0,35.0,2.0,5.0,0.0,0.0,0.0
+ Season 5,Puneri Paltan,Girish Maruti Ernak,"Defender, left corner",21.0,69.0,5.0,64.0,18.0,1.0,2.0,15.0,1.0,27.77,57.65,111.0,61.0,50.0,3.0,8.0,2.0,0.0,0.0
+ Season 6,Puneri Paltan,Girish Maruti Ernak,"Defender, left corner",20.0,57.0,1.0,56.0,8.0,0.0,1.0,7.0,0.0,12.5,49.55,113.0,52.0,61.0,4.0,6.0,3.0,0.0,0.0
+ Season 7,Puneri Paltan,Girish Maruti Ernak,"Defender, left corner",14.0,31.0,0.0,31.0,0.0,0.0,0.0,0.0,0.0,0.0,40.78,76.0,28.0,48.0,3.0,6.0,0.0,0.0,0.0
+ Overall,Puneri Paltan,Girish Maruti Ernak,"Defender, left corner",103.0,268.0,9.0,259.0,67.0,3.0,5.0,59.0,1.0,13.43,46.33,559.0,245.0,314.0,14.0,8.0,9.0,0.0,0.0
+ Season 1,U Mumba,D. Suresh Kumar,"Defender, right cover",12.0,28.0,0.0,28.0,0.0,0.0,0.0,0.0,0.0,0.0,48.27,58.0,24.0,34.0,4.0,6.0,0.0,0.0,0.0
+ Season 2,U Mumba,D. Suresh Kumar,"Defender, right cover",16.0,30.0,0.0,30.0,1.0,0.0,1.0,0.0,0.0,0.0,53.57,56.0,26.0,30.0,4.0,6.0,2.0,0.0,0.0
+ Season 3,U Mumba,D. Suresh Kumar,"Defender, right cover",12.0,18.0,0.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,50.0,36.0,16.0,20.0,2.0,3.0,0.0,0.0,0.0
+ Season 4,U Mumba,D. Suresh Kumar,"Defender, right cover",14.0,19.0,0.0,19.0,0.0,0.0,0.0,0.0,0.0,0.0,33.33,57.0,19.0,38.0,0.0,3.0,0.0,0.0,0.0
+ Season 5,U Mumba,D. Suresh Kumar,"Defender, right cover",5.0,8.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,57.14,14.0,6.0,8.0,2.0,4.0,0.0,0.0,0.0
+ Overall,U Mumba,D. Suresh Kumar,"Defender, right cover",59.0,103.0,0.0,103.0,1.0,0.0,1.0,0.0,0.0,0.0,46.6,221.0,91.0,130.0,12.0,6.0,2.0,0.0,0.0
+ Season 1,Gujarat Fortunegiants,Mahendra Ganesh Rajput,Raider,8.0,21.0,21.0,0.0,50.0,17.0,17.0,16.0,0.0,42.0,0.0,5.0,0.0,5.0,0.0,5.0,0.0,0.0,0.0
+ Season 2,Gujarat Fortunegiants,Mahendra Ganesh Rajput,Raider,12.0,56.0,55.0,1.0,116.0,37.0,31.0,48.0,3.0,47.41,12.5,8.0,1.0,7.0,0.0,14.0,0.0,0.0,0.0
+ Season 3,Gujarat Fortunegiants,Mahendra Ganesh Rajput,Raider,8.0,26.0,19.0,7.0,47.0,17.0,15.0,15.0,0.0,40.42,70.0,10.0,5.0,5.0,2.0,6.0,0.0,0.0,0.0
+ Season 4,Gujarat Fortunegiants,Mahendra Ganesh Rajput,Raider,4.0,0.0,0.0,0.0,7.0,0.0,5.0,2.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,Gujarat Fortunegiants,Mahendra Ganesh Rajput,Raider,17.0,62.0,57.0,5.0,109.0,43.0,23.0,43.0,3.0,52.29,33.33,15.0,5.0,10.0,0.0,8.0,0.0,0.0,0.0
+ Season 6,Gujarat Fortunegiants,Mahendra Ganesh Rajput,Raider,13.0,30.0,28.0,2.0,66.0,18.0,23.0,25.0,3.0,42.42,16.66,12.0,2.0,10.0,0.0,6.0,1.0,0.0,0.0
+ Overall,Gujarat Fortunegiants,Mahendra Ganesh Rajput,Raider,62.0,195.0,180.0,15.0,395.0,132.0,114.0,149.0,9.0,45.56,29.41,51.0,13.0,38.0,2.0,14.0,1.0,0.0,0.0
+ Season 1,Jaipur Pink Panthers,Bajirao Hodage,"Defender, right cover",6.0,11.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,34.37,32.0,9.0,23.0,2.0,3.0,0.0,0.0,0.0
+ Season 2,Jaipur Pink Panthers,Bajirao Hodage,"Defender, right cover",7.0,13.0,0.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,48.14,27.0,13.0,14.0,0.0,3.0,1.0,0.0,0.0
+ Season 3,Jaipur Pink Panthers,Bajirao Hodage,"Defender, right cover",16.0,37.0,0.0,37.0,0.0,0.0,0.0,0.0,0.0,0.0,45.67,81.0,36.0,45.0,1.0,8.0,2.0,0.0,0.0
+ Season 4,Jaipur Pink Panthers,Bajirao Hodage,"Defender, right cover",14.0,22.0,0.0,22.0,5.0,0.0,0.0,5.0,0.0,0.0,44.0,50.0,20.0,30.0,2.0,5.0,2.0,0.0,0.0
+ Season 5,Jaipur Pink Panthers,Bajirao Hodage,"Defender, right cover",12.0,11.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,26.19,42.0,11.0,31.0,0.0,4.0,1.0,0.0,0.0
+ Season 6,Jaipur Pink Panthers,Bajirao Hodage,"Defender, right cover",6.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,7.14,14.0,1.0,13.0,0.0,1.0,0.0,0.0,0.0
+ Overall,Jaipur Pink Panthers,Bajirao Hodage,"Defender, right cover",61.0,95.0,0.0,95.0,5.0,0.0,0.0,5.0,0.0,0.0,38.61,246.0,90.0,156.0,5.0,8.0,6.0,0.0,0.0
+ Season 1,Haryana Steelers,Sachin Shingade,"Defender, left cover",10.0,20.0,0.0,20.0,1.0,0.0,1.0,0.0,0.0,0.0,46.51,43.0,19.0,24.0,1.0,6.0,0.0,0.0,0.0
+ Season 2,Haryana Steelers,Sachin Shingade,"Defender, left cover",4.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,16.66,12.0,2.0,10.0,0.0,2.0,0.0,0.0,0.0
+ Season 3,Haryana Steelers,Sachin Shingade,"Defender, left cover",2.0,6.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,85.71,7.0,5.0,2.0,1.0,3.0,0.0,0.0,0.0
+ Season 4,Haryana Steelers,Sachin Shingade,"Defender, left cover",14.0,44.0,0.0,44.0,0.0,0.0,0.0,0.0,0.0,0.0,52.38,84.0,39.0,45.0,5.0,7.0,0.0,0.0,0.0
+ Season 5,Haryana Steelers,Sachin Shingade,"Defender, left cover",26.0,22.0,0.0,22.0,0.0,0.0,0.0,0.0,0.0,0.0,34.37,64.0,21.0,43.0,1.0,3.0,0.0,0.0,0.0
+ Season 6,Haryana Steelers,Sachin Shingade,"Defender, left cover",19.0,25.0,0.0,25.0,2.0,0.0,0.0,2.0,0.0,0.0,35.21,71.0,23.0,48.0,2.0,4.0,1.0,0.0,0.0
+ Overall,Haryana Steelers,Sachin Shingade,"Defender, left cover",75.0,119.0,0.0,119.0,3.0,0.0,1.0,2.0,0.0,0.0,42.34,281.0,109.0,172.0,10.0,7.0,1.0,0.0,0.0
+ Season 1,Bengaluru Bulls,Preetam Chhillar,All Rounder,11.0,12.0,5.0,7.0,12.0,3.0,4.0,5.0,0.0,25.0,30.43,23.0,7.0,16.0,0.0,2.0,0.0,0.0,0.0
+ Season 2,Bengaluru Bulls,Preetam Chhillar,All Rounder,12.0,10.0,2.0,8.0,12.0,2.0,3.0,7.0,0.0,16.66,44.44,18.0,8.0,10.0,0.0,2.0,0.0,0.0,0.0
+ Season 3,Bengaluru Bulls,Preetam Chhillar,All Rounder,11.0,14.0,5.0,9.0,14.0,3.0,3.0,8.0,0.0,21.42,27.27,33.0,9.0,24.0,0.0,4.0,2.0,1.0,0.0
+ Season 4,Bengaluru Bulls,Preetam Chhillar,All Rounder,8.0,2.0,0.0,2.0,4.0,0.0,2.0,2.0,0.0,0.0,18.18,11.0,2.0,9.0,0.0,1.0,0.0,0.0,0.0
+ Season 5,Bengaluru Bulls,Preetam Chhillar,All Rounder,16.0,7.0,3.0,4.0,29.0,1.0,0.0,28.0,1.0,3.44,19.04,21.0,4.0,17.0,0.0,4.0,1.0,0.0,0.0
+ Overall,Bengaluru Bulls,Preetam Chhillar,All Rounder,58.0,45.0,15.0,30.0,71.0,9.0,12.0,50.0,1.0,12.67,28.3,106.0,30.0,76.0,0.0,4.0,3.0,1.0,0.0
+ Season 1,Dabang Delhi K.C.,Swapnil Dilip Shinde,"Defender, right cover",8.0,8.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,26.66,30.0,8.0,22.0,0.0,2.0,0.0,0.0,0.0
+ Season 5,Dabang Delhi K.C.,Swapnil Dilip Shinde,"Defender, right cover",13.0,13.0,0.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,29.54,44.0,13.0,31.0,0.0,4.0,0.0,0.0,0.0
+ Overall,Dabang Delhi K.C.,Swapnil Dilip Shinde,"Defender, right cover",21.0,21.0,0.0,21.0,0.0,0.0,0.0,0.0,0.0,0.0,28.37,74.0,21.0,53.0,0.0,4.0,0.0,0.0,0.0
+ Season 2,U Mumba,Vinoth Kumar,Raider,2.0,0.0,0.0,0.0,3.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 3,U Mumba,Vinoth Kumar,Raider,7.0,16.0,16.0,0.0,40.0,13.0,15.0,12.0,0.0,40.0,0.0,2.0,0.0,2.0,0.0,5.0,0.0,0.0,0.0
+ Season 4,U Mumba,Vinoth Kumar,Raider,3.0,8.0,8.0,0.0,24.0,7.0,10.0,7.0,0.0,33.33,0.0,1.0,0.0,1.0,0.0,4.0,0.0,0.0,0.0
+ Season 5,U Mumba,Vinoth Kumar,Raider,4.0,6.0,6.0,0.0,23.0,5.0,4.0,14.0,0.0,26.08,0.0,2.0,0.0,2.0,0.0,4.0,0.0,0.0,0.0
+ Season 7,U Mumba,Vinoth Kumar,Raider,1.0,0.0,0.0,0.0,4.0,0.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+ Season 1,U Mumba,Vinoth Kumar,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,U Mumba,Vinoth Kumar,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,U Mumba,Vinoth Kumar,Raider,17.0,30.0,30.0,0.0,94.0,25.0,33.0,36.0,0.0,31.91,0.0,6.0,0.0,6.0,0.0,5.0,0.0,0.0,0.0
+ Season 1,Dabang Delhi K.C.,Suresu Kumar,Raider,3.0,6.0,6.0,0.0,16.0,6.0,4.0,6.0,0.0,37.5,0.0,6.0,0.0,6.0,0.0,4.0,0.0,0.0,0.0
+ Season 2,Dabang Delhi K.C.,Suresu Kumar,Raider,1.0,2.0,1.0,1.0,6.0,1.0,3.0,2.0,0.0,16.66,100.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0
+ Season 3,Dabang Delhi K.C.,Suresu Kumar,Raider,3.0,2.0,2.0,0.0,5.0,2.0,1.0,2.0,0.0,40.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+ Season 4,Dabang Delhi K.C.,Suresu Kumar,Raider,11.0,23.0,20.0,3.0,47.0,15.0,18.0,14.0,0.0,31.91,23.07,13.0,3.0,10.0,0.0,6.0,0.0,0.0,0.0
+ Season 5,Dabang Delhi K.C.,Suresu Kumar,Raider,3.0,2.0,2.0,0.0,12.0,2.0,3.0,7.0,0.0,16.66,0.0,1.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0
+ Overall,Dabang Delhi K.C.,Suresu Kumar,Raider,21.0,35.0,31.0,4.0,86.0,26.0,29.0,31.0,0.0,30.23,19.04,21.0,4.0,17.0,0.0,6.0,0.0,0.0,0.0
+ Season 1,Puneri Paltan,Deepak Kumar Dahiya,Raider,7.0,21.0,19.0,2.0,51.0,15.0,15.0,21.0,0.0,37.25,33.33,6.0,2.0,4.0,0.0,10.0,0.0,0.0,0.0
+ Season 2,Puneri Paltan,Deepak Kumar Dahiya,Raider,2.0,6.0,6.0,0.0,18.0,3.0,4.0,11.0,0.0,33.33,0.0,1.0,0.0,1.0,0.0,5.0,0.0,0.0,0.0
+ Season 3,Puneri Paltan,Deepak Kumar Dahiya,Raider,10.0,37.0,37.0,0.0,104.0,29.0,29.0,46.0,3.0,35.57,0.0,1.0,0.0,1.0,0.0,7.0,0.0,0.0,0.0
+ Season 4,Puneri Paltan,Deepak Kumar Dahiya,Raider,7.0,13.0,12.0,1.0,47.0,8.0,10.0,29.0,1.0,25.53,50.0,2.0,1.0,1.0,0.0,6.0,0.0,0.0,0.0
+ Season 5,Puneri Paltan,Deepak Kumar Dahiya,Raider,16.0,78.0,76.0,2.0,196.0,61.0,37.0,98.0,3.0,38.77,22.22,9.0,2.0,7.0,0.0,11.0,1.0,0.0,0.0
+ Season 6,Puneri Paltan,Deepak Kumar Dahiya,Raider,11.0,34.0,31.0,3.0,88.0,26.0,25.0,37.0,1.0,35.22,42.85,7.0,2.0,5.0,1.0,10.0,0.0,0.0,0.0
+ Overall,Puneri Paltan,Deepak Kumar Dahiya,Raider,53.0,189.0,181.0,8.0,504.0,142.0,120.0,242.0,8.0,35.91,30.76,26.0,7.0,19.0,1.0,11.0,1.0,0.0,0.0
+ Season 2,Haryana Steelers,Vikas Kale,"Defender, right cover",8.0,9.0,0.0,9.0,4.0,0.0,0.0,4.0,0.0,0.0,37.5,24.0,6.0,18.0,3.0,5.0,0.0,0.0,0.0
+ Season 3,Haryana Steelers,Vikas Kale,"Defender, right cover",9.0,12.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,35.29,34.0,12.0,22.0,0.0,3.0,0.0,0.0,0.0
+ Season 5,Haryana Steelers,Vikas Kale,"Defender, right cover",2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Haryana Steelers,Vikas Kale,"Defender, right cover",22.0,39.0,0.0,39.0,4.0,0.0,0.0,4.0,0.0,0.0,33.05,118.0,36.0,82.0,3.0,5.0,0.0,0.0,0.0
+ Season 7,Haryana Steelers,Vikas Kale,"Defender, right cover",16.0,35.0,0.0,35.0,3.0,0.0,1.0,2.0,0.0,0.0,38.88,90.0,34.0,56.0,1.0,6.0,0.0,0.0,0.0
+ Season 4,Haryana Steelers,Vikas Kale,"Defender, right cover",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Haryana Steelers,Vikas Kale,"Defender, right cover",57.0,95.0,0.0,95.0,11.0,0.0,1.0,10.0,0.0,0.0,35.58,267.0,88.0,179.0,7.0,6.0,0.0,0.0,0.0
+ Season 2,Bengal Warriors,Vijin Thangadurai,"Defender, right cover",7.0,13.0,0.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,48.14,27.0,11.0,16.0,2.0,3.0,0.0,0.0,0.0
+ Season 3,Bengal Warriors,Vijin Thangadurai,"Defender, right cover",4.0,2.0,0.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,33.33,6.0,2.0,4.0,0.0,1.0,0.0,0.0,0.0
+ Season 4,Bengal Warriors,Vijin Thangadurai,"Defender, right cover",9.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,8.0,2.0,6.0,0.0,1.0,0.0,0.0,0.0
+ Season 5,Bengal Warriors,Vijin Thangadurai,"Defender, right cover",12.0,4.0,0.0,4.0,2.0,0.0,1.0,1.0,0.0,0.0,17.39,23.0,3.0,20.0,1.0,2.0,1.0,0.0,0.0
+ Season 6,Bengal Warriors,Vijin Thangadurai,"Defender, right cover",16.0,10.0,0.0,10.0,2.0,0.0,0.0,2.0,0.0,0.0,40.0,25.0,8.0,17.0,2.0,3.0,0.0,0.0,0.0
+ Season 7,Bengal Warriors,Vijin Thangadurai,"Defender, right cover",3.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,4.0,1.0,3.0,0.0,1.0,0.0,0.0,0.0
+ Overall,Bengal Warriors,Vijin Thangadurai,"Defender, right cover",51.0,32.0,0.0,32.0,5.0,0.0,2.0,3.0,0.0,0.0,34.4,93.0,27.0,66.0,5.0,3.0,1.0,0.0,0.0
+ Season 2,,Sonu Narwal,,11.0,51.0,51.0,0.0,109.0,42.0,32.0,35.0,1.0,38.53,0.0,3.0,0.0,3.0,0.0,13.0,0.0,0.0,0.0
+ Season 3,,Sonu Narwal,,11.0,55.0,55.0,0.0,120.0,49.0,30.0,41.0,2.0,40.83,0.0,5.0,0.0,5.0,0.0,9.0,0.0,0.0,0.0
+ Season 4,,Sonu Narwal,,11.0,32.0,32.0,0.0,65.0,25.0,19.0,21.0,0.0,38.46,0.0,3.0,0.0,3.0,0.0,7.0,0.0,0.0,0.0
+ Overall,,Sonu Narwal,,33.0,138.0,138.0,0.0,294.0,116.0,81.0,97.0,3.0,39.45,0.0,11.0,0.0,11.0,0.0,13.0,0.0,0.0,0.0
+ Season 2,Telugu Titans,C. Arun,"Defender, left corner",8.0,11.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,47.82,23.0,10.0,13.0,1.0,3.0,0.0,0.0,0.0
+ Season 3,Telugu Titans,C. Arun,"Defender, left corner",11.0,18.0,1.0,17.0,9.0,1.0,2.0,6.0,0.0,11.11,48.57,35.0,12.0,23.0,5.0,7.0,0.0,0.0,0.0
+ Season 4,Telugu Titans,C. Arun,"Defender, left corner",14.0,15.0,0.0,15.0,2.0,0.0,0.0,2.0,0.0,0.0,37.5,40.0,14.0,26.0,1.0,3.0,0.0,0.0,0.0
+ Season 5,Telugu Titans,C. Arun,"Defender, left corner",20.0,36.0,1.0,35.0,16.0,0.0,1.0,15.0,0.0,6.25,42.16,83.0,30.0,53.0,5.0,8.0,0.0,0.0,0.0
+ Season 6,Telugu Titans,C. Arun,"Defender, left corner",16.0,8.0,0.0,8.0,3.0,0.0,0.0,3.0,0.0,0.0,22.22,36.0,8.0,28.0,0.0,2.0,0.0,0.0,0.0
+ Season 7,Telugu Titans,C. Arun,"Defender, left corner",18.0,23.0,2.0,21.0,3.0,1.0,0.0,2.0,0.0,66.66,35.59,59.0,18.0,41.0,3.0,6.0,0.0,0.0,0.0
+ Overall,Telugu Titans,C. Arun,"Defender, left corner",87.0,111.0,4.0,107.0,33.0,2.0,3.0,28.0,0.0,12.12,38.76,276.0,92.0,184.0,15.0,8.0,0.0,0.0,0.0
+ Season 2,Dabang Delhi K.C.,Joginder Singh Narwal,"Defender, left corner",14.0,30.0,0.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,51.72,58.0,30.0,28.0,0.0,4.0,3.0,0.0,0.0
+ Season 4,Dabang Delhi K.C.,Joginder Singh Narwal,"Defender, left corner",16.0,38.0,4.0,34.0,6.0,3.0,0.0,3.0,0.0,66.66,49.27,69.0,32.0,37.0,2.0,6.0,1.0,2.0,0.0
+ Season 5,Dabang Delhi K.C.,Joginder Singh Narwal,"Defender, left corner",8.0,9.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,37.5,24.0,9.0,15.0,0.0,3.0,0.0,0.0,0.0
+ Season 6,Dabang Delhi K.C.,Joginder Singh Narwal,"Defender, left corner",22.0,51.0,0.0,51.0,0.0,0.0,0.0,0.0,0.0,0.0,45.94,111.0,47.0,64.0,4.0,5.0,5.0,0.0,0.0
+ Season 7,Dabang Delhi K.C.,Joginder Singh Narwal,"Defender, left corner",18.0,44.0,0.0,44.0,0.0,0.0,0.0,0.0,0.0,0.0,52.38,84.0,40.0,44.0,4.0,6.0,0.0,0.0,0.0
+ Season 3,Dabang Delhi K.C.,Joginder Singh Narwal,"Defender, left corner",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Dabang Delhi K.C.,Joginder Singh Narwal,"Defender, left corner",78.0,172.0,4.0,168.0,6.0,3.0,0.0,3.0,0.0,66.66,48.55,346.0,158.0,188.0,10.0,6.0,9.0,2.0,0.0
+ Season 2,Bengal Warriors,Ashish Chhokar,Raider,6.0,13.0,12.0,1.0,32.0,7.0,9.0,16.0,0.0,37.5,50.0,2.0,1.0,1.0,0.0,7.0,0.0,0.0,0.0
+ Season 5,Bengal Warriors,Ashish Chhokar,Raider,5.0,12.0,9.0,3.0,32.0,6.0,8.0,18.0,1.0,28.12,42.85,7.0,3.0,4.0,0.0,4.0,0.0,0.0,0.0
+ Season 6,Bengal Warriors,Ashish Chhokar,Raider,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 3,Bengal Warriors,Ashish Chhokar,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Bengal Warriors,Ashish Chhokar,Raider,12.0,25.0,21.0,4.0,65.0,13.0,18.0,34.0,1.0,32.3,44.44,9.0,4.0,5.0,0.0,7.0,0.0,0.0,0.0
+ Season 2,Patna Pirates,Pardeep Narwal,Raider,6.0,9.0,9.0,0.0,38.0,7.0,12.0,19.0,1.0,23.68,0.0,2.0,0.0,2.0,0.0,4.0,1.0,0.0,0.0
+ Season 3,Patna Pirates,Pardeep Narwal,Raider,16.0,121.0,116.0,5.0,187.0,83.0,45.0,59.0,10.0,62.03,38.46,13.0,5.0,8.0,0.0,24.0,0.0,0.0,0.0
+ Season 4,Patna Pirates,Pardeep Narwal,Raider,16.0,133.0,131.0,2.0,263.0,100.0,63.0,100.0,3.0,49.8,33.33,6.0,1.0,5.0,1.0,18.0,0.0,0.0,0.0
+ Season 5,Patna Pirates,Pardeep Narwal,Raider,26.0,369.0,369.0,0.0,586.0,271.0,113.0,202.0,18.0,62.96,0.0,10.0,0.0,10.0,0.0,34.0,3.0,0.0,0.0
+ Season 6,Patna Pirates,Pardeep Narwal,Raider,21.0,233.0,233.0,0.0,391.0,185.0,93.0,113.0,6.0,59.59,0.0,1.0,0.0,1.0,0.0,27.0,0.0,0.0,0.0
+ Season 7,Patna Pirates,Pardeep Narwal,Raider,19.0,243.0,243.0,0.0,383.0,190.0,95.0,98.0,12.0,63.44,0.0,2.0,0.0,2.0,0.0,26.0,2.0,0.0,0.0
+ Overall,Patna Pirates,Pardeep Narwal,Raider,104.0,1108.0,1101.0,7.0,1848.0,836.0,421.0,591.0,50.0,59.57,20.58,34.0,6.0,28.0,1.0,34.0,6.0,0.0,0.0
+ Season 2,Patna Pirates,Mohammad Maghshoudulu,All Rounder,4.0,1.0,1.0,0.0,6.0,1.0,5.0,0.0,0.0,16.66,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+ Season 3,Patna Pirates,Mohammad Maghshoudulu,All Rounder,10.0,14.0,13.0,1.0,39.0,8.0,24.0,7.0,0.0,20.51,50.0,2.0,1.0,1.0,0.0,5.0,0.0,0.0,0.0
+ Season 4,Patna Pirates,Mohammad Maghshoudulu,All Rounder,4.0,0.0,0.0,0.0,5.0,0.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Patna Pirates,Mohammad Maghshoudulu,All Rounder,18.0,15.0,14.0,1.0,50.0,9.0,32.0,9.0,0.0,18.0,50.0,2.0,1.0,1.0,0.0,5.0,0.0,0.0,0.0
+ Season 2,U Mumba,Adinath Sakharam Gavali,"Defender, right and left cover",1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,16.66,6.0,1.0,5.0,0.0,1.0,0.0,0.0,0.0
+ Season 3,U Mumba,Adinath Sakharam Gavali,"Defender, right and left cover",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,U Mumba,Adinath Sakharam Gavali,"Defender, right and left cover",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,U Mumba,Adinath Sakharam Gavali,"Defender, right and left cover",1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,16.66,6.0,1.0,5.0,0.0,1.0,0.0,0.0,0.0
+ Season 2,Bengaluru Bulls,Ashish Kumar,All Rounder,5.0,5.0,2.0,3.0,10.0,2.0,1.0,7.0,0.0,20.0,30.0,10.0,2.0,8.0,1.0,4.0,1.0,0.0,0.0
+ Season 3,Bengaluru Bulls,Ashish Kumar,All Rounder,13.0,32.0,7.0,25.0,19.0,5.0,3.0,11.0,0.0,36.84,40.98,61.0,25.0,36.0,0.0,7.0,0.0,0.0,0.0
+ Season 4,Bengaluru Bulls,Ashish Kumar,All Rounder,14.0,37.0,14.0,23.0,48.0,11.0,9.0,28.0,0.0,29.16,52.27,44.0,17.0,27.0,6.0,7.0,0.0,0.0,0.0
+ Season 5,Bengaluru Bulls,Ashish Kumar,All Rounder,20.0,32.0,17.0,15.0,70.0,16.0,17.0,37.0,0.0,24.28,30.61,49.0,14.0,35.0,1.0,6.0,0.0,0.0,0.0
+ Season 6,Bengaluru Bulls,Ashish Kumar,All Rounder,24.0,45.0,5.0,40.0,27.0,3.0,2.0,22.0,0.0,18.51,45.97,87.0,37.0,50.0,3.0,7.0,0.0,0.0,0.0
+ Season 7,Bengaluru Bulls,Ashish Kumar,All Rounder,7.0,6.0,1.0,5.0,12.0,0.0,3.0,9.0,0.0,8.33,26.31,19.0,3.0,16.0,2.0,4.0,0.0,0.0,0.0
+ Overall,Bengaluru Bulls,Ashish Kumar,All Rounder,83.0,157.0,46.0,111.0,186.0,37.0,35.0,114.0,0.0,24.73,41.11,270.0,98.0,172.0,13.0,7.0,1.0,0.0,0.0
+ Season 2,Bengal Warriors,Rakesh Narwal,Raider,11.0,21.0,21.0,0.0,48.0,14.0,11.0,23.0,2.0,43.75,0.0,6.0,0.0,6.0,0.0,5.0,0.0,0.0,0.0
+ Season 3,Bengal Warriors,Rakesh Narwal,Raider,1.0,0.0,0.0,0.0,4.0,0.0,1.0,3.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,Bengal Warriors,Rakesh Narwal,Raider,6.0,18.0,17.0,1.0,56.0,15.0,8.0,33.0,1.0,30.35,33.33,3.0,1.0,2.0,0.0,6.0,0.0,0.0,0.0
+ Season 6,Bengal Warriors,Rakesh Narwal,Raider,6.0,10.0,9.0,1.0,17.0,5.0,7.0,5.0,1.0,52.94,33.33,3.0,1.0,2.0,0.0,3.0,0.0,0.0,0.0
+ Season 7,Bengal Warriors,Rakesh Narwal,Raider,1.0,3.0,3.0,0.0,2.0,1.0,1.0,0.0,0.0,150.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0
+ Overall,Bengal Warriors,Rakesh Narwal,Raider,25.0,52.0,50.0,2.0,127.0,35.0,28.0,64.0,4.0,39.37,15.38,13.0,2.0,11.0,0.0,6.0,0.0,0.0,0.0
+ Season 2,Tamil Thalaivas,Sunil,"Defender, left corner",9.0,24.0,2.0,22.0,5.0,1.0,1.0,3.0,0.0,40.0,57.89,38.0,19.0,19.0,3.0,6.0,2.0,1.0,0.0
+ Season 3,Tamil Thalaivas,Sunil,"Defender, left corner",15.0,30.0,1.0,29.0,3.0,1.0,0.0,2.0,0.0,33.33,42.02,69.0,28.0,41.0,1.0,5.0,1.0,1.0,0.0
+ Season 4,Tamil Thalaivas,Sunil,"Defender, left corner",10.0,17.0,1.0,16.0,1.0,0.0,1.0,0.0,0.0,100.0,45.71,35.0,15.0,20.0,1.0,3.0,0.0,0.0,0.0
+ Season 5,Tamil Thalaivas,Sunil,"Defender, left corner",18.0,25.0,0.0,25.0,2.0,0.0,1.0,1.0,0.0,0.0,37.31,67.0,24.0,43.0,1.0,4.0,4.0,0.0,0.0
+ Season 6,Tamil Thalaivas,Sunil,"Defender, left corner",11.0,13.0,0.0,13.0,2.0,0.0,0.0,2.0,0.0,0.0,39.39,33.0,12.0,21.0,1.0,3.0,1.0,0.0,0.0
+ Overall,Tamil Thalaivas,Sunil,"Defender, left corner",63.0,109.0,4.0,105.0,13.0,2.0,3.0,8.0,0.0,30.76,43.38,242.0,98.0,144.0,7.0,6.0,8.0,2.0,0.0
+ Season 2,Jaipur Pink Panthers,Deepak Narwal,Raider,16.0,61.0,57.0,4.0,147.0,45.0,43.0,59.0,1.0,38.77,28.57,14.0,4.0,10.0,0.0,10.0,0.0,0.0,0.0
+ Season 3,Jaipur Pink Panthers,Deepak Narwal,Raider,9.0,33.0,31.0,2.0,58.0,21.0,10.0,27.0,0.0,53.44,40.0,5.0,1.0,4.0,1.0,15.0,0.0,0.0,0.0
+ Season 4,Jaipur Pink Panthers,Deepak Narwal,Raider,6.0,13.0,13.0,0.0,54.0,8.0,17.0,29.0,1.0,24.07,0.0,1.0,0.0,1.0,0.0,5.0,0.0,0.0,0.0
+ Season 5,Jaipur Pink Panthers,Deepak Narwal,Raider,16.0,87.0,85.0,2.0,187.0,71.0,42.0,74.0,1.0,45.45,20.0,10.0,2.0,8.0,0.0,11.0,2.0,1.0,0.0
+ Season 6,Jaipur Pink Panthers,Deepak Narwal,Raider,17.0,74.0,70.0,4.0,140.0,55.0,35.0,50.0,1.0,50.0,44.44,9.0,4.0,5.0,0.0,13.0,0.0,0.0,0.0
+ Season 7,Jaipur Pink Panthers,Deepak Narwal,Raider,17.0,56.0,55.0,1.0,147.0,44.0,41.0,62.0,0.0,37.41,14.28,7.0,1.0,6.0,0.0,11.0,1.0,0.0,0.0
+ Overall,Jaipur Pink Panthers,Deepak Narwal,Raider,81.0,324.0,311.0,13.0,733.0,244.0,188.0,301.0,4.0,42.42,28.26,46.0,12.0,34.0,1.0,15.0,3.0,1.0,0.0
+ Season 2,Jaipur Pink Panthers,Amit Hooda,"Defender, right corner",12.0,26.0,5.0,21.0,35.0,4.0,5.0,26.0,0.0,14.28,51.21,41.0,20.0,21.0,1.0,5.0,0.0,0.0,0.0
+ Season 3,Jaipur Pink Panthers,Amit Hooda,"Defender, right corner",4.0,11.0,0.0,11.0,4.0,0.0,0.0,4.0,0.0,0.0,40.74,27.0,11.0,16.0,0.0,3.0,0.0,0.0,0.0
+ Season 4,Jaipur Pink Panthers,Amit Hooda,"Defender, right corner",16.0,53.0,2.0,51.0,2.0,0.0,2.0,0.0,0.0,100.0,57.3,89.0,47.0,42.0,4.0,6.0,0.0,1.0,0.0
+ Season 5,Jaipur Pink Panthers,Amit Hooda,"Defender, right corner",22.0,61.0,0.0,61.0,7.0,0.0,1.0,6.0,0.0,0.0,52.13,117.0,55.0,62.0,6.0,6.0,2.0,0.0,0.0
+ Season 6,Jaipur Pink Panthers,Amit Hooda,"Defender, right corner",18.0,51.0,2.0,49.0,2.0,0.0,2.0,0.0,0.0,100.0,57.64,85.0,45.0,40.0,4.0,8.0,2.0,0.0,0.0
+ Season 7,Jaipur Pink Panthers,Amit Hooda,"Defender, right corner",14.0,37.0,1.0,36.0,4.0,0.0,1.0,3.0,0.0,25.0,51.42,70.0,33.0,37.0,3.0,5.0,0.0,0.0,0.0
+ Overall,Jaipur Pink Panthers,Amit Hooda,"Defender, right corner",86.0,239.0,10.0,229.0,54.0,4.0,11.0,39.0,0.0,18.51,53.38,429.0,211.0,218.0,18.0,8.0,4.0,1.0,0.0
+ Season 6,Telugu Titans,Amit Kumar,Raider,2.0,4.0,1.0,3.0,7.0,1.0,1.0,5.0,0.0,14.28,37.5,8.0,3.0,5.0,0.0,3.0,0.0,0.0,0.0
+ Season 7,Telugu Titans,Amit Kumar,Raider,9.0,13.0,3.0,10.0,47.0,2.0,3.0,42.0,0.0,6.38,47.61,21.0,8.0,13.0,2.0,3.0,0.0,0.0,0.0
+ Overall,Telugu Titans,Amit Kumar,Raider,11.0,17.0,4.0,13.0,54.0,3.0,4.0,47.0,0.0,7.4,44.82,29.0,11.0,18.0,2.0,3.0,0.0,0.0,0.0
+ Season 3,,Vinod Kumar,,9.0,16.0,0.0,16.0,1.0,0.0,0.0,1.0,0.0,0.0,39.02,41.0,16.0,25.0,0.0,4.0,0.0,0.0,0.0
+ Season 4,,Vinod Kumar,,12.0,30.0,0.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,47.61,63.0,30.0,33.0,0.0,5.0,0.0,0.0,0.0
+ Season 5,,Vinod Kumar,,4.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,12.5,16.0,2.0,14.0,0.0,2.0,0.0,0.0,0.0
+ Season 6,,Vinod Kumar,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0
+ Overall,,Vinod Kumar,,27.0,48.0,0.0,48.0,1.0,0.0,0.0,1.0,0.0,0.0,37.5,128.0,48.0,80.0,0.0,5.0,0.0,0.0,0.0
+ Season 2,U.P. Yoddha,Rohit Kumar Choudary,Raider,14.0,64.0,61.0,3.0,178.0,41.0,46.0,91.0,6.0,34.26,17.64,17.0,3.0,14.0,0.0,11.0,3.0,0.0,0.0
+ Season 3,U.P. Yoddha,Rohit Kumar Choudary,Raider,7.0,16.0,16.0,0.0,48.0,11.0,15.0,22.0,0.0,33.33,0.0,8.0,0.0,8.0,0.0,5.0,0.0,0.0,0.0
+ Season 5,U.P. Yoddha,Rohit Kumar Choudary,Raider,11.0,13.0,13.0,0.0,46.0,10.0,12.0,24.0,0.0,28.26,0.0,2.0,0.0,2.0,0.0,4.0,1.0,0.0,0.0
+ Season 6,U.P. Yoddha,Rohit Kumar Choudary,Raider,6.0,3.0,3.0,0.0,22.0,2.0,9.0,11.0,0.0,13.63,0.0,1.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0
+ Overall,U.P. Yoddha,Rohit Kumar Choudary,Raider,38.0,96.0,93.0,3.0,294.0,64.0,82.0,148.0,6.0,31.63,10.71,28.0,3.0,25.0,0.0,11.0,4.0,0.0,0.0
+ Season 5,U.P. Yoddha,Sachin Kumar,All Rounder,9.0,7.0,1.0,6.0,7.0,0.0,2.0,5.0,0.0,14.28,25.0,24.0,6.0,18.0,0.0,5.0,1.0,0.0,0.0
+ Season 6,U.P. Yoddha,Sachin Kumar,All Rounder,25.0,68.0,25.0,43.0,89.0,21.0,14.0,54.0,0.0,28.08,42.57,101.0,39.0,62.0,4.0,7.0,1.0,1.0,0.0
+ Season 7,U.P. Yoddha,Sachin Kumar,All Rounder,12.0,4.0,0.0,4.0,14.0,0.0,1.0,13.0,0.0,0.0,36.36,11.0,3.0,8.0,1.0,2.0,0.0,0.0,0.0
+ Season 2,U.P. Yoddha,Sachin Kumar,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 3,U.P. Yoddha,Sachin Kumar,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,U.P. Yoddha,Sachin Kumar,All Rounder,46.0,79.0,26.0,53.0,110.0,21.0,17.0,72.0,0.0,23.63,38.97,136.0,48.0,88.0,5.0,7.0,2.0,1.0,0.0
+ Season 2,Bengal Warriors,K. Prapanjan,Raider,4.0,7.0,5.0,2.0,14.0,3.0,4.0,7.0,0.0,35.71,40.0,5.0,2.0,3.0,0.0,3.0,0.0,0.0,0.0
+ Season 3,Bengal Warriors,K. Prapanjan,Raider,4.0,2.0,2.0,0.0,6.0,1.0,5.0,0.0,0.0,33.33,0.0,2.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0
+ Season 4,Bengal Warriors,K. Prapanjan,Raider,11.0,12.0,12.0,0.0,42.0,10.0,13.0,19.0,0.0,28.57,0.0,1.0,0.0,1.0,0.0,3.0,0.0,0.0,0.0
+ Season 5,Bengal Warriors,K. Prapanjan,Raider,22.0,124.0,123.0,1.0,306.0,104.0,69.0,133.0,2.0,40.19,5.88,17.0,1.0,16.0,0.0,11.0,0.0,0.0,0.0
+ Season 6,Bengal Warriors,K. Prapanjan,Raider,22.0,123.0,122.0,1.0,255.0,95.0,56.0,104.0,1.0,47.84,9.09,11.0,1.0,10.0,0.0,12.0,0.0,0.0,0.0
+ Season 7,Bengal Warriors,K. Prapanjan,Raider,18.0,101.0,99.0,2.0,197.0,71.0,41.0,85.0,4.0,50.25,14.28,14.0,2.0,12.0,0.0,12.0,0.0,0.0,0.0
+ Overall,Bengal Warriors,K. Prapanjan,Raider,81.0,369.0,363.0,6.0,820.0,284.0,188.0,348.0,7.0,44.26,12.0,50.0,6.0,44.0,0.0,12.0,0.0,0.0,0.0
+ Season 2,Gujarat Fortunegiants,Amit Om Prakash Rathi,Raider,5.0,12.0,12.0,0.0,26.0,9.0,11.0,6.0,0.0,34.61,0.0,2.0,0.0,2.0,0.0,6.0,0.0,0.0,0.0
+ Season 3,Gujarat Fortunegiants,Amit Om Prakash Rathi,Raider,8.0,36.0,30.0,6.0,66.0,21.0,12.0,33.0,1.0,31.81,40.0,10.0,4.0,6.0,2.0,10.0,0.0,1.0,1.0
+ Season 4,Gujarat Fortunegiants,Amit Om Prakash Rathi,Raider,2.0,4.0,4.0,0.0,15.0,3.0,3.0,9.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0
+ Season 5,Gujarat Fortunegiants,Amit Om Prakash Rathi,Raider,1.0,0.0,0.0,0.0,3.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Gujarat Fortunegiants,Amit Om Prakash Rathi,Raider,16.0,52.0,46.0,6.0,110.0,33.0,27.0,50.0,1.0,30.0,33.33,12.0,4.0,8.0,2.0,10.0,0.0,1.0,1.0
+ Season 2,Gujarat Fortunegiants,Sachin Vittala,"Defender, left corner",4.0,11.0,11.0,0.0,32.0,9.0,5.0,18.0,1.0,34.37,0.0,2.0,0.0,2.0,0.0,8.0,0.0,0.0,0.0
+ Season 6,Gujarat Fortunegiants,Sachin Vittala,"Defender, left corner",22.0,28.0,3.0,25.0,5.0,2.0,1.0,2.0,0.0,60.0,40.98,61.0,24.0,37.0,1.0,3.0,2.0,0.0,0.0
+ Season 3,Gujarat Fortunegiants,Sachin Vittala,"Defender, left corner",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Gujarat Fortunegiants,Sachin Vittala,"Defender, left corner",26.0,39.0,14.0,25.0,37.0,11.0,6.0,20.0,1.0,37.83,39.68,63.0,24.0,39.0,1.0,8.0,2.0,0.0,0.0
+ Season 2,Bengal Warriors,Manoj Dhull,"Defender, right corner",7.0,13.0,0.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,41.93,31.0,13.0,18.0,0.0,4.0,1.0,0.0,0.0
+ Season 3,Bengal Warriors,Manoj Dhull,"Defender, right corner",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 4,Bengal Warriors,Manoj Dhull,"Defender, right corner",2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,33.33,3.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0
+ Season 5,Bengal Warriors,Manoj Dhull,"Defender, right corner",9.0,6.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,28.57,21.0,6.0,15.0,0.0,3.0,0.0,0.0,0.0
+ Season 6,Bengal Warriors,Manoj Dhull,"Defender, right corner",8.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,22.22,18.0,3.0,15.0,1.0,2.0,0.0,0.0,0.0
+ Overall,Bengal Warriors,Manoj Dhull,"Defender, right corner",27.0,24.0,0.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,32.87,73.0,23.0,50.0,1.0,4.0,1.0,0.0,0.0
+ Season 2,U.P. Yoddha,Surender Singh,Raider,2.0,8.0,5.0,3.0,16.0,4.0,6.0,6.0,0.0,31.25,50.0,6.0,3.0,3.0,0.0,6.0,0.0,0.0,0.0
+ Season 3,U.P. Yoddha,Surender Singh,Raider,12.0,45.0,44.0,1.0,106.0,34.0,27.0,45.0,2.0,41.5,9.09,11.0,1.0,10.0,0.0,9.0,1.0,0.0,0.0
+ Season 4,U.P. Yoddha,Surender Singh,Raider,11.0,11.0,9.0,2.0,43.0,7.0,18.0,18.0,0.0,20.93,25.0,8.0,2.0,6.0,0.0,3.0,0.0,0.0,0.0
+ Season 5,U.P. Yoddha,Surender Singh,Raider,18.0,70.0,68.0,2.0,131.0,47.0,35.0,49.0,2.0,51.9,8.69,23.0,2.0,21.0,0.0,11.0,0.0,0.0,0.0
+ Season 6,U.P. Yoddha,Surender Singh,Raider,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+ Season 7,U.P. Yoddha,Surender Singh,Raider,4.0,11.0,10.0,1.0,23.0,5.0,11.0,7.0,0.0,43.47,25.0,4.0,1.0,3.0,0.0,5.0,0.0,0.0,0.0
+ Overall,U.P. Yoddha,Surender Singh,Raider,48.0,145.0,136.0,9.0,320.0,97.0,98.0,125.0,4.0,42.5,16.98,53.0,9.0,44.0,0.0,11.0,1.0,0.0,0.0
+ Season 2,Haryana Steelers,Ravi Kumar,"Defender, right cover",13.0,37.0,0.0,37.0,22.0,0.0,3.0,19.0,0.0,0.0,60.65,61.0,33.0,28.0,4.0,8.0,0.0,0.0,0.0
+ Season 3,Haryana Steelers,Ravi Kumar,"Defender, right cover",12.0,9.0,0.0,9.0,1.0,0.0,1.0,0.0,0.0,0.0,37.5,24.0,8.0,16.0,1.0,2.0,0.0,0.0,0.0
+ Season 4,Haryana Steelers,Ravi Kumar,"Defender, right cover",5.0,0.0,0.0,0.0,5.0,0.0,0.0,5.0,0.0,0.0,0.0,9.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,Haryana Steelers,Ravi Kumar,"Defender, right cover",23.0,30.0,0.0,30.0,2.0,0.0,0.0,2.0,0.0,0.0,44.11,68.0,28.0,40.0,2.0,4.0,1.0,0.0,0.0
+ Season 6,Haryana Steelers,Ravi Kumar,"Defender, right cover",22.0,40.0,0.0,40.0,2.0,0.0,0.0,2.0,0.0,0.0,41.66,96.0,33.0,63.0,7.0,6.0,0.0,0.0,0.0
+ Season 7,Haryana Steelers,Ravi Kumar,"Defender, right cover",15.0,34.0,0.0,34.0,2.0,0.0,0.0,2.0,0.0,0.0,47.88,71.0,30.0,41.0,4.0,6.0,0.0,0.0,0.0
+ Overall,Haryana Steelers,Ravi Kumar,"Defender, right cover",90.0,150.0,0.0,150.0,34.0,0.0,4.0,30.0,0.0,0.0,45.59,329.0,132.0,197.0,18.0,8.0,1.0,0.0,0.0
+ Season 2,Patna Pirates,Tushar Patil,Raider,6.0,15.0,15.0,0.0,38.0,15.0,12.0,11.0,0.0,39.47,0.0,3.0,0.0,3.0,0.0,6.0,1.0,0.0,0.0
+ Season 3,Patna Pirates,Tushar Patil,Raider,13.0,22.0,22.0,0.0,57.0,16.0,14.0,27.0,2.0,38.59,0.0,6.0,0.0,6.0,0.0,6.0,0.0,0.0,0.0
+ Season 4,Patna Pirates,Tushar Patil,Raider,8.0,15.0,14.0,1.0,31.0,11.0,13.0,7.0,0.0,45.16,16.66,6.0,1.0,5.0,0.0,8.0,0.0,0.0,0.0
+ Season 5,Patna Pirates,Tushar Patil,Raider,17.0,67.0,64.0,3.0,156.0,49.0,43.0,64.0,3.0,41.02,18.75,16.0,3.0,13.0,0.0,8.0,1.0,0.0,0.0
+ Season 6,Patna Pirates,Tushar Patil,Raider,9.0,20.0,20.0,0.0,38.0,13.0,11.0,14.0,0.0,52.63,0.0,5.0,0.0,5.0,0.0,5.0,1.0,0.0,0.0
+ Overall,Patna Pirates,Tushar Patil,Raider,53.0,139.0,135.0,4.0,320.0,104.0,93.0,123.0,5.0,42.18,11.11,36.0,4.0,32.0,0.0,8.0,3.0,0.0,0.0
+ Season 2,Dabang Delhi K.C.,Yogesh Hooda,Raider,4.0,13.0,12.0,1.0,31.0,11.0,9.0,11.0,0.0,38.7,50.0,2.0,1.0,1.0,0.0,7.0,0.0,0.0,0.0
+ Season 3,Dabang Delhi K.C.,Yogesh Hooda,Raider,6.0,8.0,6.0,2.0,23.0,5.0,9.0,9.0,0.0,26.08,25.0,8.0,2.0,6.0,0.0,4.0,0.0,0.0,0.0
+ Season 4,Dabang Delhi K.C.,Yogesh Hooda,Raider,5.0,16.0,14.0,2.0,54.0,12.0,12.0,30.0,0.0,25.92,33.33,6.0,2.0,4.0,0.0,7.0,0.0,0.0,0.0
+ Season 6,Dabang Delhi K.C.,Yogesh Hooda,Raider,6.0,8.0,3.0,5.0,13.0,1.0,6.0,6.0,0.0,23.07,38.46,13.0,5.0,8.0,0.0,3.0,1.0,0.0,0.0
+ Overall,Dabang Delhi K.C.,Yogesh Hooda,Raider,21.0,45.0,35.0,10.0,121.0,29.0,36.0,56.0,0.0,28.92,34.48,29.0,10.0,19.0,0.0,7.0,1.0,0.0,0.0
+ Season 2,Patna Pirates,Hadi Oshtorak,All Rounder,4.0,7.0,0.0,7.0,1.0,0.0,1.0,0.0,0.0,0.0,53.84,13.0,6.0,7.0,1.0,5.0,0.0,0.0,0.0
+ Season 3,Patna Pirates,Hadi Oshtorak,All Rounder,10.0,18.0,0.0,18.0,1.0,0.0,1.0,0.0,0.0,0.0,45.0,40.0,17.0,23.0,1.0,4.0,0.0,0.0,0.0
+ Season 4,Patna Pirates,Hadi Oshtorak,All Rounder,7.0,13.0,1.0,12.0,1.0,0.0,1.0,0.0,0.0,100.0,57.14,21.0,9.0,12.0,3.0,5.0,0.0,0.0,0.0
+ Season 5,Patna Pirates,Hadi Oshtorak,All Rounder,16.0,20.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,36.36,55.0,17.0,38.0,3.0,4.0,4.0,0.0,0.0
+ Season 6,Patna Pirates,Hadi Oshtorak,All Rounder,13.0,18.0,6.0,12.0,11.0,4.0,2.0,5.0,0.0,54.54,41.37,29.0,12.0,17.0,0.0,5.0,3.0,0.0,0.0
+ Season 7,Patna Pirates,Hadi Oshtorak,All Rounder,19.0,43.0,8.0,35.0,38.0,4.0,2.0,32.0,0.0,21.05,44.3,79.0,29.0,50.0,6.0,5.0,6.0,0.0,0.0
+ Overall,Patna Pirates,Hadi Oshtorak,All Rounder,69.0,119.0,15.0,104.0,52.0,8.0,7.0,37.0,0.0,28.84,43.88,237.0,90.0,147.0,14.0,5.0,13.0,0.0,0.0
+ Season 2,Patna Pirates,Hyunil Park,All Rounder,2.0,3.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,50.0,50.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0
+ Season 3,Patna Pirates,Hyunil Park,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Patna Pirates,Hyunil Park,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Patna Pirates,Hyunil Park,All Rounder,2.0,3.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,50.0,50.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0
+ Season 2,Dabang Delhi K.C.,Meraj Sheykh,All Rounder,15.0,38.0,29.0,9.0,43.0,18.0,16.0,9.0,3.0,67.44,39.13,23.0,9.0,14.0,0.0,11.0,1.0,0.0,0.0
+ Season 3,Dabang Delhi K.C.,Meraj Sheykh,All Rounder,14.0,48.0,27.0,21.0,70.0,20.0,20.0,30.0,0.0,38.57,55.26,38.0,18.0,20.0,3.0,11.0,0.0,0.0,0.0
+ Season 4,Dabang Delhi K.C.,Meraj Sheykh,All Rounder,14.0,75.0,63.0,12.0,178.0,42.0,26.0,110.0,4.0,35.39,40.0,30.0,9.0,21.0,3.0,11.0,0.0,0.0,0.0
+ Season 5,Dabang Delhi K.C.,Meraj Sheykh,All Rounder,20.0,104.0,96.0,8.0,292.0,76.0,51.0,165.0,3.0,32.87,21.62,37.0,8.0,29.0,0.0,14.0,2.0,0.0,0.0
+ Season 6,Dabang Delhi K.C.,Meraj Sheykh,All Rounder,19.0,97.0,94.0,3.0,213.0,71.0,48.0,94.0,6.0,44.13,18.75,16.0,3.0,13.0,0.0,15.0,1.0,0.0,0.0
+ Season 7,Dabang Delhi K.C.,Meraj Sheykh,All Rounder,12.0,31.0,30.0,1.0,64.0,22.0,20.0,22.0,1.0,46.87,50.0,2.0,1.0,1.0,0.0,12.0,0.0,0.0,0.0
+ Overall,Dabang Delhi K.C.,Meraj Sheykh,All Rounder,94.0,393.0,339.0,54.0,860.0,249.0,181.0,430.0,17.0,39.41,36.98,146.0,48.0,98.0,6.0,15.0,4.0,0.0,0.0
+ Season 2,Patna Pirates,Kuldeep Singh,All Rounder,14.0,62.0,28.0,34.0,82.0,20.0,25.0,37.0,1.0,34.14,56.66,60.0,30.0,30.0,4.0,7.0,4.0,0.0,0.0
+ Season 3,Patna Pirates,Kuldeep Singh,All Rounder,10.0,21.0,7.0,14.0,35.0,5.0,11.0,19.0,0.0,20.0,53.84,26.0,11.0,15.0,3.0,5.0,1.0,0.0,0.0
+ Season 4,Patna Pirates,Kuldeep Singh,All Rounder,15.0,42.0,8.0,34.0,75.0,7.0,9.0,59.0,0.0,10.66,51.51,66.0,29.0,37.0,5.0,7.0,3.0,0.0,0.0
+ Season 5,Patna Pirates,Kuldeep Singh,All Rounder,20.0,47.0,16.0,31.0,41.0,7.0,13.0,21.0,1.0,39.02,37.34,83.0,25.0,58.0,6.0,7.0,2.0,0.0,0.0
+ Season 6,Patna Pirates,Kuldeep Singh,All Rounder,7.0,10.0,0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,37.03,27.0,8.0,19.0,2.0,4.0,2.0,0.0,0.0
+ Overall,Patna Pirates,Kuldeep Singh,All Rounder,66.0,182.0,59.0,123.0,234.0,39.0,58.0,137.0,2.0,25.21,46.94,262.0,103.0,159.0,20.0,7.0,12.0,0.0,0.0
+ Season 5,U.P. Yoddha,Sulieman Kabir,Raider,2.0,0.0,0.0,0.0,3.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 2,U.P. Yoddha,Sulieman Kabir,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,U.P. Yoddha,Sulieman Kabir,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,U.P. Yoddha,Sulieman Kabir,Raider,2.0,0.0,0.0,0.0,3.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 2,U Mumba,Fazel Atrachali,"Defender, left corner",5.0,12.0,1.0,11.0,4.0,1.0,1.0,2.0,0.0,25.0,84.61,13.0,9.0,4.0,2.0,7.0,1.0,0.0,0.0
+ Season 3,U Mumba,Fazel Atrachali,"Defender, left corner",11.0,33.0,1.0,32.0,2.0,0.0,1.0,1.0,0.0,50.0,69.56,46.0,32.0,14.0,0.0,6.0,0.0,1.0,0.0
+ Season 4,U Mumba,Fazel Atrachali,"Defender, left corner",16.0,52.0,0.0,52.0,1.0,0.0,0.0,1.0,0.0,0.0,72.22,72.0,45.0,27.0,7.0,8.0,1.0,1.0,0.0
+ Season 5,U Mumba,Fazel Atrachali,"Defender, left corner",24.0,57.0,0.0,57.0,11.0,0.0,2.0,9.0,0.0,0.0,57.57,99.0,54.0,45.0,3.0,9.0,4.0,0.0,0.0
+ Season 6,U Mumba,Fazel Atrachali,"Defender, left corner",23.0,83.0,0.0,83.0,14.0,0.0,0.0,14.0,0.0,0.0,63.84,130.0,80.0,50.0,3.0,7.0,8.0,0.0,0.0
+ Season 7,U Mumba,Fazel Atrachali,"Defender, left corner",18.0,59.0,2.0,57.0,13.0,1.0,1.0,11.0,0.0,15.38,58.76,97.0,54.0,43.0,3.0,6.0,3.0,0.0,0.0
+ Overall,U Mumba,Fazel Atrachali,"Defender, left corner",97.0,296.0,4.0,292.0,45.0,2.0,5.0,38.0,0.0,8.88,63.89,457.0,274.0,183.0,18.0,9.0,17.0,2.0,0.0
+ Season 2,U Mumba,Rohit Baliyan,Raider,5.0,12.0,12.0,0.0,25.0,11.0,6.0,8.0,0.0,48.0,0.0,4.0,0.0,4.0,0.0,7.0,0.0,0.0,0.0
+ Season 3,U Mumba,Rohit Baliyan,Raider,11.0,56.0,54.0,2.0,107.0,44.0,20.0,43.0,2.0,50.46,11.76,17.0,2.0,15.0,0.0,11.0,1.0,0.0,0.0
+ Season 5,U Mumba,Rohit Baliyan,Raider,17.0,74.0,65.0,9.0,165.0,55.0,34.0,76.0,1.0,39.39,32.14,28.0,9.0,19.0,0.0,11.0,0.0,0.0,0.0
+ Season 6,U Mumba,Rohit Baliyan,Raider,19.0,108.0,94.0,14.0,188.0,82.0,31.0,75.0,1.0,50.0,43.75,32.0,13.0,19.0,1.0,11.0,3.0,0.0,0.0
+ Season 7,U Mumba,Rohit Baliyan,Raider,15.0,46.0,42.0,4.0,131.0,29.0,27.0,75.0,2.0,32.06,36.36,11.0,3.0,8.0,1.0,9.0,0.0,0.0,0.0
+ Season 4,U Mumba,Rohit Baliyan,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,U Mumba,Rohit Baliyan,Raider,67.0,296.0,267.0,29.0,616.0,221.0,118.0,277.0,6.0,43.34,31.52,92.0,27.0,65.0,2.0,11.0,4.0,0.0,0.0
+ Season 2,Haryana Steelers,Selvamani K,Raider,10.0,14.0,14.0,0.0,24.0,9.0,5.0,10.0,1.0,58.33,0.0,2.0,0.0,2.0,0.0,5.0,0.0,0.0,0.0
+ Season 3,Haryana Steelers,Selvamani K,Raider,8.0,39.0,38.0,1.0,92.0,29.0,15.0,48.0,1.0,41.3,16.66,6.0,1.0,5.0,0.0,10.0,0.0,0.0,0.0
+ Season 4,Haryana Steelers,Selvamani K,Raider,13.0,45.0,45.0,0.0,106.0,34.0,19.0,53.0,1.0,42.45,0.0,8.0,0.0,8.0,0.0,7.0,0.0,0.0,0.0
+ Season 5,Haryana Steelers,Selvamani K,Raider,3.0,4.0,4.0,0.0,14.0,3.0,6.0,5.0,0.0,28.57,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+ Season 6,Haryana Steelers,Selvamani K,Raider,15.0,41.0,38.0,3.0,82.0,27.0,19.0,36.0,3.0,46.34,33.33,9.0,3.0,6.0,0.0,11.0,0.0,0.0,0.0
+ Season 7,Haryana Steelers,Selvamani K,Raider,6.0,12.0,10.0,2.0,35.0,6.0,10.0,19.0,1.0,28.57,66.66,3.0,2.0,1.0,0.0,5.0,0.0,0.0,0.0
+ Overall,Haryana Steelers,Selvamani K,Raider,55.0,155.0,149.0,6.0,353.0,108.0,74.0,171.0,7.0,42.2,21.42,28.0,6.0,22.0,0.0,11.0,0.0,0.0,0.0
+ Season 3,Jaipur Pink Panthers,David Shilisia J Mosambayi,Raider,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,Jaipur Pink Panthers,David Shilisia J Mosambayi,Raider,2.0,2.0,2.0,0.0,6.0,1.0,1.0,4.0,0.0,33.33,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+ Season 6,Jaipur Pink Panthers,David Shilisia J Mosambayi,Raider,4.0,4.0,4.0,0.0,6.0,1.0,4.0,1.0,0.0,66.66,0.0,1.0,0.0,1.0,0.0,3.0,0.0,0.0,0.0
+ Season 2,Jaipur Pink Panthers,David Shilisia J Mosambayi,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Jaipur Pink Panthers,David Shilisia J Mosambayi,Raider,7.0,6.0,6.0,0.0,13.0,2.0,5.0,6.0,0.0,46.15,0.0,1.0,0.0,1.0,0.0,3.0,0.0,0.0,0.0
+ Season 2,Tamil Thalaivas,Vineet Sharma,Raider,8.0,10.0,8.0,2.0,56.0,8.0,16.0,32.0,0.0,14.28,16.66,12.0,2.0,10.0,0.0,4.0,0.0,0.0,0.0
+ Season 3,Tamil Thalaivas,Vineet Sharma,Raider,4.0,9.0,8.0,1.0,37.0,8.0,8.0,21.0,0.0,21.62,25.0,4.0,1.0,3.0,0.0,6.0,0.0,0.0,0.0
+ Season 5,Tamil Thalaivas,Vineet Sharma,Raider,18.0,30.0,16.0,14.0,104.0,15.0,14.0,75.0,0.0,15.38,34.14,41.0,13.0,28.0,1.0,4.0,1.0,0.0,0.0
+ Season 7,Tamil Thalaivas,Vineet Sharma,Raider,10.0,14.0,7.0,7.0,16.0,2.0,5.0,9.0,0.0,43.75,50.0,14.0,6.0,8.0,1.0,5.0,0.0,0.0,0.0
+ Season 6,Tamil Thalaivas,Vineet Sharma,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Tamil Thalaivas,Vineet Sharma,Raider,40.0,63.0,39.0,24.0,213.0,33.0,43.0,137.0,0.0,18.3,33.8,71.0,22.0,49.0,2.0,6.0,1.0,0.0,0.0
+ Season 3,Puneri Paltan,Umesh Mhatre,Raider,6.0,19.0,14.0,5.0,48.0,11.0,9.0,28.0,0.0,22.91,44.44,9.0,4.0,5.0,1.0,6.0,1.0,0.0,0.0
+ Season 4,Puneri Paltan,Umesh Mhatre,Raider,2.0,8.0,4.0,4.0,8.0,4.0,0.0,4.0,0.0,50.0,33.33,9.0,3.0,6.0,1.0,5.0,0.0,0.0,0.0
+ Season 5,Puneri Paltan,Umesh Mhatre,Raider,5.0,1.0,1.0,0.0,11.0,1.0,6.0,4.0,0.0,9.09,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+ Overall,Puneri Paltan,Umesh Mhatre,Raider,13.0,28.0,19.0,9.0,67.0,16.0,15.0,36.0,0.0,23.88,38.88,18.0,7.0,11.0,2.0,6.0,1.0,0.0,0.0
+ Season 3,Telugu Titans,Krushna Madane,Defender,1.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Telugu Titans,Krushna Madane,Defender,6.0,12.0,1.0,11.0,3.0,1.0,0.0,2.0,0.0,33.33,44.0,25.0,11.0,14.0,0.0,4.0,1.0,0.0,0.0
+ Season 7,Telugu Titans,Krushna Madane,Defender,9.0,6.0,0.0,6.0,10.0,0.0,0.0,10.0,0.0,0.0,33.33,18.0,6.0,12.0,0.0,2.0,0.0,0.0,0.0
+ Overall,Telugu Titans,Krushna Madane,Defender,16.0,18.0,1.0,17.0,15.0,1.0,2.0,12.0,0.0,6.66,39.53,43.0,17.0,26.0,0.0,4.0,1.0,0.0,0.0
+ Season 3,Haryana Steelers,Deepak Kumar Rathee,All Rounder,14.0,17.0,6.0,11.0,28.0,4.0,6.0,18.0,1.0,14.28,33.33,33.0,11.0,22.0,0.0,3.0,0.0,0.0,0.0
+ Season 5,Haryana Steelers,Deepak Kumar Rathee,All Rounder,6.0,7.0,3.0,4.0,17.0,3.0,5.0,9.0,0.0,17.64,50.0,6.0,3.0,3.0,1.0,2.0,0.0,0.0,0.0
+ Overall,Haryana Steelers,Deepak Kumar Rathee,All Rounder,20.0,24.0,9.0,15.0,45.0,7.0,11.0,27.0,1.0,15.55,35.89,39.0,14.0,25.0,1.0,3.0,0.0,0.0,0.0
+ Season 4,Bengal Warriors,Shashank Wankhede,"Defender, left cover",2.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,Bengal Warriors,Shashank Wankhede,"Defender, left cover",3.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,16.66,12.0,2.0,10.0,0.0,2.0,0.0,0.0,0.0
+ Overall,Bengal Warriors,Shashank Wankhede,"Defender, left cover",5.0,2.0,0.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,13.33,15.0,2.0,13.0,0.0,2.0,0.0,0.0,0.0
+ Season 3,Bengal Warriors,Rahul Kumar,"Defender, right cover",11.0,14.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,27.27,44.0,12.0,32.0,2.0,4.0,0.0,0.0,0.0
+ Season 4,Bengal Warriors,Rahul Kumar,"Defender, right cover",9.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,11.11,18.0,2.0,16.0,0.0,1.0,0.0,0.0,0.0
+ Season 5,Bengal Warriors,Rahul Kumar,"Defender, right cover",10.0,6.0,0.0,6.0,1.0,0.0,0.0,1.0,0.0,0.0,20.0,30.0,6.0,24.0,0.0,3.0,0.0,0.0,0.0
+ Overall,Bengal Warriors,Rahul Kumar,"Defender, right cover",30.0,22.0,0.0,22.0,1.0,0.0,0.0,1.0,0.0,0.0,21.73,92.0,20.0,72.0,2.0,4.0,0.0,0.0,0.0
+ Season 3,Jaipur Pink Panthers,Sandeep Kumar Dhull,"Defender, left corner",10.0,32.0,0.0,32.0,1.0,0.0,1.0,0.0,0.0,0.0,52.45,61.0,26.0,35.0,6.0,6.0,0.0,0.0,0.0
+ Season 4,Jaipur Pink Panthers,Sandeep Kumar Dhull,"Defender, left corner",12.0,35.0,0.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,52.23,67.0,35.0,32.0,0.0,8.0,0.0,0.0,0.0
+ Season 6,Jaipur Pink Panthers,Sandeep Kumar Dhull,"Defender, left corner",22.0,67.0,0.0,67.0,1.0,0.0,0.0,1.0,0.0,0.0,52.34,128.0,62.0,66.0,5.0,6.0,1.0,0.0,0.0
+ Season 7,Jaipur Pink Panthers,Sandeep Kumar Dhull,"Defender, left corner",20.0,68.0,1.0,67.0,3.0,0.0,1.0,2.0,0.0,33.33,50.37,133.0,60.0,73.0,7.0,8.0,1.0,0.0,0.0
+ Overall,Jaipur Pink Panthers,Sandeep Kumar Dhull,"Defender, left corner",64.0,202.0,1.0,201.0,5.0,0.0,2.0,3.0,0.0,20.0,51.67,389.0,183.0,206.0,18.0,8.0,2.0,0.0,0.0
+ Season 3,Jaipur Pink Panthers,Nilesh Salunke,Raider,7.0,10.0,10.0,0.0,20.0,5.0,5.0,10.0,1.0,50.0,0.0,3.0,0.0,3.0,0.0,5.0,0.0,0.0,0.0
+ Season 4,Jaipur Pink Panthers,Nilesh Salunke,Raider,15.0,62.0,61.0,1.0,139.0,47.0,34.0,58.0,1.0,43.88,10.0,10.0,1.0,9.0,0.0,10.0,0.0,0.0,0.0
+ Season 5,Jaipur Pink Panthers,Nilesh Salunke,Raider,21.0,105.0,98.0,7.0,247.0,78.0,40.0,129.0,2.0,39.67,38.88,18.0,5.0,13.0,2.0,11.0,2.0,0.0,0.0
+ Season 6,Jaipur Pink Panthers,Nilesh Salunke,Raider,19.0,85.0,81.0,4.0,201.0,59.0,53.0,89.0,4.0,40.29,19.04,21.0,4.0,17.0,0.0,9.0,5.0,0.0,0.0
+ Season 7,Jaipur Pink Panthers,Nilesh Salunke,Raider,17.0,55.0,53.0,2.0,128.0,40.0,29.0,59.0,1.0,41.4,28.57,7.0,2.0,5.0,0.0,15.0,1.0,0.0,0.0
+ Overall,Jaipur Pink Panthers,Nilesh Salunke,Raider,79.0,317.0,303.0,14.0,735.0,229.0,161.0,345.0,9.0,41.22,23.72,59.0,12.0,47.0,2.0,15.0,8.0,0.0,0.0
+ Season 3,Bengaluru Bulls,Sandeep,"Defender, left corner",3.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,30.0,10.0,3.0,7.0,0.0,3.0,0.0,0.0,0.0
+ Season 6,Bengaluru Bulls,Sandeep,"Defender, left corner",10.0,16.0,0.0,16.0,2.0,0.0,1.0,1.0,0.0,0.0,47.05,34.0,13.0,21.0,3.0,4.0,0.0,0.0,0.0
+ Season 7,Bengaluru Bulls,Sandeep,"Defender, left corner",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,Bengaluru Bulls,Sandeep,"Defender, left corner",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Bengaluru Bulls,Sandeep,"Defender, left corner",14.0,19.0,0.0,19.0,2.0,0.0,1.0,1.0,0.0,0.0,42.22,45.0,16.0,29.0,3.0,4.0,0.0,0.0,0.0
+ Season 3,Gujarat Fortunegiants,Abolfazl Maghsodloumahali,Raider,3.0,0.0,0.0,0.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 4,Gujarat Fortunegiants,Abolfazl Maghsodloumahali,Raider,9.0,25.0,25.0,0.0,37.0,18.0,14.0,5.0,2.0,67.56,0.0,1.0,0.0,1.0,0.0,9.0,0.0,0.0,0.0
+ Season 5,Gujarat Fortunegiants,Abolfazl Maghsodloumahali,Raider,19.0,97.0,91.0,6.0,230.0,77.0,47.0,106.0,0.0,39.56,42.85,14.0,5.0,9.0,1.0,11.0,4.0,0.0,0.0
+ Season 6,Gujarat Fortunegiants,Abolfazl Maghsodloumahali,Raider,10.0,25.0,23.0,2.0,77.0,19.0,19.0,39.0,2.0,29.87,28.57,7.0,2.0,5.0,0.0,5.0,0.0,0.0,0.0
+ Season 7,Gujarat Fortunegiants,Abolfazl Maghsodloumahali,Raider,6.0,5.0,5.0,0.0,10.0,3.0,6.0,1.0,0.0,50.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0
+ Overall,Gujarat Fortunegiants,Abolfazl Maghsodloumahali,Raider,47.0,152.0,144.0,8.0,356.0,117.0,87.0,152.0,4.0,40.44,36.36,22.0,7.0,15.0,1.0,11.0,4.0,0.0,0.0
+ Season 3,Puneri Paltan,Hadi Tajik,"Defender, right corner",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+ Season 4,Puneri Paltan,Hadi Tajik,"Defender, right corner",1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,100.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+ Season 5,Puneri Paltan,Hadi Tajik,"Defender, right corner",9.0,9.0,4.0,5.0,12.0,2.0,7.0,3.0,0.0,33.33,21.73,23.0,5.0,18.0,0.0,2.0,1.0,0.0,0.0
+ Season 6,Puneri Paltan,Hadi Tajik,"Defender, right corner",5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,6.0,0.0,0.0,3.0,0.0,0.0
+ Season 7,Puneri Paltan,Hadi Tajik,"Defender, right corner",12.0,17.0,1.0,16.0,6.0,1.0,2.0,3.0,0.0,16.66,43.24,37.0,15.0,22.0,1.0,4.0,0.0,0.0,0.0
+ Overall,Puneri Paltan,Hadi Tajik,"Defender, right corner",28.0,27.0,5.0,22.0,18.0,3.0,9.0,6.0,0.0,27.77,32.35,68.0,21.0,47.0,1.0,4.0,4.0,0.0,0.0
+ Season 5,Dabang Delhi K.C.,Khomsan Thongkham,Raider,2.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 3,Dabang Delhi K.C.,Khomsan Thongkham,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 4,Dabang Delhi K.C.,Khomsan Thongkham,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Dabang Delhi K.C.,Khomsan Thongkham,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Dabang Delhi K.C.,Khomsan Thongkham,Raider,2.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 3,Dabang Delhi K.C.,Anil Kumar,"Defender, left cover",11.0,21.0,2.0,19.0,15.0,2.0,3.0,10.0,0.0,13.33,37.25,51.0,19.0,32.0,0.0,4.0,1.0,0.0,0.0
+ Season 4,Dabang Delhi K.C.,Anil Kumar,"Defender, left cover",4.0,2.0,0.0,2.0,2.0,0.0,0.0,2.0,0.0,0.0,28.57,7.0,2.0,5.0,0.0,2.0,0.0,0.0,0.0
+ Season 5,Dabang Delhi K.C.,Anil Kumar,"Defender, left cover",5.0,1.0,0.0,1.0,4.0,0.0,0.0,4.0,0.0,0.0,33.33,3.0,1.0,2.0,0.0,1.0,1.0,0.0,0.0
+ Season 6,Dabang Delhi K.C.,Anil Kumar,"Defender, left cover",18.0,30.0,1.0,29.0,9.0,0.0,2.0,7.0,0.0,11.11,48.33,60.0,25.0,35.0,4.0,4.0,1.0,0.0,0.0
+ Season 7,Dabang Delhi K.C.,Anil Kumar,"Defender, left cover",14.0,24.0,0.0,24.0,3.0,0.0,0.0,3.0,0.0,0.0,36.92,65.0,23.0,42.0,1.0,4.0,0.0,0.0,0.0
+ Overall,Dabang Delhi K.C.,Anil Kumar,"Defender, left cover",52.0,78.0,3.0,75.0,33.0,2.0,5.0,26.0,0.0,9.09,40.32,186.0,70.0,116.0,5.0,4.0,3.0,0.0,0.0
+ Season 3,Bengal Warriors,Virender Wazir Singh,Raider,4.0,7.0,6.0,1.0,17.0,4.0,5.0,8.0,0.0,23.52,100.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,0.0
+ Season 5,Bengal Warriors,Virender Wazir Singh,Raider,3.0,8.0,8.0,0.0,11.0,3.0,6.0,2.0,1.0,27.27,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0
+ Overall,Bengal Warriors,Virender Wazir Singh,Raider,7.0,15.0,14.0,1.0,28.0,7.0,11.0,10.0,1.0,25.0,100.0,1.0,1.0,0.0,0.0,5.0,0.0,0.0,0.0
+ Season 3,Bengaluru Bulls,Pawan Kumar Sehrawat,Raider,13.0,53.0,45.0,8.0,110.0,36.0,39.0,35.0,1.0,40.9,47.05,17.0,6.0,11.0,2.0,7.0,0.0,0.0,0.0
+ Season 4,Bengaluru Bulls,Pawan Kumar Sehrawat,Raider,10.0,11.0,11.0,0.0,33.0,8.0,17.0,8.0,0.0,33.33,0.0,1.0,0.0,1.0,0.0,4.0,0.0,0.0,0.0
+ Season 5,Bengaluru Bulls,Pawan Kumar Sehrawat,Raider,9.0,10.0,9.0,1.0,24.0,5.0,13.0,6.0,0.0,37.5,50.0,2.0,1.0,1.0,0.0,4.0,0.0,0.0,0.0
+ Season 6,Bengaluru Bulls,Pawan Kumar Sehrawat,Raider,24.0,282.0,271.0,11.0,375.0,209.0,85.0,81.0,12.0,72.26,27.5,40.0,11.0,29.0,0.0,22.0,1.0,0.0,0.0
+ Season 7,Bengaluru Bulls,Pawan Kumar Sehrawat,Raider,19.0,256.0,242.0,14.0,343.0,187.0,89.0,67.0,6.0,70.55,48.27,29.0,13.0,16.0,1.0,29.0,0.0,0.0,0.0
+ Overall,Bengaluru Bulls,Pawan Kumar Sehrawat,Raider,75.0,612.0,578.0,34.0,885.0,445.0,243.0,197.0,19.0,65.31,38.2,89.0,31.0,58.0,3.0,29.0,1.0,0.0,0.0
+ Season 3,Puneri Paltan,Nitin Tomar,Raider,10.0,81.0,77.0,4.0,160.0,68.0,25.0,67.0,1.0,48.12,36.36,11.0,3.0,8.0,1.0,13.0,0.0,0.0,0.0
+ Season 4,Puneri Paltan,Nitin Tomar,Raider,12.0,34.0,33.0,1.0,112.0,30.0,29.0,53.0,1.0,29.46,12.5,8.0,1.0,7.0,0.0,7.0,0.0,0.0,0.0
+ Season 5,Puneri Paltan,Nitin Tomar,Raider,20.0,177.0,167.0,10.0,327.0,135.0,45.0,147.0,7.0,51.07,33.33,30.0,9.0,21.0,1.0,18.0,0.0,0.0,0.0
+ Season 6,Puneri Paltan,Nitin Tomar,Raider,11.0,102.0,100.0,2.0,191.0,84.0,32.0,75.0,1.0,52.35,22.22,9.0,2.0,7.0,0.0,20.0,0.0,0.0,0.0
+ Season 7,Puneri Paltan,Nitin Tomar,Raider,12.0,53.0,50.0,3.0,120.0,45.0,31.0,44.0,0.0,41.66,15.78,19.0,3.0,16.0,0.0,11.0,0.0,0.0,0.0
+ Overall,Puneri Paltan,Nitin Tomar,Raider,65.0,447.0,427.0,20.0,910.0,362.0,162.0,386.0,10.0,46.92,25.97,77.0,18.0,59.0,2.0,20.0,0.0,0.0,0.0
+ Season 3,Puneri Paltan,PO Surjeet Singh,"Defender, right cover",12.0,49.0,1.0,48.0,6.0,1.0,0.0,5.0,0.0,16.66,64.0,75.0,47.0,28.0,1.0,9.0,0.0,0.0,0.0
+ Season 4,Puneri Paltan,PO Surjeet Singh,"Defender, right cover",14.0,37.0,0.0,37.0,3.0,0.0,0.0,3.0,0.0,0.0,50.68,73.0,33.0,40.0,4.0,5.0,0.0,0.0,0.0
+ Season 5,Puneri Paltan,PO Surjeet Singh,"Defender, right cover",24.0,79.0,3.0,76.0,52.0,3.0,1.0,48.0,0.0,5.76,52.05,146.0,72.0,74.0,4.0,8.0,8.0,0.0,0.0
+ Season 6,Puneri Paltan,PO Surjeet Singh,"Defender, right cover",23.0,57.0,3.0,54.0,54.0,2.0,2.0,50.0,0.0,5.55,41.86,129.0,52.0,77.0,2.0,7.0,7.0,0.0,0.0
+ Season 7,Puneri Paltan,PO Surjeet Singh,"Defender, right cover",19.0,53.0,2.0,51.0,18.0,1.0,1.0,16.0,0.0,11.11,49.51,103.0,46.0,57.0,5.0,7.0,3.0,0.0,0.0
+ Overall,Puneri Paltan,PO Surjeet Singh,"Defender, right cover",92.0,275.0,9.0,266.0,133.0,7.0,4.0,122.0,0.0,6.76,50.57,526.0,250.0,276.0,16.0,9.0,18.0,0.0,0.0
+ Season 5,Bengaluru Bulls,Mahendra Singh Dhaka,"Defender, right cover",2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+ Season 3,Bengaluru Bulls,Mahendra Singh Dhaka,"Defender, right cover",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Bengaluru Bulls,Mahendra Singh Dhaka,"Defender, right cover",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Bengaluru Bulls,Mahendra Singh Dhaka,"Defender, right cover",2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+ Season 3,Puneri Paltan,Darshan Kadian,Raider,2.0,2.0,0.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,25.0,8.0,2.0,6.0,0.0,2.0,0.0,0.0,0.0
+ Season 5,Puneri Paltan,Darshan Kadian,Raider,16.0,40.0,33.0,7.0,72.0,24.0,26.0,22.0,1.0,45.83,30.43,23.0,4.0,19.0,3.0,8.0,0.0,0.0,0.0
+ Season 6,Puneri Paltan,Darshan Kadian,Raider,14.0,50.0,49.0,1.0,141.0,38.0,29.0,74.0,1.0,34.75,33.33,3.0,1.0,2.0,0.0,10.0,1.0,0.0,0.0
+ Season 7,Puneri Paltan,Darshan Kadian,Raider,6.0,7.0,6.0,1.0,20.0,3.0,6.0,11.0,0.0,30.0,12.5,8.0,1.0,7.0,0.0,3.0,0.0,0.0,0.0
+ Overall,Puneri Paltan,Darshan Kadian,Raider,38.0,99.0,88.0,11.0,234.0,65.0,62.0,107.0,2.0,37.6,26.19,42.0,8.0,34.0,3.0,10.0,1.0,0.0,0.0
+ Season 3,Bengaluru Bulls,Rohit Kumar,Raider,12.0,109.0,102.0,7.0,178.0,80.0,28.0,70.0,4.0,57.3,50.0,14.0,7.0,7.0,0.0,16.0,0.0,0.0,0.0
+ Season 4,Bengaluru Bulls,Rohit Kumar,Raider,14.0,100.0,93.0,7.0,234.0,75.0,52.0,107.0,3.0,39.74,43.75,16.0,6.0,10.0,1.0,11.0,0.0,0.0,0.0
+ Season 5,Bengaluru Bulls,Rohit Kumar,Raider,22.0,231.0,219.0,12.0,418.0,192.0,82.0,144.0,1.0,52.39,44.44,27.0,11.0,16.0,1.0,32.0,1.0,0.0,0.0
+ Season 6,Bengaluru Bulls,Rohit Kumar,Raider,24.0,171.0,162.0,9.0,341.0,129.0,64.0,148.0,5.0,47.5,30.0,30.0,9.0,21.0,0.0,16.0,1.0,1.0,0.0
+ Season 7,Bengaluru Bulls,Rohit Kumar,Raider,17.0,92.0,88.0,4.0,230.0,69.0,67.0,94.0,2.0,38.26,23.52,17.0,4.0,13.0,0.0,14.0,0.0,0.0,0.0
+ Overall,Bengaluru Bulls,Rohit Kumar,Raider,89.0,703.0,664.0,39.0,1401.0,545.0,293.0,563.0,15.0,47.39,37.5,104.0,37.0,67.0,2.0,32.0,2.0,1.0,0.0
+ Season 6,Patna Pirates,Ogak Haggai Odhiambo,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Patna Pirates,Ogak Haggai Odhiambo,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 4,Haryana Steelers,Tin Phonchoo,All Rounder,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 7,Haryana Steelers,Tin Phonchoo,All Rounder,2.0,0.0,0.0,0.0,3.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Haryana Steelers,Tin Phonchoo,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Haryana Steelers,Tin Phonchoo,All Rounder,3.0,0.0,0.0,0.0,3.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,Haryana Steelers,Md. Zakir Hossain,Raider,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+ Season 4,Haryana Steelers,Md. Zakir Hossain,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Haryana Steelers,Md. Zakir Hossain,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Haryana Steelers,Md. Zakir Hossain,Raider,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+ Season 4,Puneri Paltan,Sagar B Krishna,All Rounder,11.0,6.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,37.5,16.0,6.0,10.0,0.0,2.0,0.0,0.0,0.0
+ Season 5,Puneri Paltan,Sagar B Krishna,All Rounder,17.0,33.0,1.0,32.0,10.0,1.0,1.0,8.0,0.0,10.0,51.61,62.0,29.0,33.0,3.0,6.0,0.0,0.0,0.0
+ Season 6,Puneri Paltan,Sagar B Krishna,All Rounder,20.0,18.0,0.0,18.0,9.0,0.0,1.0,8.0,0.0,0.0,40.0,45.0,17.0,28.0,1.0,5.0,0.0,0.0,0.0
+ Season 7,Puneri Paltan,Sagar B Krishna,All Rounder,11.0,14.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,51.85,27.0,11.0,16.0,3.0,7.0,0.0,0.0,0.0
+ Overall,Puneri Paltan,Sagar B Krishna,All Rounder,59.0,71.0,1.0,70.0,19.0,1.0,2.0,16.0,0.0,5.26,46.66,150.0,63.0,87.0,7.0,7.0,0.0,0.0,0.0
+ Season 6,Telugu Titans,Mahender Reddy,All Rounder,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Telugu Titans,Mahender Reddy,All Rounder,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 4,Gujarat Fortunegiants,Parvesh Bhainswal,"Defender, left cover",7.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,17.64,17.0,3.0,14.0,0.0,2.0,0.0,0.0,0.0
+ Season 5,Gujarat Fortunegiants,Parvesh Bhainswal,"Defender, left cover",24.0,48.0,0.0,48.0,0.0,0.0,0.0,0.0,0.0,0.0,53.93,89.0,44.0,45.0,4.0,5.0,1.0,0.0,0.0
+ Season 6,Gujarat Fortunegiants,Parvesh Bhainswal,"Defender, left cover",25.0,86.0,0.0,86.0,1.0,0.0,0.0,1.0,0.0,0.0,62.31,138.0,82.0,56.0,4.0,8.0,3.0,0.0,0.0
+ Season 7,Gujarat Fortunegiants,Parvesh Bhainswal,"Defender, left cover",18.0,40.0,0.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,52.63,76.0,38.0,38.0,2.0,7.0,0.0,0.0,0.0
+ Overall,Gujarat Fortunegiants,Parvesh Bhainswal,"Defender, left cover",74.0,177.0,0.0,177.0,1.0,0.0,0.0,1.0,0.0,0.0,55.31,320.0,167.0,153.0,10.0,8.0,4.0,0.0,0.0
+ Season 4,Telugu Titans,Vishal Bhardwaj,Defender,2.0,7.0,1.0,6.0,1.0,1.0,0.0,0.0,0.0,100.0,40.0,15.0,6.0,9.0,0.0,5.0,0.0,0.0,0.0
+ Season 5,Telugu Titans,Vishal Bhardwaj,Defender,22.0,71.0,0.0,71.0,5.0,0.0,1.0,4.0,0.0,0.0,51.82,137.0,68.0,69.0,3.0,7.0,6.0,0.0,0.0
+ Season 6,Telugu Titans,Vishal Bhardwaj,Defender,17.0,60.0,0.0,60.0,40.0,0.0,0.0,40.0,0.0,0.0,63.15,95.0,51.0,44.0,9.0,9.0,5.0,0.0,0.0
+ Season 7,Telugu Titans,Vishal Bhardwaj,Defender,18.0,61.0,0.0,61.0,14.0,0.0,0.0,14.0,0.0,0.0,58.09,105.0,52.0,53.0,9.0,8.0,5.0,0.0,0.0
+ Overall,Telugu Titans,Vishal Bhardwaj,Defender,59.0,199.0,1.0,198.0,60.0,1.0,1.0,58.0,0.0,1.66,56.25,352.0,177.0,175.0,21.0,9.0,16.0,0.0,0.0
+ Season 4,Telugu Titans,Sanket Chavan,"Defender, left corner",6.0,11.0,0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,45.83,24.0,11.0,13.0,0.0,3.0,0.0,0.0,0.0
+ Season 5,Telugu Titans,Sanket Chavan,"Defender, left corner",7.0,4.0,0.0,4.0,1.0,0.0,0.0,1.0,0.0,0.0,26.66,15.0,4.0,11.0,0.0,2.0,0.0,0.0,0.0
+ Season 6,Telugu Titans,Sanket Chavan,"Defender, left corner",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Telugu Titans,Sanket Chavan,"Defender, left corner",13.0,15.0,0.0,15.0,2.0,0.0,0.0,2.0,0.0,0.0,38.46,39.0,15.0,24.0,0.0,3.0,0.0,0.0,0.0
+ Season 4,Dabang Delhi K.C.,Sombir,Defender,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,Dabang Delhi K.C.,Sombir,Defender,17.0,39.0,0.0,39.0,0.0,0.0,0.0,0.0,0.0,0.0,46.42,84.0,33.0,51.0,6.0,10.0,1.0,0.0,0.0
+ Season 6,Dabang Delhi K.C.,Sombir,Defender,4.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,12.5,8.0,1.0,7.0,0.0,1.0,0.0,0.0,0.0
+ Season 7,Dabang Delhi K.C.,Sombir,Defender,7.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,4.0,1.0,3.0,0.0,1.0,0.0,0.0,0.0
+ Overall,Dabang Delhi K.C.,Sombir,Defender,30.0,41.0,0.0,41.0,0.0,0.0,0.0,0.0,0.0,0.0,42.26,97.0,35.0,62.0,6.0,10.0,1.0,0.0,0.0
+ Season 4,Bengaluru Bulls,Sumit Singh,Raider,5.0,9.0,7.0,2.0,20.0,5.0,6.0,9.0,0.0,35.0,40.0,5.0,1.0,4.0,1.0,4.0,0.0,0.0,0.0
+ Season 5,Bengaluru Bulls,Sumit Singh,Raider,4.0,0.0,0.0,0.0,5.0,0.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Bengaluru Bulls,Sumit Singh,Raider,8.0,15.0,11.0,4.0,27.0,7.0,6.0,14.0,0.0,40.74,40.0,10.0,4.0,6.0,0.0,4.0,2.0,0.0,0.0
+ Season 7,Bengaluru Bulls,Sumit Singh,Raider,15.0,39.0,36.0,3.0,92.0,27.0,28.0,37.0,0.0,39.13,27.27,11.0,2.0,9.0,1.0,7.0,1.0,0.0,0.0
+ Overall,Bengaluru Bulls,Sumit Singh,Raider,32.0,63.0,54.0,9.0,144.0,39.0,42.0,63.0,0.0,37.5,34.61,26.0,7.0,19.0,2.0,7.0,3.0,0.0,0.0
+ Season 4,Puneri Paltan,Akshay Jadhav,Raider,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,Puneri Paltan,Akshay Jadhav,Raider,10.0,21.0,9.0,12.0,39.0,9.0,9.0,21.0,0.0,23.07,70.58,17.0,10.0,7.0,2.0,6.0,0.0,0.0,0.0
+ Season 6,Puneri Paltan,Akshay Jadhav,Raider,18.0,41.0,28.0,13.0,108.0,25.0,26.0,57.0,1.0,25.92,50.0,26.0,12.0,14.0,1.0,7.0,0.0,0.0,0.0
+ Overall,Puneri Paltan,Akshay Jadhav,Raider,29.0,62.0,37.0,25.0,147.0,34.0,35.0,78.0,1.0,25.17,58.13,43.0,22.0,21.0,3.0,7.0,0.0,0.0,0.0
+ Season 4,Haryana Steelers,Vikash Kandola,Raider,4.0,3.0,3.0,0.0,17.0,3.0,5.0,9.0,0.0,17.64,0.0,2.0,0.0,2.0,0.0,3.0,0.0,0.0,0.0
+ Season 5,Haryana Steelers,Vikash Kandola,Raider,9.0,58.0,58.0,0.0,136.0,44.0,29.0,63.0,1.0,42.64,0.0,4.0,0.0,4.0,0.0,9.0,0.0,0.0,0.0
+ Season 6,Haryana Steelers,Vikash Kandola,Raider,22.0,177.0,172.0,5.0,347.0,136.0,79.0,132.0,5.0,49.56,27.77,18.0,5.0,13.0,0.0,15.0,2.0,0.0,0.0
+ Season 7,Haryana Steelers,Vikash Kandola,Raider,14.0,142.0,138.0,4.0,284.0,107.0,53.0,124.0,5.0,48.59,40.0,10.0,4.0,6.0,0.0,13.0,0.0,0.0,0.0
+ Overall,Haryana Steelers,Vikash Kandola,Raider,49.0,380.0,371.0,9.0,784.0,290.0,166.0,328.0,11.0,47.32,26.47,34.0,9.0,25.0,0.0,15.0,2.0,0.0,0.0
+ Season 4,Gujarat Fortunegiants,Sunil Kumar,Defender,1.0,1.0,1.0,0.0,2.0,1.0,0.0,1.0,0.0,50.0,0.0,4.0,0.0,4.0,0.0,1.0,0.0,0.0,0.0
+ Season 5,Gujarat Fortunegiants,Sunil Kumar,Defender,24.0,58.0,1.0,57.0,31.0,1.0,1.0,29.0,0.0,3.22,56.43,101.0,55.0,46.0,2.0,7.0,4.0,1.0,0.0
+ Season 6,Gujarat Fortunegiants,Sunil Kumar,Defender,25.0,76.0,0.0,76.0,30.0,0.0,1.0,29.0,0.0,0.0,54.28,140.0,72.0,68.0,4.0,8.0,2.0,0.0,0.0
+ Season 7,Gujarat Fortunegiants,Sunil Kumar,Defender,18.0,47.0,1.0,46.0,13.0,1.0,0.0,12.0,0.0,7.69,53.48,86.0,40.0,46.0,6.0,7.0,0.0,0.0,0.0
+ Overall,Gujarat Fortunegiants,Sunil Kumar,Defender,68.0,182.0,3.0,179.0,76.0,3.0,2.0,71.0,0.0,3.94,54.07,331.0,167.0,164.0,12.0,8.0,6.0,1.0,0.0
+ Season 4,Bengal Warriors,Ravindra Ramesh Kumawat,Raider,2.0,3.0,2.0,1.0,8.0,2.0,3.0,3.0,0.0,25.0,100.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0
+ Season 5,Bengal Warriors,Ravindra Ramesh Kumawat,Raider,2.0,2.0,2.0,0.0,7.0,2.0,3.0,2.0,0.0,28.57,0.0,1.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0
+ Season 6,Bengal Warriors,Ravindra Ramesh Kumawat,Raider,12.0,42.0,37.0,5.0,91.0,29.0,20.0,42.0,2.0,40.65,27.77,18.0,5.0,13.0,0.0,8.0,0.0,0.0,0.0
+ Season 7,Bengal Warriors,Ravindra Ramesh Kumawat,Raider,2.0,2.0,1.0,1.0,7.0,1.0,3.0,3.0,0.0,14.28,100.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0
+ Overall,Bengal Warriors,Ravindra Ramesh Kumawat,Raider,18.0,49.0,42.0,7.0,113.0,34.0,29.0,50.0,2.0,37.16,33.33,21.0,7.0,14.0,0.0,8.0,0.0,0.0,0.0
+ Season 4,Bengal Warriors,Amit Nagar,Raider,3.0,2.0,2.0,0.0,6.0,1.0,3.0,2.0,0.0,33.33,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+ Season 6,Bengal Warriors,Amit Nagar,Raider,9.0,21.0,15.0,6.0,36.0,13.0,8.0,15.0,0.0,41.66,37.5,16.0,6.0,10.0,0.0,7.0,0.0,0.0,0.0
+ Overall,Bengal Warriors,Amit Nagar,Raider,12.0,23.0,17.0,6.0,42.0,14.0,11.0,17.0,0.0,40.47,37.5,16.0,6.0,10.0,0.0,7.0,0.0,0.0,0.0
+ Season 5,Bengaluru Bulls,Harish Naik,Raider,14.0,24.0,24.0,0.0,53.0,20.0,17.0,16.0,0.0,45.28,0.0,6.0,0.0,6.0,0.0,11.0,0.0,0.0,0.0
+ Season 6,Bengaluru Bulls,Harish Naik,Raider,7.0,21.0,21.0,0.0,29.0,14.0,9.0,6.0,0.0,72.41,0.0,1.0,0.0,1.0,0.0,9.0,0.0,0.0,0.0
+ Season 4,Bengaluru Bulls,Harish Naik,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Bengaluru Bulls,Harish Naik,Raider,21.0,45.0,45.0,0.0,82.0,34.0,26.0,22.0,0.0,54.87,0.0,7.0,0.0,7.0,0.0,11.0,0.0,0.0,0.0
+ Season 4,U Mumba,Athul MS,Raider,4.0,8.0,8.0,0.0,14.0,6.0,6.0,2.0,0.0,57.14,0.0,1.0,0.0,1.0,0.0,7.0,0.0,0.0,0.0
+ Season 6,U Mumba,Athul MS,Raider,19.0,56.0,55.0,1.0,105.0,46.0,42.0,17.0,0.0,52.38,6.25,16.0,1.0,15.0,0.0,8.0,3.0,0.0,0.0
+ Season 7,U Mumba,Athul MS,Raider,14.0,45.0,45.0,0.0,107.0,32.0,37.0,38.0,0.0,42.05,0.0,4.0,0.0,4.0,0.0,9.0,0.0,0.0,0.0
+ Season 5,U Mumba,Athul MS,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,U Mumba,Athul MS,Raider,37.0,109.0,108.0,1.0,226.0,84.0,85.0,57.0,0.0,47.78,4.76,21.0,1.0,20.0,0.0,9.0,3.0,0.0,0.0
+ Season 4,Patna Pirates,Ravinder Kumar,All Rounder,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,Patna Pirates,Ravinder Kumar,All Rounder,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,4.0,1.0,3.0,0.0,1.0,0.0,0.0,0.0
+ Season 6,Patna Pirates,Ravinder Kumar,All Rounder,8.0,9.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,31.03,29.0,8.0,21.0,1.0,3.0,1.0,0.0,0.0
+ Overall,Patna Pirates,Ravinder Kumar,All Rounder,12.0,10.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,27.02,37.0,9.0,28.0,1.0,3.0,1.0,0.0,0.0
+ Season 4,Dabang Delhi K.C.,Anil Kumar,"Defender, left corner",9.0,16.0,1.0,15.0,10.0,1.0,1.0,8.0,0.0,10.0,60.0,25.0,11.0,14.0,4.0,4.0,1.0,0.0,0.0
+ Season 5,Dabang Delhi K.C.,Anil Kumar,"Defender, left corner",5.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,14.28,14.0,2.0,12.0,0.0,2.0,0.0,0.0,0.0
+ Season 6,Dabang Delhi K.C.,Anil Kumar,"Defender, left corner",5.0,7.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,38.88,18.0,6.0,12.0,1.0,4.0,0.0,0.0,0.0
+ Overall,Dabang Delhi K.C.,Anil Kumar,"Defender, left corner",19.0,25.0,1.0,24.0,10.0,1.0,1.0,8.0,0.0,10.0,42.1,57.0,19.0,38.0,5.0,4.0,1.0,0.0,0.0
+ Season 4,Bengaluru Bulls,Vinod Kumar,Raider,9.0,20.0,19.0,1.0,61.0,16.0,14.0,31.0,0.0,31.14,16.66,6.0,1.0,5.0,0.0,5.0,0.0,0.0,0.0
+ Season 5,Bengaluru Bulls,Vinod Kumar,Raider,19.0,41.0,33.0,8.0,123.0,27.0,31.0,65.0,0.0,26.82,27.58,29.0,8.0,21.0,0.0,8.0,0.0,0.0,0.0
+ Season 7,Bengaluru Bulls,Vinod Kumar,Raider,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Bengaluru Bulls,Vinod Kumar,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Bengaluru Bulls,Vinod Kumar,Raider,29.0,61.0,52.0,9.0,184.0,43.0,45.0,96.0,0.0,28.26,24.32,37.0,9.0,28.0,0.0,8.0,0.0,0.0,0.0
+ Season 4,U.P. Yoddha,Monu Goyat,Raider,13.0,63.0,59.0,4.0,168.0,52.0,41.0,75.0,0.0,35.11,30.76,13.0,3.0,10.0,1.0,11.0,0.0,0.0,0.0
+ Season 5,U.P. Yoddha,Monu Goyat,Raider,26.0,202.0,191.0,11.0,365.0,159.0,78.0,128.0,4.0,52.32,31.42,35.0,10.0,25.0,1.0,12.0,0.0,0.0,0.0
+ Season 6,U.P. Yoddha,Monu Goyat,Raider,20.0,164.0,160.0,4.0,301.0,128.0,77.0,96.0,3.0,53.15,14.81,27.0,4.0,23.0,0.0,17.0,8.0,0.0,0.0
+ Season 7,U.P. Yoddha,Monu Goyat,Raider,9.0,46.0,43.0,3.0,110.0,38.0,29.0,43.0,0.0,39.09,30.0,10.0,2.0,8.0,1.0,10.0,1.0,0.0,0.0
+ Overall,U.P. Yoddha,Monu Goyat,Raider,68.0,475.0,453.0,22.0,944.0,377.0,225.0,342.0,7.0,47.98,25.88,85.0,19.0,66.0,3.0,17.0,9.0,0.0,0.0
+ Season 4,Gujarat Fortunegiants,Ajay Kumar,Raider,15.0,61.0,61.0,0.0,107.0,44.0,23.0,40.0,1.0,57.0,0.0,7.0,0.0,7.0,0.0,11.0,1.0,0.0,0.0
+ Season 5,Gujarat Fortunegiants,Ajay Kumar,Raider,22.0,89.0,89.0,0.0,257.0,70.0,58.0,129.0,2.0,34.63,0.0,4.0,0.0,4.0,0.0,13.0,1.0,0.0,0.0
+ Season 6,Gujarat Fortunegiants,Ajay Kumar,Raider,13.0,33.0,32.0,1.0,88.0,23.0,20.0,45.0,1.0,36.36,20.0,5.0,1.0,4.0,0.0,8.0,0.0,0.0,0.0
+ Overall,Gujarat Fortunegiants,Ajay Kumar,Raider,50.0,183.0,182.0,1.0,452.0,137.0,101.0,214.0,4.0,40.26,6.25,16.0,1.0,15.0,0.0,13.0,2.0,0.0,0.0
+ Season 4,Patna Pirates,Jawahar Dagar,Defender,6.0,2.0,0.0,2.0,2.0,0.0,2.0,0.0,0.0,0.0,16.66,12.0,2.0,10.0,0.0,1.0,0.0,0.0,0.0
+ Season 5,Patna Pirates,Jawahar Dagar,Defender,18.0,35.0,6.0,29.0,23.0,3.0,5.0,15.0,0.0,26.08,42.02,69.0,26.0,43.0,3.0,4.0,0.0,0.0,0.0
+ Season 6,Patna Pirates,Jawahar Dagar,Defender,15.0,23.0,3.0,20.0,5.0,1.0,2.0,2.0,0.0,60.0,33.89,59.0,17.0,42.0,3.0,5.0,0.0,0.0,0.0
+ Season 7,Patna Pirates,Jawahar Dagar,Defender,7.0,5.0,0.0,5.0,1.0,0.0,0.0,1.0,0.0,0.0,27.77,18.0,5.0,13.0,0.0,2.0,0.0,0.0,0.0
+ Overall,Patna Pirates,Jawahar Dagar,Defender,46.0,65.0,9.0,56.0,31.0,4.0,9.0,18.0,0.0,29.03,35.44,158.0,50.0,108.0,6.0,5.0,0.0,0.0,0.0
+ Season 5,Bengal Warriors,Kuldeep,Raider,5.0,2.0,0.0,2.0,3.0,0.0,2.0,1.0,0.0,0.0,40.0,5.0,2.0,3.0,0.0,1.0,0.0,0.0,0.0
+ Overall,Bengal Warriors,Kuldeep,Raider,5.0,2.0,0.0,2.0,3.0,0.0,2.0,1.0,0.0,0.0,40.0,5.0,2.0,3.0,0.0,1.0,0.0,0.0,0.0
+ Season 6,Haryana Steelers,Patrick Nzau Muvai,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Haryana Steelers,Patrick Nzau Muvai,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 7,Dabang Delhi K.C.,Saeid Ghaffari,"Defender, left cover",9.0,8.0,0.0,8.0,1.0,0.0,0.0,1.0,0.0,0.0,40.0,20.0,8.0,12.0,0.0,4.0,0.0,0.0,0.0
+ Overall,Dabang Delhi K.C.,Saeid Ghaffari,"Defender, left cover",9.0,8.0,0.0,8.0,1.0,0.0,0.0,1.0,0.0,0.0,40.0,20.0,8.0,12.0,0.0,4.0,0.0,0.0,0.0
+ Season 5,Telugu Titans,Farhad Rahimi Milaghardan,All Rounder,18.0,28.0,6.0,22.0,18.0,5.0,7.0,6.0,0.0,33.33,40.74,54.0,22.0,32.0,0.0,4.0,0.0,0.0,0.0
+ Season 6,Telugu Titans,Farhad Rahimi Milaghardan,All Rounder,22.0,47.0,22.0,25.0,60.0,17.0,11.0,32.0,0.0,36.66,36.23,69.0,21.0,48.0,4.0,5.0,3.0,0.0,0.0
+ Season 7,Telugu Titans,Farhad Rahimi Milaghardan,All Rounder,18.0,52.0,25.0,27.0,71.0,20.0,11.0,40.0,0.0,35.21,40.9,66.0,27.0,39.0,0.0,5.0,0.0,0.0,0.0
+ Overall,Telugu Titans,Farhad Rahimi Milaghardan,All Rounder,58.0,127.0,53.0,74.0,149.0,42.0,29.0,78.0,0.0,35.57,39.15,189.0,70.0,119.0,4.0,5.0,3.0,0.0,0.0
+ Season 7,Bengal Warriors,Mohammad Esmaeil Nabibakhsh,All Rounder,19.0,95.0,70.0,25.0,185.0,55.0,36.0,94.0,3.0,37.83,48.07,52.0,23.0,29.0,2.0,10.0,0.0,0.0,0.0
+ Overall,Bengal Warriors,Mohammad Esmaeil Nabibakhsh,All Rounder,19.0,95.0,70.0,25.0,185.0,55.0,36.0,94.0,3.0,37.83,48.07,52.0,23.0,29.0,2.0,10.0,0.0,0.0,0.0
+ Season 5,Telugu Titans,Abozar Mohajermighani,Defender,24.0,66.0,1.0,65.0,6.0,0.0,1.0,5.0,0.0,16.66,56.03,116.0,63.0,53.0,2.0,5.0,2.0,1.0,0.0
+ Season 6,Telugu Titans,Abozar Mohajermighani,Defender,21.0,56.0,0.0,56.0,26.0,0.0,0.0,26.0,0.0,0.0,57.14,98.0,48.0,50.0,8.0,6.0,0.0,0.0,0.0
+ Season 7,Telugu Titans,Abozar Mohajermighani,Defender,18.0,40.0,1.0,39.0,6.0,0.0,2.0,4.0,0.0,16.66,44.82,87.0,36.0,51.0,3.0,5.0,0.0,0.0,0.0
+ Overall,Telugu Titans,Abozar Mohajermighani,Defender,63.0,162.0,2.0,160.0,38.0,0.0,3.0,35.0,0.0,5.26,53.15,301.0,147.0,154.0,13.0,6.0,2.0,1.0,0.0
+ Season 7,Tamil Thalaivas,Milad Sheibak,Defender,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Tamil Thalaivas,Milad Sheibak,Defender,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 7,Bengal Warriors,Mohammad Taghi Paein Mahali,Raider,3.0,1.0,0.0,1.0,4.0,0.0,3.0,1.0,0.0,0.0,25.0,4.0,1.0,3.0,0.0,1.0,0.0,0.0,0.0
+ Overall,Bengal Warriors,Mohammad Taghi Paein Mahali,Raider,3.0,1.0,0.0,1.0,4.0,0.0,3.0,1.0,0.0,0.0,25.0,4.0,1.0,3.0,0.0,1.0,0.0,0.0,0.0
+ Season 6,Bengaluru Bulls,Gyung Tae Kim,All Rounder,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Bengaluru Bulls,Gyung Tae Kim,All Rounder,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,U Mumba,Yong Joo Ok,All Rounder,1.0,1.0,1.0,0.0,2.0,1.0,0.0,1.0,0.0,50.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+ Overall,U Mumba,Yong Joo Ok,All Rounder,1.0,1.0,1.0,0.0,2.0,1.0,0.0,1.0,0.0,50.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+ Season 5,Tamil Thalaivas,Chan Sik Park,All Rounder,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Tamil Thalaivas,Chan Sik Park,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Tamil Thalaivas,Chan Sik Park,All Rounder,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,Jaipur Pink Panthers,Dong Gyu Kim,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Jaipur Pink Panthers,Dong Gyu Kim,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 7,Jaipur Pink Panthers,Dong Gyu Kim,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Jaipur Pink Panthers,Dong Gyu Kim,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,Tamil Thalaivas,Jae Min Lee,"Defender, left corner",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Tamil Thalaivas,Jae Min Lee,"Defender, left corner",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Tamil Thalaivas,Jae Min Lee,"Defender, left corner",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,U Mumba,Young Chang Ko,"Defender, left cover",14.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,7.4,27.0,2.0,25.0,0.0,1.0,0.0,0.0,0.0
+ Season 6,U Mumba,Young Chang Ko,"Defender, left cover",13.0,15.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,44.11,34.0,11.0,23.0,4.0,5.0,0.0,0.0,0.0
+ Season 7,U Mumba,Young Chang Ko,"Defender, left cover",10.0,6.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,46.15,13.0,4.0,9.0,2.0,4.0,0.0,0.0,0.0
+ Overall,U Mumba,Young Chang Ko,"Defender, left cover",37.0,23.0,0.0,23.0,0.0,0.0,0.0,0.0,0.0,0.0,31.08,74.0,17.0,57.0,6.0,5.0,0.0,0.0,0.0
+ Season 5,U Mumba,Dong Geon Lee,Raider,17.0,29.0,29.0,0.0,68.0,24.0,20.0,24.0,0.0,42.64,0.0,5.0,0.0,5.0,0.0,5.0,0.0,0.0,0.0
+ Season 6,U Mumba,Dong Geon Lee,Raider,11.0,31.0,31.0,0.0,65.0,22.0,15.0,28.0,1.0,47.69,0.0,1.0,0.0,1.0,0.0,10.0,0.0,0.0,0.0
+ Season 7,U Mumba,Dong Geon Lee,Raider,4.0,10.0,10.0,0.0,25.0,7.0,7.0,11.0,0.0,40.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0
+ Overall,U Mumba,Dong Geon Lee,Raider,32.0,70.0,70.0,0.0,158.0,53.0,42.0,63.0,1.0,44.3,0.0,6.0,0.0,6.0,0.0,10.0,0.0,0.0,0.0
+ Season 5,Bengal Warriors,Ziaur Rahman,"Defender, left cover",16.0,20.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,40.81,49.0,18.0,31.0,2.0,6.0,2.0,0.0,0.0
+ Season 6,Bengal Warriors,Ziaur Rahman,"Defender, left cover",18.0,12.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,28.57,42.0,12.0,30.0,0.0,3.0,0.0,0.0,0.0
+ Overall,Bengal Warriors,Ziaur Rahman,"Defender, left cover",34.0,32.0,0.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,35.16,91.0,30.0,61.0,2.0,6.0,2.0,0.0,0.0
+ Season 7,Gujarat Fortunegiants,Mohammad Shazid Hossain,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Gujarat Fortunegiants,Mohammad Shazid Hossain,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,U.P. Yoddha,Mohsen Maghsoudloujafari,All Rounder,16.0,47.0,41.0,6.0,83.0,26.0,20.0,37.0,2.0,49.39,37.5,16.0,5.0,11.0,1.0,12.0,0.0,0.0,0.0
+ Season 6,U.P. Yoddha,Mohsen Maghsoudloujafari,All Rounder,19.0,56.0,29.0,27.0,112.0,25.0,25.0,62.0,0.0,25.89,51.92,52.0,25.0,27.0,2.0,7.0,2.0,0.0,0.0
+ Season 7,U.P. Yoddha,Mohsen Maghsoudloujafari,All Rounder,10.0,7.0,4.0,3.0,23.0,3.0,10.0,10.0,0.0,17.39,37.5,8.0,2.0,6.0,1.0,2.0,0.0,0.0,0.0
+ Overall,U.P. Yoddha,Mohsen Maghsoudloujafari,All Rounder,45.0,110.0,74.0,36.0,218.0,54.0,55.0,109.0,2.0,33.94,47.36,76.0,32.0,44.0,4.0,12.0,2.0,0.0,0.0
+ Season 7,Patna Pirates,Mohammad Esmaeil Maghsoudlou Mahalli,Raider,17.0,38.0,31.0,7.0,107.0,25.0,26.0,56.0,0.0,28.97,36.84,19.0,5.0,14.0,2.0,9.0,0.0,0.0,0.0
+ Overall,Patna Pirates,Mohammad Esmaeil Maghsoudlou Mahalli,Raider,17.0,38.0,31.0,7.0,107.0,25.0,26.0,56.0,0.0,28.97,36.84,19.0,5.0,14.0,2.0,9.0,0.0,0.0,0.0
+ Season 5,Jaipur Pink Panthers,Anand Patil,Raider,19.0,33.0,33.0,0.0,102.0,24.0,31.0,47.0,2.0,32.35,0.0,6.0,0.0,6.0,0.0,9.0,0.0,0.0,0.0
+ Season 6,Jaipur Pink Panthers,Anand Patil,Raider,7.0,13.0,13.0,0.0,52.0,9.0,16.0,27.0,1.0,25.0,0.0,2.0,0.0,2.0,0.0,5.0,0.0,0.0,0.0
+ Overall,Jaipur Pink Panthers,Anand Patil,Raider,26.0,46.0,46.0,0.0,154.0,33.0,47.0,74.0,3.0,29.87,0.0,8.0,0.0,8.0,0.0,9.0,0.0,0.0,0.0
+ Season 5,Bengal Warriors,Mayur Shivtarkar,All Rounder,5.0,6.0,5.0,1.0,25.0,5.0,11.0,9.0,0.0,20.0,50.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0
+ Season 6,Bengal Warriors,Mayur Shivtarkar,All Rounder,18.0,23.0,4.0,19.0,36.0,1.0,8.0,27.0,0.0,11.11,29.23,65.0,19.0,46.0,0.0,3.0,2.0,0.0,0.0
+ Season 7,Bengal Warriors,Mayur Shivtarkar,All Rounder,6.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,19.04,21.0,4.0,17.0,0.0,2.0,1.0,0.0,0.0
+ Overall,Bengal Warriors,Mayur Shivtarkar,All Rounder,29.0,33.0,9.0,24.0,61.0,6.0,19.0,36.0,0.0,14.75,27.27,88.0,24.0,64.0,0.0,3.0,3.0,0.0,0.0
+ Season 5,Patna Pirates,Jaideep,"Defender, left corner",26.0,71.0,0.0,71.0,5.0,0.0,0.0,5.0,0.0,0.0,46.1,154.0,66.0,88.0,5.0,7.0,4.0,0.0,0.0
+ Season 6,Patna Pirates,Jaideep,"Defender, left corner",22.0,58.0,0.0,58.0,8.0,0.0,1.0,7.0,0.0,0.0,43.28,134.0,56.0,78.0,2.0,5.0,4.0,0.0,0.0
+ Season 7,Patna Pirates,Jaideep,"Defender, left corner",19.0,48.0,0.0,48.0,0.0,0.0,0.0,0.0,0.0,0.0,46.15,104.0,45.0,59.0,3.0,7.0,1.0,0.0,0.0
+ Overall,Patna Pirates,Jaideep,"Defender, left corner",67.0,177.0,0.0,177.0,13.0,0.0,1.0,12.0,0.0,0.0,45.15,392.0,167.0,225.0,10.0,7.0,9.0,0.0,0.0
+ Season 5,Patna Pirates,Vishnu Uthaman,Raider,3.0,1.0,0.0,1.0,7.0,0.0,4.0,3.0,0.0,0.0,100.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+ Overall,Patna Pirates,Vishnu Uthaman,Raider,3.0,1.0,0.0,1.0,7.0,0.0,4.0,3.0,0.0,0.0,100.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+ Season 6,Bengaluru Bulls,Lal Mohar Yadav,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 7,Bengaluru Bulls,Lal Mohar Yadav,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Bengaluru Bulls,Lal Mohar Yadav,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Puneri Paltan,Bajrang,"Defender, right cover",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Puneri Paltan,Bajrang,"Defender, right cover",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Jaipur Pink Panthers,Lokesh Kaushik,Raider,6.0,4.0,2.0,2.0,11.0,2.0,5.0,4.0,0.0,18.18,66.66,3.0,2.0,1.0,0.0,2.0,0.0,0.0,0.0
+ Season 7,Jaipur Pink Panthers,Lokesh Kaushik,Raider,1.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Jaipur Pink Panthers,Lokesh Kaushik,Raider,7.0,4.0,2.0,2.0,13.0,2.0,7.0,4.0,0.0,15.38,66.66,3.0,2.0,1.0,0.0,2.0,0.0,0.0,0.0
+ Season 5,,Ankit Malik,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+ Overall,,Ankit Malik,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Bengal Warriors,Ameares Mondal,Defender,2.0,0.0,0.0,0.0,3.0,0.0,1.0,2.0,0.0,0.0,0.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,Bengal Warriors,Ameares Mondal,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Bengal Warriors,Ameares Mondal,Defender,2.0,0.0,0.0,0.0,3.0,0.0,1.0,2.0,0.0,0.0,0.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,Gujarat Fortunegiants,Shubham Ashok Palkar,Raider,8.0,7.0,7.0,0.0,24.0,6.0,8.0,10.0,0.0,29.16,0.0,4.0,0.0,4.0,0.0,2.0,0.0,0.0,0.0
+ Season 6,Gujarat Fortunegiants,Shubham Ashok Palkar,Raider,4.0,2.0,2.0,0.0,13.0,2.0,5.0,6.0,0.0,15.38,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+ Overall,Gujarat Fortunegiants,Shubham Ashok Palkar,Raider,12.0,9.0,9.0,0.0,37.0,8.0,13.0,16.0,0.0,24.32,0.0,4.0,0.0,4.0,0.0,2.0,0.0,0.0,0.0
+ Season 6,Haryana Steelers,Prateek,All Rounder,6.0,5.0,3.0,2.0,8.0,1.0,3.0,4.0,0.0,37.5,40.0,5.0,2.0,3.0,0.0,2.0,0.0,0.0,0.0
+ Overall,Haryana Steelers,Prateek,All Rounder,6.0,5.0,3.0,2.0,8.0,1.0,3.0,4.0,0.0,37.5,40.0,5.0,2.0,3.0,0.0,2.0,0.0,0.0,0.0
+ Season 5,U Mumba,Shiv Om,All Rounder,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0
+ Overall,U Mumba,Shiv Om,All Rounder,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,Dabang Delhi K.C.,Sidharth,All Rounder,21.0,31.0,4.0,27.0,32.0,3.0,7.0,22.0,0.0,12.5,39.7,68.0,24.0,44.0,3.0,6.0,0.0,0.0,0.0
+ Season 6,Dabang Delhi K.C.,Sidharth,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Dabang Delhi K.C.,Sidharth,All Rounder,21.0,31.0,4.0,27.0,32.0,3.0,7.0,22.0,0.0,12.5,39.7,68.0,24.0,44.0,3.0,6.0,0.0,0.0,0.0
+ Season 5,Jaipur Pink Panthers,Sunil Siddhgavali,Defender,12.0,16.0,0.0,16.0,2.0,0.0,0.0,2.0,0.0,0.0,36.36,44.0,15.0,29.0,1.0,6.0,0.0,0.0,0.0
+ Season 6,Jaipur Pink Panthers,Sunil Siddhgavali,Defender,16.0,38.0,5.0,33.0,15.0,4.0,2.0,9.0,0.0,33.33,40.74,81.0,30.0,51.0,3.0,8.0,1.0,0.0,0.0
+ Season 7,Jaipur Pink Panthers,Sunil Siddhgavali,Defender,14.0,9.0,0.0,9.0,2.0,0.0,0.0,2.0,0.0,0.0,20.0,45.0,6.0,39.0,3.0,2.0,1.0,0.0,0.0
+ Overall,Jaipur Pink Panthers,Sunil Siddhgavali,Defender,42.0,63.0,5.0,58.0,19.0,4.0,2.0,13.0,0.0,26.31,34.11,170.0,51.0,119.0,7.0,8.0,2.0,0.0,0.0
+ Season 5,Tamil Thalaivas,T. Prabhakaran,"Defender, right corner",2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Tamil Thalaivas,T. Prabhakaran,"Defender, right corner",2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,Gujarat Fortunegiants,C Kalai Arasan,Defender,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Gujarat Fortunegiants,C Kalai Arasan,Defender,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Gujarat Fortunegiants,C Kalai Arasan,Defender,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Bengal Warriors,Baldev Singh,"Defender, right corner",18.0,28.0,1.0,27.0,1.0,0.0,1.0,0.0,0.0,100.0,38.57,70.0,24.0,46.0,3.0,5.0,2.0,0.0,0.0
+ Season 7,Bengal Warriors,Baldev Singh,"Defender, right corner",19.0,56.0,0.0,56.0,5.0,0.0,1.0,4.0,0.0,0.0,56.0,100.0,51.0,49.0,5.0,7.0,0.0,0.0,0.0
+ Overall,Bengal Warriors,Baldev Singh,"Defender, right corner",37.0,84.0,1.0,83.0,6.0,0.0,2.0,4.0,0.0,16.66,48.82,170.0,75.0,95.0,8.0,7.0,2.0,0.0,0.0
+ Season 5,Patna Pirates,Parveen Birwal,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Patna Pirates,Parveen Birwal,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Patna Pirates,Parveen Birwal,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,Patna Pirates,Arvind Kumar,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Patna Pirates,Arvind Kumar,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Patna Pirates,Arvind Kumar,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Tamil Thalaivas,K. Jayaseelan,Raider,1.0,0.0,0.0,0.0,3.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Tamil Thalaivas,K. Jayaseelan,Raider,1.0,0.0,0.0,0.0,3.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,Patna Pirates,Neeraj Kumar,"Defender, right corner",17.0,13.0,0.0,13.0,1.0,0.0,1.0,0.0,0.0,0.0,26.53,49.0,12.0,37.0,1.0,4.0,1.0,0.0,0.0
+ Season 7,Patna Pirates,Neeraj Kumar,"Defender, right corner",19.0,51.0,0.0,51.0,4.0,0.0,1.0,3.0,0.0,0.0,47.22,108.0,47.0,61.0,4.0,11.0,2.0,0.0,0.0
+ Overall,Patna Pirates,Neeraj Kumar,"Defender, right corner",36.0,64.0,0.0,64.0,5.0,0.0,2.0,3.0,0.0,0.0,40.76,157.0,59.0,98.0,5.0,11.0,3.0,0.0,0.0
+ Season 5,Dabang Delhi K.C.,Kamal Kishor Jat,Raider,7.0,0.0,0.0,0.0,9.0,0.0,8.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Dabang Delhi K.C.,Kamal Kishor Jat,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Dabang Delhi K.C.,Kamal Kishor Jat,Raider,7.0,0.0,0.0,0.0,9.0,0.0,8.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,U.P. Yoddha,Sanoj Kumar,"Defender, left cover",2.0,3.0,2.0,1.0,2.0,2.0,0.0,0.0,0.0,100.0,12.5,8.0,1.0,7.0,0.0,2.0,0.0,0.0,0.0
+ Overall,U.P. Yoddha,Sanoj Kumar,"Defender, left cover",2.0,3.0,2.0,1.0,2.0,2.0,0.0,0.0,0.0,100.0,12.5,8.0,1.0,7.0,0.0,2.0,0.0,0.0,0.0
+ Season 6,Haryana Steelers,Anand Surendra Tomar,Raider,5.0,9.0,8.0,1.0,20.0,7.0,8.0,5.0,0.0,40.0,25.0,4.0,1.0,3.0,0.0,4.0,1.0,0.0,0.0
+ Overall,Haryana Steelers,Anand Surendra Tomar,Raider,5.0,9.0,8.0,1.0,20.0,7.0,8.0,5.0,0.0,40.0,25.0,4.0,1.0,3.0,0.0,4.0,1.0,0.0,0.0
+ Season 5,Tamil Thalaivas,Sujit Maharana,All Rounder,2.0,0.0,0.0,0.0,5.0,0.0,2.0,3.0,0.0,0.0,0.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Tamil Thalaivas,Sujit Maharana,All Rounder,2.0,0.0,0.0,0.0,5.0,0.0,2.0,3.0,0.0,0.0,0.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,U.P. Yoddha,Gulveer Singh,Raider,4.0,3.0,3.0,0.0,8.0,1.0,7.0,0.0,0.0,37.5,0.0,1.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0
+ Season 6,U.P. Yoddha,Gulveer Singh,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 7,U.P. Yoddha,Gulveer Singh,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,U.P. Yoddha,Gulveer Singh,Raider,4.0,3.0,3.0,0.0,8.0,1.0,7.0,0.0,0.0,37.5,0.0,1.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0
+ Season 5,Jaipur Pink Panthers,Ajit Singh,Raider,11.0,23.0,23.0,0.0,57.0,17.0,8.0,32.0,1.0,40.35,0.0,2.0,0.0,2.0,0.0,8.0,0.0,0.0,0.0
+ Season 6,Jaipur Pink Panthers,Ajit Singh,Raider,6.0,9.0,9.0,0.0,19.0,7.0,7.0,5.0,0.0,47.36,0.0,2.0,0.0,2.0,0.0,4.0,0.0,0.0,0.0
+ Overall,Jaipur Pink Panthers,Ajit Singh,Raider,17.0,32.0,32.0,0.0,76.0,24.0,15.0,37.0,1.0,42.1,0.0,4.0,0.0,4.0,0.0,8.0,0.0,0.0,0.0
+ Season 6,U.P. Yoddha,Nitin Mavi,"Defender, right cover",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,U.P. Yoddha,Nitin Mavi,"Defender, right cover",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 7,Dabang Delhi K.C.,Mohit,"Defender, right cover",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Dabang Delhi K.C.,Mohit,"Defender, right cover",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,Tamil Thalaivas,Bhavani Rajput,Raider,4.0,3.0,3.0,0.0,10.0,1.0,4.0,5.0,0.0,10.0,0.0,2.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0
+ Overall,Tamil Thalaivas,Bhavani Rajput,Raider,4.0,3.0,3.0,0.0,10.0,1.0,4.0,5.0,0.0,10.0,0.0,2.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0
+ Season 5,Dabang Delhi K.C.,Tapas Pal,All Rounder,5.0,9.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,50.0,18.0,9.0,9.0,0.0,3.0,0.0,0.0,0.0
+ Season 6,Dabang Delhi K.C.,Tapas Pal,All Rounder,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,5.0,1.0,4.0,0.0,1.0,0.0,0.0,0.0
+ Overall,Dabang Delhi K.C.,Tapas Pal,All Rounder,7.0,10.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,43.47,23.0,10.0,13.0,0.0,3.0,0.0,0.0,0.0
+ Season 5,Gujarat Fortunegiants,Pankaj,All Rounder,13.0,16.0,0.0,16.0,6.0,0.0,3.0,3.0,0.0,0.0,32.65,49.0,16.0,33.0,0.0,3.0,1.0,0.0,0.0
+ Season 6,Gujarat Fortunegiants,Pankaj,All Rounder,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,33.33,3.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0
+ Season 7,Gujarat Fortunegiants,Pankaj,All Rounder,7.0,16.0,0.0,16.0,1.0,0.0,0.0,1.0,0.0,0.0,51.61,31.0,16.0,15.0,0.0,6.0,0.0,0.0,0.0
+ Overall,Gujarat Fortunegiants,Pankaj,All Rounder,21.0,33.0,0.0,33.0,7.0,0.0,3.0,4.0,0.0,0.0,39.75,83.0,33.0,50.0,0.0,6.0,1.0,0.0,0.0
+ Season 5,,Elangeshwaran R,,5.0,16.0,12.0,4.0,23.0,7.0,7.0,9.0,1.0,52.17,57.14,7.0,2.0,5.0,2.0,6.0,0.0,0.0,0.0
+ Overall,,Elangeshwaran R,,5.0,16.0,12.0,4.0,23.0,7.0,7.0,9.0,1.0,52.17,57.14,7.0,2.0,5.0,2.0,6.0,0.0,0.0,0.0
+ Season 5,Dabang Delhi K.C.,Vipin Malik,Raider,2.0,0.0,0.0,0.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Dabang Delhi K.C.,Vipin Malik,Raider,2.0,0.0,0.0,0.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,Jaipur Pink Panthers,Santhapanaselvam,All Rounder,10.0,15.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,48.38,31.0,15.0,16.0,0.0,3.0,0.0,0.0,0.0
+ Season 6,Jaipur Pink Panthers,Santhapanaselvam,All Rounder,14.0,14.0,0.0,14.0,1.0,0.0,0.0,1.0,0.0,0.0,30.43,46.0,12.0,34.0,2.0,3.0,1.0,0.0,0.0
+ Season 7,Jaipur Pink Panthers,Santhapanaselvam,All Rounder,8.0,14.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,50.0,28.0,13.0,15.0,1.0,4.0,0.0,0.0,0.0
+ Overall,Jaipur Pink Panthers,Santhapanaselvam,All Rounder,32.0,43.0,0.0,43.0,1.0,0.0,0.0,1.0,0.0,0.0,40.95,105.0,40.0,65.0,3.0,4.0,1.0,0.0,0.0
+ Season 7,Telugu Titans,Rakesh Gowda,Raider,9.0,31.0,22.0,9.0,60.0,20.0,10.0,30.0,0.0,36.66,50.0,18.0,6.0,12.0,3.0,7.0,0.0,0.0,0.0
+ Overall,Telugu Titans,Rakesh Gowda,Raider,9.0,31.0,22.0,9.0,60.0,20.0,10.0,30.0,0.0,36.66,50.0,18.0,6.0,12.0,3.0,7.0,0.0,0.0,0.0
+ Season 5,Gujarat Fortunegiants,Rohit Gulia,All Rounder,19.0,38.0,35.0,3.0,160.0,33.0,35.0,92.0,0.0,21.87,15.0,20.0,3.0,17.0,0.0,9.0,1.0,0.0,0.0
+ Season 6,Gujarat Fortunegiants,Rohit Gulia,All Rounder,19.0,61.0,58.0,3.0,152.0,48.0,34.0,70.0,2.0,38.15,15.78,19.0,3.0,16.0,0.0,9.0,3.0,0.0,0.0
+ Season 7,Gujarat Fortunegiants,Rohit Gulia,All Rounder,18.0,105.0,100.0,5.0,248.0,81.0,65.0,102.0,0.0,40.32,29.41,17.0,5.0,12.0,0.0,13.0,0.0,0.0,0.0
+ Overall,Gujarat Fortunegiants,Rohit Gulia,All Rounder,56.0,204.0,193.0,11.0,560.0,162.0,134.0,264.0,2.0,34.46,19.64,56.0,11.0,45.0,0.0,13.0,4.0,0.0,0.0
+ Season 5,U Mumba,Mohan Raman G,Raider,4.0,8.0,8.0,0.0,9.0,4.0,4.0,1.0,0.0,88.88,0.0,2.0,0.0,2.0,0.0,5.0,0.0,0.0,0.0
+ Overall,U Mumba,Mohan Raman G,Raider,4.0,8.0,8.0,0.0,9.0,4.0,4.0,1.0,0.0,88.88,0.0,2.0,0.0,2.0,0.0,5.0,0.0,0.0,0.0
+ Season 5,U Mumba,E Subash,All Rounder,2.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,33.33,9.0,2.0,7.0,1.0,3.0,0.0,0.0,0.0
+ Season 6,U Mumba,E Subash,All Rounder,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,100.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+ Overall,U Mumba,E Subash,All Rounder,4.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0,10.0,3.0,7.0,1.0,3.0,0.0,0.0,0.0
+ Season 5,Puneri Paltan,Deepak Yadav,"Defender, right cover",4.0,8.0,0.0,8.0,2.0,0.0,1.0,1.0,0.0,0.0,42.1,19.0,7.0,12.0,1.0,4.0,0.0,0.0,0.0
+ Season 7,Puneri Paltan,Deepak Yadav,"Defender, right cover",3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Puneri Paltan,Deepak Yadav,"Defender, right cover",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Puneri Paltan,Deepak Yadav,"Defender, right cover",7.0,8.0,0.0,8.0,2.0,0.0,1.0,1.0,0.0,0.0,33.33,24.0,7.0,17.0,1.0,4.0,0.0,0.0,0.0
+ Season 5,Tamil Thalaivas,M. Thivakaran,Raider,9.0,16.0,14.0,2.0,36.0,11.0,10.0,15.0,0.0,30.55,40.0,5.0,2.0,3.0,0.0,5.0,0.0,0.0,0.0
+ Overall,Tamil Thalaivas,M. Thivakaran,Raider,9.0,16.0,14.0,2.0,36.0,11.0,10.0,15.0,0.0,30.55,40.0,5.0,2.0,3.0,0.0,5.0,0.0,0.0,0.0
+ Season 6,U.P. Yoddha,Vishav Chaudhary,"Defender, left cover",2.0,2.0,2.0,0.0,11.0,1.0,4.0,6.0,0.0,18.18,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+ Overall,U.P. Yoddha,Vishav Chaudhary,"Defender, left cover",2.0,2.0,2.0,0.0,11.0,1.0,4.0,6.0,0.0,18.18,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+ Season 5,U.P. Yoddha,Ajvender Singh,Raider,2.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,33.33,3.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0
+ Overall,U.P. Yoddha,Ajvender Singh,Raider,2.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,33.33,3.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0
+ Season 6,Jaipur Pink Panthers,N. Shiva Ramakrishna,All Rounder,1.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,200.0,1.0,1.0,0.0,1.0,2.0,0.0,0.0,0.0
+ Overall,Jaipur Pink Panthers,N. Shiva Ramakrishna,All Rounder,1.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,200.0,1.0,1.0,0.0,1.0,2.0,0.0,0.0,0.0
+ Season 5,U Mumba,N. Renjith,"Defender, left corner",11.0,12.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,36.36,33.0,10.0,23.0,2.0,3.0,0.0,0.0,0.0
+ Overall,U Mumba,N. Renjith,"Defender, left corner",11.0,12.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,36.36,33.0,10.0,23.0,2.0,3.0,0.0,0.0,0.0
+ Season 5,U.P. Yoddha,Rohit Kumar,"Defender, right cover",7.0,3.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,50.0,4.76,21.0,1.0,20.0,0.0,2.0,0.0,0.0,0.0
+ Overall,U.P. Yoddha,Rohit Kumar,"Defender, right cover",7.0,3.0,2.0,1.0,2.0,1.0,1.0,0.0,0.0,50.0,4.76,21.0,1.0,20.0,0.0,2.0,0.0,0.0,0.0
+ Season 6,Bengaluru Bulls,Wei Hung Lin,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Bengaluru Bulls,Wei Hung Lin,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,Puneri Paltan,R. Sriram,Raider,11.0,36.0,35.0,1.0,79.0,29.0,23.0,27.0,0.0,44.3,14.28,7.0,1.0,6.0,0.0,7.0,0.0,0.0,0.0
+ Season 6,Puneri Paltan,R. Sriram,Raider,3.0,0.0,0.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 7,Puneri Paltan,R. Sriram,Raider,1.0,0.0,0.0,0.0,6.0,0.0,2.0,4.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Puneri Paltan,R. Sriram,Raider,15.0,36.0,35.0,1.0,89.0,29.0,29.0,31.0,0.0,39.32,12.5,8.0,1.0,7.0,0.0,7.0,0.0,0.0,0.0
+ Season 5,Jaipur Pink Panthers,Abhishek N,All Rounder,2.0,0.0,0.0,0.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Jaipur Pink Panthers,Abhishek N,All Rounder,2.0,0.0,0.0,0.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,Tamil Thalaivas,D. Pradap,All Rounder,16.0,29.0,9.0,20.0,49.0,6.0,7.0,36.0,0.0,18.36,46.51,43.0,19.0,24.0,1.0,4.0,0.0,0.0,0.0
+ Season 6,Tamil Thalaivas,D. Pradap,All Rounder,13.0,22.0,9.0,13.0,17.0,5.0,5.0,7.0,0.0,52.94,41.93,31.0,12.0,19.0,1.0,4.0,0.0,0.0,0.0
+ Overall,Tamil Thalaivas,D. Pradap,All Rounder,29.0,51.0,18.0,33.0,66.0,11.0,12.0,43.0,0.0,27.27,44.59,74.0,31.0,43.0,2.0,4.0,0.0,0.0,0.0
+ Season 5,Tamil Thalaivas,Darshan J.,"Defender, right cover",20.0,41.0,1.0,40.0,3.0,0.0,1.0,2.0,0.0,33.33,43.95,91.0,39.0,52.0,1.0,6.0,0.0,0.0,0.0
+ Season 6,Tamil Thalaivas,Darshan J.,"Defender, right cover",9.0,6.0,0.0,6.0,1.0,0.0,1.0,0.0,0.0,0.0,17.64,34.0,6.0,28.0,0.0,2.0,1.0,0.0,0.0
+ Overall,Tamil Thalaivas,Darshan J.,"Defender, right cover",29.0,47.0,1.0,46.0,4.0,0.0,2.0,2.0,0.0,25.0,36.8,125.0,45.0,80.0,1.0,6.0,1.0,0.0,0.0
+ Season 5,U.P. Yoddha,Nitesh Kumar,"Defender, right corner",19.0,47.0,0.0,47.0,2.0,0.0,0.0,2.0,0.0,0.0,51.64,91.0,46.0,45.0,1.0,5.0,1.0,0.0,0.0
+ Season 6,U.P. Yoddha,Nitesh Kumar,"Defender, right corner",25.0,101.0,1.0,100.0,7.0,0.0,1.0,6.0,0.0,14.28,64.93,154.0,92.0,62.0,8.0,8.0,2.0,0.0,0.0
+ Season 7,U.P. Yoddha,Nitesh Kumar,"Defender, right corner",17.0,44.0,1.0,43.0,2.0,0.0,2.0,0.0,0.0,50.0,57.33,75.0,38.0,37.0,5.0,7.0,1.0,0.0,0.0
+ Overall,U.P. Yoddha,Nitesh Kumar,"Defender, right corner",61.0,192.0,2.0,190.0,11.0,0.0,3.0,8.0,0.0,18.18,59.37,320.0,176.0,144.0,14.0,8.0,4.0,0.0,0.0
+ Season 5,Haryana Steelers,Babu M,"Defender, left cover",2.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,8.0,2.0,6.0,0.0,2.0,0.0,0.0,0.0
+ Overall,Haryana Steelers,Babu M,"Defender, left cover",2.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,8.0,2.0,6.0,0.0,2.0,0.0,0.0,0.0
+ Season 5,Bengal Warriors,Sandeep Malik,"Defender, right corner",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,3.0,0.0,0.0,1.0,0.0,0.0
+ Overall,Bengal Warriors,Sandeep Malik,"Defender, right corner",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,3.0,0.0,0.0,1.0,0.0,0.0
+ Season 5,Patna Pirates,Manish,"Defender, right cover",23.0,22.0,0.0,22.0,2.0,0.0,2.0,0.0,0.0,0.0,59.45,37.0,17.0,20.0,5.0,4.0,0.0,0.0,0.0
+ Season 6,Patna Pirates,Manish,"Defender, right cover",17.0,15.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,57.69,26.0,13.0,13.0,2.0,4.0,1.0,0.0,0.0
+ Overall,Patna Pirates,Manish,"Defender, right cover",40.0,37.0,0.0,37.0,2.0,0.0,2.0,0.0,0.0,0.0,58.73,63.0,30.0,33.0,7.0,4.0,1.0,0.0,0.0
+ Season 5,Tamil Thalaivas,Rajesh Manokaran,"Defender, left cover",2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Tamil Thalaivas,Rajesh Manokaran,"Defender, left cover",2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,Bengaluru Bulls,Rohit,Raider,2.0,4.0,4.0,0.0,5.0,3.0,2.0,0.0,0.0,80.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0
+ Season 6,Bengaluru Bulls,Rohit,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Bengaluru Bulls,Rohit,Raider,2.0,4.0,4.0,0.0,5.0,3.0,2.0,0.0,0.0,80.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0
+ Season 6,Puneri Paltan,Sandeep,All Rounder,5.0,10.0,7.0,3.0,9.0,4.0,3.0,2.0,0.0,77.77,23.07,13.0,2.0,11.0,1.0,4.0,0.0,0.0,0.0
+ Season 7,Puneri Paltan,Sandeep,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Puneri Paltan,Sandeep,All Rounder,5.0,10.0,7.0,3.0,9.0,4.0,3.0,2.0,0.0,77.77,23.07,13.0,2.0,11.0,1.0,4.0,0.0,0.0,0.0
+ Season 5,Haryana Steelers,Kuldeep Singh,Defender,5.0,8.0,1.0,7.0,1.0,0.0,1.0,0.0,0.0,100.0,58.33,12.0,6.0,6.0,1.0,6.0,0.0,0.0,0.0
+ Season 6,Haryana Steelers,Kuldeep Singh,Defender,22.0,49.0,0.0,49.0,2.0,0.0,0.0,2.0,0.0,0.0,46.66,105.0,45.0,60.0,4.0,6.0,3.0,0.0,0.0
+ Season 7,Haryana Steelers,Kuldeep Singh,Defender,9.0,8.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,28.57,28.0,8.0,20.0,0.0,3.0,0.0,0.0,0.0
+ Overall,Haryana Steelers,Kuldeep Singh,Defender,36.0,65.0,1.0,64.0,3.0,0.0,1.0,2.0,0.0,33.33,44.13,145.0,59.0,86.0,5.0,6.0,3.0,0.0,0.0
+ Season 5,U Mumba,Surinder Singh,Defender,22.0,58.0,0.0,58.0,3.0,0.0,0.0,3.0,0.0,0.0,38.15,152.0,58.0,94.0,0.0,6.0,0.0,0.0,0.0
+ Season 6,U Mumba,Surinder Singh,Defender,22.0,62.0,0.0,62.0,3.0,0.0,0.0,3.0,0.0,0.0,48.81,127.0,59.0,68.0,3.0,7.0,0.0,0.0,0.0
+ Season 7,U Mumba,Surinder Singh,Defender,18.0,49.0,4.0,45.0,7.0,1.0,2.0,4.0,1.0,57.14,44.55,101.0,43.0,58.0,2.0,9.0,0.0,0.0,0.0
+ Overall,U Mumba,Surinder Singh,Defender,62.0,169.0,4.0,165.0,13.0,1.0,2.0,10.0,1.0,30.76,43.42,380.0,160.0,220.0,5.0,9.0,0.0,0.0,0.0
+ Season 5,Haryana Steelers,Vikash,"Defender, right corner",19.0,26.0,0.0,26.0,2.0,0.0,1.0,1.0,0.0,0.0,42.62,61.0,24.0,37.0,2.0,4.0,0.0,0.0,0.0
+ Season 6,Haryana Steelers,Vikash,"Defender, right corner",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Haryana Steelers,Vikash,"Defender, right corner",19.0,26.0,0.0,26.0,2.0,0.0,1.0,1.0,0.0,0.0,42.62,61.0,24.0,37.0,2.0,4.0,0.0,0.0,0.0
+ Season 5,Jaipur Pink Panthers,Vishal,All Rounder,5.0,11.0,2.0,9.0,7.0,1.0,3.0,3.0,0.0,28.57,39.13,23.0,6.0,17.0,3.0,7.0,0.0,0.0,0.0
+ Season 6,Jaipur Pink Panthers,Vishal,All Rounder,6.0,10.0,1.0,9.0,6.0,1.0,0.0,5.0,0.0,16.66,34.61,26.0,7.0,19.0,2.0,3.0,0.0,0.0,0.0
+ Season 7,Jaipur Pink Panthers,Vishal,All Rounder,14.0,41.0,0.0,41.0,1.0,0.0,0.0,1.0,0.0,0.0,55.4,74.0,34.0,40.0,7.0,9.0,1.0,0.0,0.0
+ Overall,Jaipur Pink Panthers,Vishal,All Rounder,25.0,62.0,3.0,59.0,14.0,2.0,3.0,9.0,0.0,21.42,47.96,123.0,47.0,76.0,12.0,9.0,1.0,0.0,0.0
+ Season 5,Dabang Delhi K.C.,Yatharth Deshwal,All Rounder,6.0,11.0,0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,35.71,28.0,10.0,18.0,1.0,4.0,0.0,0.0,0.0
+ Overall,Dabang Delhi K.C.,Yatharth Deshwal,All Rounder,6.0,11.0,0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,35.71,28.0,10.0,18.0,1.0,4.0,0.0,0.0,0.0
+ Season 5,Puneri Paltan,Ajay,All Rounder,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Puneri Paltan,Ajay,All Rounder,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,Jaipur Pink Panthers,Rahul Choudhary,Raider,5.0,6.0,5.0,1.0,17.0,4.0,7.0,6.0,0.0,23.52,33.33,3.0,1.0,2.0,0.0,3.0,0.0,0.0,0.0
+ Overall,Jaipur Pink Panthers,Rahul Choudhary,Raider,5.0,6.0,5.0,1.0,17.0,4.0,7.0,6.0,0.0,23.52,33.33,3.0,1.0,2.0,0.0,3.0,0.0,0.0,0.0
+ Season 5,Bengal Warriors,Vikash,All Rounder,4.0,5.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,45.45,11.0,5.0,6.0,0.0,2.0,0.0,0.0,0.0
+ Overall,Bengal Warriors,Vikash,All Rounder,4.0,5.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,45.45,11.0,5.0,6.0,0.0,2.0,0.0,0.0,0.0
+ Season 5,U.P. Yoddha,Sunil,All Rounder,2.0,0.0,0.0,0.0,3.0,0.0,2.0,1.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+ Overall,U.P. Yoddha,Sunil,All Rounder,2.0,0.0,0.0,0.0,3.0,0.0,2.0,1.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,Dabang Delhi K.C.,Vijay,All Rounder,19.0,64.0,27.0,37.0,83.0,18.0,9.0,56.0,1.0,32.53,44.57,83.0,34.0,49.0,3.0,7.0,0.0,1.0,0.0
+ Season 6,Dabang Delhi K.C.,Vijay,All Rounder,21.0,73.0,60.0,13.0,111.0,50.0,21.0,40.0,0.0,54.05,29.54,44.0,12.0,32.0,1.0,8.0,0.0,0.0,0.0
+ Season 7,Dabang Delhi K.C.,Vijay,All Rounder,17.0,47.0,36.0,11.0,72.0,27.0,10.0,35.0,2.0,50.0,30.55,36.0,11.0,25.0,0.0,13.0,0.0,0.0,0.0
+ Overall,Dabang Delhi K.C.,Vijay,All Rounder,57.0,184.0,123.0,61.0,266.0,95.0,40.0,131.0,3.0,46.24,37.42,163.0,57.0,106.0,4.0,13.0,0.0,1.0,0.0
+ Season 5,,Vikrant,,3.0,3.0,3.0,0.0,5.0,1.0,3.0,1.0,0.0,60.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0
+ Overall,,Vikrant,,3.0,3.0,3.0,0.0,5.0,1.0,3.0,1.0,0.0,60.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0
+ Season 5,U.P. Yoddha,Gurvinder Singh,"Defender, left cover",5.0,5.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,38.46,13.0,5.0,8.0,0.0,3.0,0.0,0.0,0.0
+ Overall,U.P. Yoddha,Gurvinder Singh,"Defender, left cover",5.0,5.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,38.46,13.0,5.0,8.0,0.0,3.0,0.0,0.0,0.0
+ Season 5,Gujarat Fortunegiants,Sachin Tanwar,Raider,24.0,173.0,159.0,14.0,295.0,132.0,71.0,92.0,2.0,53.89,56.0,25.0,13.0,12.0,1.0,14.0,3.0,0.0,0.0
+ Season 6,Gujarat Fortunegiants,Sachin Tanwar,Raider,23.0,204.0,190.0,14.0,366.0,159.0,80.0,127.0,1.0,51.91,63.63,22.0,12.0,10.0,2.0,12.0,0.0,0.0,0.0
+ Season 7,Gujarat Fortunegiants,Sachin Tanwar,Raider,16.0,85.0,84.0,1.0,207.0,65.0,57.0,85.0,1.0,40.57,12.5,8.0,1.0,7.0,0.0,10.0,0.0,0.0,0.0
+ Overall,Gujarat Fortunegiants,Sachin Tanwar,Raider,63.0,462.0,433.0,29.0,868.0,356.0,208.0,304.0,4.0,49.88,52.72,55.0,26.0,29.0,3.0,14.0,3.0,0.0,0.0
+ Season 5,,Vikas Kumar,,14.0,35.0,30.0,5.0,86.0,26.0,26.0,34.0,0.0,34.88,31.25,16.0,4.0,12.0,1.0,9.0,0.0,0.0,0.0
+ Overall,,Vikas Kumar,,14.0,35.0,30.0,5.0,86.0,26.0,26.0,34.0,0.0,34.88,31.25,16.0,4.0,12.0,1.0,9.0,0.0,0.0,0.0
+ Season 6,Puneri Paltan,Manjeet,Raider,22.0,102.0,87.0,15.0,189.0,76.0,52.0,61.0,3.0,46.03,39.47,38.0,14.0,24.0,1.0,10.0,0.0,0.0,0.0
+ Season 7,Puneri Paltan,Manjeet,Raider,19.0,126.0,99.0,27.0,233.0,82.0,56.0,95.0,2.0,42.48,48.21,56.0,26.0,30.0,1.0,16.0,0.0,0.0,0.0
+ Overall,Puneri Paltan,Manjeet,Raider,41.0,228.0,186.0,42.0,422.0,158.0,108.0,156.0,5.0,44.07,44.68,94.0,40.0,54.0,2.0,16.0,0.0,0.0,0.0
+ Season 5,Gujarat Fortunegiants,Vinod Kumar,All Rounder,21.0,48.0,34.0,14.0,75.0,20.0,21.0,34.0,2.0,45.33,66.66,21.0,9.0,12.0,5.0,8.0,1.0,0.0,0.0
+ Season 6,Gujarat Fortunegiants,Vinod Kumar,All Rounder,17.0,51.0,22.0,29.0,68.0,15.0,11.0,42.0,0.0,32.35,67.44,43.0,25.0,18.0,4.0,7.0,1.0,0.0,0.0
+ Season 7,Gujarat Fortunegiants,Vinod Kumar,All Rounder,7.0,7.0,6.0,1.0,22.0,6.0,7.0,9.0,0.0,27.27,25.0,4.0,1.0,3.0,0.0,3.0,0.0,0.0,0.0
+ Overall,Gujarat Fortunegiants,Vinod Kumar,All Rounder,45.0,106.0,62.0,44.0,165.0,41.0,39.0,85.0,2.0,37.57,64.7,68.0,35.0,33.0,9.0,8.0,2.0,0.0,0.0
+ Season 5,Tamil Thalaivas,Anil Kumar,Raider,2.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,100.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+ Season 6,Tamil Thalaivas,Anil Kumar,Raider,4.0,8.0,0.0,8.0,3.0,0.0,0.0,3.0,0.0,0.0,44.44,18.0,8.0,10.0,0.0,6.0,0.0,0.0,0.0
+ Overall,Tamil Thalaivas,Anil Kumar,Raider,6.0,9.0,1.0,8.0,4.0,0.0,1.0,3.0,0.0,25.0,42.1,19.0,8.0,11.0,0.0,6.0,0.0,0.0,0.0
+ Season 5,Patna Pirates,Virender Singh,"Defender, right corner",3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Patna Pirates,Virender Singh,"Defender, right corner",3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,Bengaluru Bulls,Vijay Kumar,"Defender, right corner",8.0,6.0,1.0,5.0,3.0,0.0,1.0,2.0,0.0,33.33,41.66,12.0,3.0,9.0,2.0,3.0,1.0,0.0,0.0
+ Season 6,Bengaluru Bulls,Vijay Kumar,"Defender, right corner",4.0,3.0,2.0,1.0,2.0,1.0,0.0,1.0,0.0,100.0,9.09,11.0,1.0,10.0,0.0,2.0,0.0,0.0,0.0
+ Season 7,Bengaluru Bulls,Vijay Kumar,"Defender, right corner",9.0,5.0,0.0,5.0,4.0,0.0,0.0,4.0,0.0,0.0,31.25,16.0,4.0,12.0,1.0,3.0,0.0,0.0,0.0
+ Overall,Bengaluru Bulls,Vijay Kumar,"Defender, right corner",21.0,14.0,3.0,11.0,9.0,1.0,1.0,7.0,0.0,33.33,28.2,39.0,8.0,31.0,3.0,3.0,1.0,0.0,0.0
+ Season 5,Bengaluru Bulls,Mahender Singh,"Defender, left cover",22.0,58.0,1.0,57.0,2.0,1.0,0.0,1.0,0.0,50.0,50.44,113.0,52.0,61.0,5.0,10.0,2.0,0.0,0.0
+ Season 6,Bengaluru Bulls,Mahender Singh,"Defender, left cover",24.0,63.0,0.0,63.0,10.0,0.0,2.0,8.0,0.0,0.0,51.63,122.0,62.0,60.0,1.0,6.0,5.0,0.0,0.0
+ Season 7,Bengaluru Bulls,Mahender Singh,"Defender, left cover",16.0,46.0,0.0,46.0,8.0,0.0,0.0,8.0,0.0,0.0,51.11,90.0,39.0,51.0,7.0,7.0,1.0,0.0,0.0
+ Overall,Bengaluru Bulls,Mahender Singh,"Defender, left cover",62.0,167.0,1.0,166.0,20.0,1.0,2.0,17.0,0.0,5.0,51.07,325.0,153.0,172.0,13.0,10.0,8.0,0.0,0.0
+ Season 5,Puneri Paltan,Suresh Kumar,Raider,11.0,22.0,22.0,0.0,35.0,12.0,9.0,14.0,0.0,34.28,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0
+ Overall,Puneri Paltan,Suresh Kumar,Raider,11.0,22.0,22.0,0.0,35.0,12.0,9.0,14.0,0.0,34.28,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0
+ Season 5,Gujarat Fortunegiants,More GB,Raider,6.0,16.0,14.0,2.0,45.0,13.0,15.0,17.0,0.0,31.11,66.66,3.0,2.0,1.0,0.0,6.0,0.0,0.0,0.0
+ Season 6,Gujarat Fortunegiants,More GB,Raider,22.0,91.0,79.0,12.0,172.0,60.0,49.0,63.0,1.0,45.93,57.14,21.0,10.0,11.0,2.0,13.0,0.0,0.0,0.0
+ Season 7,Gujarat Fortunegiants,More GB,Raider,16.0,60.0,40.0,20.0,132.0,32.0,33.0,67.0,0.0,30.3,60.6,33.0,19.0,14.0,1.0,9.0,0.0,0.0,0.0
+ Overall,Gujarat Fortunegiants,More GB,Raider,44.0,167.0,133.0,34.0,349.0,105.0,97.0,147.0,1.0,38.1,59.64,57.0,31.0,26.0,3.0,13.0,0.0,0.0,0.0
+ Season 5,Puneri Paltan,Satpal,"Defender, right corner",10.0,28.0,4.0,24.0,7.0,0.0,4.0,3.0,0.0,57.14,54.54,44.0,22.0,22.0,2.0,6.0,0.0,0.0,0.0
+ Season 6,Puneri Paltan,Satpal,"Defender, right corner",12.0,15.0,1.0,14.0,2.0,0.0,1.0,1.0,0.0,50.0,53.84,26.0,10.0,16.0,4.0,5.0,0.0,0.0,0.0
+ Season 7,Puneri Paltan,Satpal,"Defender, right corner",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Puneri Paltan,Satpal,"Defender, right corner",22.0,43.0,5.0,38.0,9.0,0.0,5.0,4.0,0.0,55.55,54.28,70.0,32.0,38.0,6.0,6.0,0.0,0.0,0.0
+ Season 5,,Munish,,3.0,1.0,1.0,0.0,4.0,0.0,3.0,1.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+ Overall,,Munish,,3.0,1.0,1.0,0.0,4.0,0.0,3.0,1.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+ Season 5,Tamil Thalaivas,Muruthu M,"Defender, right cover",3.0,3.0,0.0,3.0,1.0,0.0,1.0,0.0,0.0,0.0,27.27,11.0,3.0,8.0,0.0,3.0,1.0,0.0,0.0
+ Overall,Tamil Thalaivas,Muruthu M,"Defender, right cover",3.0,3.0,0.0,3.0,1.0,0.0,1.0,0.0,0.0,0.0,27.27,11.0,3.0,8.0,0.0,3.0,1.0,0.0,0.0
+ Season 5,Bengaluru Bulls,Pardeep Kandola,"Defender, right corner",3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Bengaluru Bulls,Pardeep Kandola,"Defender, right corner",3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,U.P. Yoddha,Narender,All Rounder,25.0,42.0,0.0,42.0,0.0,0.0,0.0,0.0,0.0,0.0,35.29,119.0,37.0,82.0,5.0,5.0,0.0,0.0,0.0
+ Season 7,U.P. Yoddha,Narender,All Rounder,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0
+ Overall,U.P. Yoddha,Narender,All Rounder,28.0,42.0,0.0,42.0,0.0,0.0,0.0,0.0,0.0,0.0,33.33,126.0,37.0,89.0,5.0,5.0,0.0,0.0,0.0
+ Season 5,Bengal Warriors,Viraj Vishnu Landge,"Defender, left cover",19.0,16.0,0.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,30.76,52.0,16.0,36.0,0.0,2.0,0.0,0.0,0.0
+ Season 6,Bengal Warriors,Viraj Vishnu Landge,"Defender, left cover",7.0,6.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,20.68,29.0,6.0,23.0,0.0,2.0,1.0,0.0,0.0
+ Season 7,Bengal Warriors,Viraj Vishnu Landge,"Defender, left cover",8.0,7.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,22.58,31.0,7.0,24.0,0.0,3.0,1.0,0.0,0.0
+ Overall,Bengal Warriors,Viraj Vishnu Landge,"Defender, left cover",34.0,29.0,0.0,29.0,0.0,0.0,0.0,0.0,0.0,0.0,25.89,112.0,29.0,83.0,0.0,3.0,2.0,0.0,0.0
+ Season 6,Puneri Paltan,Parvesh,Raider,6.0,12.0,7.0,5.0,30.0,5.0,11.0,14.0,0.0,23.33,50.0,10.0,4.0,6.0,1.0,5.0,0.0,0.0,0.0
+ Overall,Puneri Paltan,Parvesh,Raider,6.0,12.0,7.0,5.0,30.0,5.0,11.0,14.0,0.0,23.33,50.0,10.0,4.0,6.0,1.0,5.0,0.0,0.0,0.0
+ Season 5,Patna Pirates,Satish,"Defender, right corner",10.0,3.0,0.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,12.5,24.0,3.0,21.0,0.0,1.0,0.0,0.0,0.0
+ Overall,Patna Pirates,Satish,"Defender, right corner",10.0,3.0,0.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,12.5,24.0,3.0,21.0,0.0,1.0,0.0,0.0,0.0
+ Season 5,Jaipur Pink Panthers,Nitin Rawal,All Rounder,21.0,85.0,65.0,20.0,148.0,49.0,28.0,71.0,4.0,43.91,38.46,52.0,19.0,33.0,1.0,14.0,1.0,0.0,0.0
+ Season 6,Jaipur Pink Panthers,Nitin Rawal,All Rounder,9.0,31.0,25.0,6.0,57.0,19.0,12.0,26.0,1.0,43.85,54.54,11.0,5.0,6.0,1.0,11.0,3.0,0.0,0.0
+ Season 7,Jaipur Pink Panthers,Nitin Rawal,All Rounder,15.0,51.0,32.0,19.0,96.0,23.0,24.0,49.0,1.0,33.33,59.37,32.0,15.0,17.0,4.0,8.0,1.0,0.0,0.0
+ Overall,Jaipur Pink Panthers,Nitin Rawal,All Rounder,45.0,167.0,122.0,45.0,301.0,91.0,64.0,146.0,6.0,40.53,47.36,95.0,39.0,56.0,6.0,14.0,5.0,0.0,0.0
+ Season 5,Dabang Delhi K.C.,Tushar Balaram Bhoir,"Defender, right cover",8.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,21.42,14.0,2.0,12.0,1.0,2.0,0.0,0.0,0.0
+ Season 6,Dabang Delhi K.C.,Tushar Balaram Bhoir,"Defender, right cover",2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Dabang Delhi K.C.,Tushar Balaram Bhoir,"Defender, right cover",10.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,15.78,19.0,2.0,17.0,1.0,2.0,0.0,0.0,0.0
+ Season 6,Gujarat Fortunegiants,Amit Kharb,"Defender, right cover",6.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,8.0,1.0,7.0,1.0,2.0,0.0,0.0,0.0
+ Season 7,Gujarat Fortunegiants,Amit Kharb,"Defender, right cover",3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,Gujarat Fortunegiants,Amit Kharb,"Defender, right cover",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Gujarat Fortunegiants,Amit Kharb,"Defender, right cover",9.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,18.18,11.0,1.0,10.0,1.0,2.0,0.0,0.0,0.0
+ Season 5,Bengaluru Bulls,Amit Sheoran,Defender,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Bengaluru Bulls,Amit Sheoran,Defender,15.0,38.0,0.0,38.0,0.0,0.0,0.0,0.0,0.0,0.0,53.52,71.0,36.0,35.0,2.0,5.0,1.0,0.0,0.0
+ Season 7,Bengaluru Bulls,Amit Sheoran,Defender,19.0,43.0,0.0,43.0,1.0,0.0,1.0,0.0,0.0,0.0,51.8,83.0,40.0,43.0,3.0,6.0,1.0,0.0,0.0
+ Overall,Bengaluru Bulls,Amit Sheoran,Defender,38.0,81.0,0.0,81.0,1.0,0.0,1.0,0.0,0.0,0.0,50.62,160.0,76.0,84.0,5.0,6.0,2.0,0.0,0.0
+ Season 5,Patna Pirates,Monu,Raider,19.0,49.0,19.0,30.0,77.0,15.0,16.0,46.0,1.0,24.67,55.55,54.0,29.0,25.0,1.0,6.0,0.0,0.0,0.0
+ Season 6,Patna Pirates,Monu,Raider,14.0,57.0,45.0,12.0,124.0,38.0,37.0,49.0,1.0,36.29,52.17,23.0,10.0,13.0,2.0,7.0,1.0,0.0,0.0
+ Season 7,Patna Pirates,Monu,Raider,19.0,36.0,11.0,25.0,63.0,9.0,13.0,41.0,0.0,17.46,59.52,42.0,18.0,24.0,7.0,5.0,0.0,0.0,0.0
+ Overall,Patna Pirates,Monu,Raider,52.0,142.0,75.0,67.0,264.0,62.0,66.0,136.0,2.0,28.4,56.3,119.0,57.0,62.0,10.0,7.0,1.0,0.0,0.0
+ Season 5,Bengal Warriors,Rinku Narwal,Defender,13.0,22.0,1.0,21.0,8.0,1.0,0.0,7.0,0.0,12.5,61.76,34.0,17.0,17.0,4.0,7.0,1.0,0.0,0.0
+ Season 6,Bengal Warriors,Rinku Narwal,Defender,15.0,21.0,1.0,20.0,7.0,1.0,2.0,4.0,0.0,14.28,39.21,51.0,19.0,32.0,1.0,5.0,0.0,0.0,0.0
+ Season 7,Bengal Warriors,Rinku Narwal,Defender,19.0,51.0,0.0,51.0,3.0,0.0,0.0,3.0,0.0,0.0,47.22,108.0,49.0,59.0,2.0,5.0,0.0,0.0,0.0
+ Overall,Bengal Warriors,Rinku Narwal,Defender,47.0,91.0,2.0,89.0,18.0,2.0,2.0,14.0,0.0,11.11,46.84,190.0,82.0,108.0,7.0,7.0,1.0,0.0,0.0
+ Season 5,Puneri Paltan,Vikash Khatri,Raider,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Puneri Paltan,Vikash Khatri,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Puneri Paltan,Vikash Khatri,Raider,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+ Season 5,,Rakshith,,6.0,14.0,12.0,2.0,22.0,11.0,5.0,6.0,0.0,54.54,50.0,4.0,2.0,2.0,0.0,6.0,1.0,0.0,0.0
+ Season 6,,Rakshith,,11.0,14.0,14.0,0.0,39.0,12.0,16.0,11.0,0.0,35.89,0.0,4.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0
+ Overall,,Rakshith,,17.0,28.0,26.0,2.0,61.0,23.0,21.0,17.0,0.0,42.62,25.0,8.0,2.0,6.0,0.0,6.0,1.0,0.0,0.0
+ Season 6,Bengal Warriors,Vittal Meti,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Bengal Warriors,Vittal Meti,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,U.P. Yoddha,Amit,"Defender, left cover",14.0,6.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,19.35,31.0,5.0,26.0,1.0,2.0,2.0,0.0,0.0
+ Season 7,U.P. Yoddha,Amit,"Defender, left cover",17.0,24.0,2.0,22.0,14.0,1.0,0.0,13.0,0.0,14.28,36.06,61.0,20.0,41.0,2.0,4.0,0.0,0.0,0.0
+ Overall,U.P. Yoddha,Amit,"Defender, left cover",31.0,30.0,2.0,28.0,14.0,1.0,0.0,13.0,0.0,14.28,30.43,92.0,25.0,67.0,3.0,4.0,2.0,0.0,0.0
+ Season 6,Bengaluru Bulls,Anand V,Raider,3.0,3.0,3.0,0.0,15.0,3.0,5.0,7.0,0.0,20.0,0.0,1.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0
+ Overall,Bengaluru Bulls,Anand V,Raider,3.0,3.0,3.0,0.0,15.0,3.0,5.0,7.0,0.0,20.0,0.0,1.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0
+ Season 6,Gujarat Fortunegiants,Ruturaj Shivaji Koravi,Defender,23.0,47.0,0.0,47.0,3.0,0.0,0.0,3.0,0.0,0.0,38.84,121.0,44.0,77.0,3.0,5.0,2.0,0.0,0.0
+ Season 7,Gujarat Fortunegiants,Ruturaj Shivaji Koravi,Defender,13.0,10.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,28.57,35.0,10.0,25.0,0.0,2.0,0.0,0.0,0.0
+ Overall,Gujarat Fortunegiants,Ruturaj Shivaji Koravi,Defender,36.0,57.0,0.0,57.0,3.0,0.0,0.0,3.0,0.0,0.0,36.53,156.0,54.0,102.0,3.0,5.0,2.0,0.0,0.0
+ Season 6,U Mumba,Arjun Deshwal,Raider,3.0,4.0,4.0,0.0,11.0,3.0,3.0,5.0,0.0,36.36,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0
+ Season 7,U Mumba,Arjun Deshwal,Raider,16.0,78.0,76.0,2.0,148.0,57.0,36.0,55.0,2.0,51.35,40.0,5.0,2.0,3.0,0.0,15.0,1.0,0.0,0.0
+ Overall,U Mumba,Arjun Deshwal,Raider,19.0,82.0,80.0,2.0,159.0,60.0,39.0,60.0,2.0,50.31,40.0,5.0,2.0,3.0,0.0,15.0,1.0,0.0,0.0
+ Season 7,U Mumba,Ajinkya Rohidas Kapre,All Rounder,2.0,1.0,1.0,0.0,5.0,1.0,2.0,2.0,0.0,20.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+ Overall,U Mumba,Ajinkya Rohidas Kapre,All Rounder,2.0,1.0,1.0,0.0,5.0,1.0,2.0,2.0,0.0,20.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+ Season 6,Telugu Titans,Siddharth Sirish Desai,Raider,21.0,221.0,218.0,3.0,321.0,169.0,72.0,80.0,10.0,67.91,33.33,9.0,3.0,6.0,0.0,19.0,0.0,0.0,0.0
+ Season 7,Telugu Titans,Siddharth Sirish Desai,Raider,18.0,177.0,174.0,3.0,272.0,143.0,74.0,55.0,6.0,63.97,50.0,6.0,3.0,3.0,0.0,23.0,0.0,0.0,0.0
+ Overall,Telugu Titans,Siddharth Sirish Desai,Raider,39.0,398.0,392.0,6.0,593.0,312.0,146.0,135.0,16.0,66.1,40.0,15.0,6.0,9.0,0.0,23.0,0.0,0.0,0.0
+ Season 6,U Mumba,Abhishek Singh,Raider,15.0,53.0,47.0,6.0,117.0,38.0,21.0,58.0,1.0,40.17,31.57,19.0,6.0,13.0,0.0,13.0,1.0,0.0,0.0
+ Season 7,U Mumba,Abhishek Singh,Raider,16.0,109.0,108.0,1.0,234.0,93.0,43.0,98.0,2.0,46.15,8.33,12.0,1.0,11.0,0.0,13.0,0.0,0.0,0.0
+ Overall,U Mumba,Abhishek Singh,Raider,31.0,162.0,155.0,7.0,351.0,131.0,64.0,156.0,3.0,44.15,22.58,31.0,7.0,24.0,0.0,13.0,1.0,0.0,0.0
+ Season 6,Jaipur Pink Panthers,Brijendra Singh Chaudhary,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Jaipur Pink Panthers,Brijendra Singh Chaudhary,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Bengaluru Bulls,Anil,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Bengaluru Bulls,Anil,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 7,U.P. Yoddha,Gurdeep,All Rounder,2.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,66.66,3.0,2.0,1.0,0.0,2.0,0.0,0.0,0.0
+ Overall,U.P. Yoddha,Gurdeep,All Rounder,2.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,66.66,3.0,2.0,1.0,0.0,2.0,0.0,0.0,0.0
+ Season 6,Tamil Thalaivas,Victor Onyango Obiero,All Rounder,3.0,6.0,6.0,0.0,7.0,4.0,3.0,0.0,0.0,85.71,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0
+ Season 7,Tamil Thalaivas,Victor Onyango Obiero,All Rounder,3.0,8.0,6.0,2.0,8.0,4.0,2.0,2.0,0.0,75.0,40.0,5.0,1.0,4.0,1.0,5.0,0.0,0.0,0.0
+ Overall,Tamil Thalaivas,Victor Onyango Obiero,All Rounder,6.0,14.0,12.0,2.0,15.0,8.0,5.0,2.0,0.0,80.0,40.0,5.0,1.0,4.0,1.0,5.0,0.0,0.0,0.0
+ Season 6,U.P. Yoddha,Md. Masud Karim,Raider,3.0,3.0,3.0,0.0,4.0,2.0,2.0,0.0,0.0,75.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+ Season 7,U.P. Yoddha,Md. Masud Karim,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,U.P. Yoddha,Md. Masud Karim,Raider,3.0,3.0,3.0,0.0,4.0,2.0,2.0,0.0,0.0,75.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+ Season 7,Jaipur Pink Panthers,Milinda Chathuranga,Raider,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Jaipur Pink Panthers,Milinda Chathuranga,Raider,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 7,Bengal Warriors,Amir Santosh Dhumal,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Bengal Warriors,Amir Santosh Dhumal,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Bengaluru Bulls,Mahesh Maruti Magdum,All Rounder,4.0,7.0,7.0,0.0,12.0,5.0,6.0,1.0,0.0,58.33,0.0,1.0,0.0,1.0,0.0,3.0,0.0,0.0,0.0
+ Overall,Bengaluru Bulls,Mahesh Maruti Magdum,All Rounder,4.0,7.0,7.0,0.0,12.0,5.0,6.0,1.0,0.0,58.33,0.0,1.0,0.0,1.0,0.0,3.0,0.0,0.0,0.0
+ Season 7,Patna Pirates,Naveen,Raider,1.0,0.0,0.0,0.0,3.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Patna Pirates,Naveen,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Patna Pirates,Naveen,Raider,1.0,0.0,0.0,0.0,3.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Gujarat Fortunegiants,Amit Jaivir Sharma,"Defender, left corner",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Gujarat Fortunegiants,Amit Jaivir Sharma,"Defender, left corner",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Bengaluru Bulls,Jawahar Vivek K,"Defender, left corner",2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Bengaluru Bulls,Jawahar Vivek K,"Defender, left corner",2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Telugu Titans,C Manoj Kumar,"Defender, left cover",12.0,14.0,10.0,4.0,21.0,7.0,9.0,5.0,0.0,47.61,30.76,13.0,4.0,9.0,0.0,3.0,1.0,0.0,0.0
+ Overall,Telugu Titans,C Manoj Kumar,"Defender, left cover",12.0,14.0,10.0,4.0,21.0,7.0,9.0,5.0,0.0,47.61,30.76,13.0,4.0,9.0,0.0,3.0,1.0,0.0,0.0
+ Season 6,Tamil Thalaivas,Abhinandan Chandel,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Tamil Thalaivas,Abhinandan Chandel,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,U.P. Yoddha,Bhanu Pratap Tomar,Raider,6.0,9.0,9.0,0.0,22.0,6.0,11.0,5.0,0.0,40.9,0.0,2.0,0.0,2.0,0.0,3.0,0.0,0.0,0.0
+ Overall,U.P. Yoddha,Bhanu Pratap Tomar,Raider,6.0,9.0,9.0,0.0,22.0,6.0,11.0,5.0,0.0,40.9,0.0,2.0,0.0,2.0,0.0,3.0,0.0,0.0,0.0
+ Season 7,Tamil Thalaivas,Yashwant Bishnoi,Raider,2.0,0.0,0.0,0.0,6.0,0.0,3.0,3.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Tamil Thalaivas,Yashwant Bishnoi,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Tamil Thalaivas,Yashwant Bishnoi,Raider,2.0,0.0,0.0,0.0,6.0,0.0,3.0,3.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+ Season 7,U.P. Yoddha,Surender Gill,Raider,14.0,55.0,47.0,8.0,142.0,36.0,36.0,70.0,0.0,33.09,66.66,12.0,7.0,5.0,1.0,8.0,0.0,0.0,0.0
+ Overall,U.P. Yoddha,Surender Gill,Raider,14.0,55.0,47.0,8.0,142.0,36.0,36.0,70.0,0.0,33.09,66.66,12.0,7.0,5.0,1.0,8.0,0.0,0.0,0.0
+ Season 6,Telugu Titans,Rajnish,Raider,4.0,9.0,9.0,0.0,26.0,8.0,8.0,10.0,0.0,34.61,0.0,3.0,0.0,3.0,0.0,5.0,0.0,0.0,0.0
+ Season 7,Telugu Titans,Rajnish,Raider,10.0,45.0,43.0,2.0,89.0,31.0,20.0,38.0,1.0,48.31,28.57,7.0,2.0,5.0,0.0,11.0,0.0,0.0,0.0
+ Overall,Telugu Titans,Rajnish,Raider,14.0,54.0,52.0,2.0,115.0,39.0,28.0,48.0,1.0,45.21,20.0,10.0,2.0,8.0,0.0,11.0,0.0,0.0,0.0
+ Season 6,Puneri Paltan,Amit Kumar,Raider,6.0,8.0,8.0,0.0,29.0,4.0,7.0,18.0,1.0,27.58,0.0,3.0,0.0,3.0,0.0,5.0,0.0,0.0,0.0
+ Season 7,Puneri Paltan,Amit Kumar,Raider,12.0,35.0,17.0,18.0,60.0,12.0,20.0,28.0,0.0,28.33,48.64,37.0,17.0,20.0,1.0,9.0,0.0,0.0,0.0
+ Overall,Puneri Paltan,Amit Kumar,Raider,18.0,43.0,25.0,18.0,89.0,16.0,27.0,46.0,1.0,28.08,45.0,40.0,17.0,23.0,1.0,9.0,0.0,0.0,0.0
+ Season 6,Gujarat Fortunegiants,Anil,All Rounder,2.0,0.0,0.0,0.0,4.0,0.0,1.0,3.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Gujarat Fortunegiants,Anil,All Rounder,2.0,0.0,0.0,0.0,4.0,0.0,1.0,3.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Dabang Delhi K.C.,Naveen Kumar,Raider,22.0,177.0,172.0,5.0,307.0,144.0,63.0,100.0,3.0,56.02,41.66,12.0,4.0,8.0,1.0,15.0,0.0,0.0,0.0
+ Season 7,Dabang Delhi K.C.,Naveen Kumar,Raider,18.0,224.0,222.0,2.0,364.0,185.0,52.0,127.0,2.0,60.98,33.33,6.0,2.0,4.0,0.0,17.0,0.0,0.0,0.0
+ Overall,Dabang Delhi K.C.,Naveen Kumar,Raider,40.0,401.0,394.0,7.0,671.0,329.0,115.0,227.0,5.0,58.71,38.88,18.0,6.0,12.0,1.0,17.0,0.0,0.0,0.0
+ Season 6,U.P. Yoddha,Arkam Shaikh,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 7,U.P. Yoddha,Arkam Shaikh,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,U.P. Yoddha,Arkam Shaikh,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Telugu Titans,Armaan,All Rounder,4.0,15.0,13.0,2.0,23.0,9.0,8.0,6.0,1.0,56.52,200.0,1.0,1.0,0.0,1.0,13.0,0.0,0.0,0.0
+ Season 7,Telugu Titans,Armaan,All Rounder,6.0,9.0,9.0,0.0,32.0,6.0,13.0,13.0,1.0,28.12,0.0,7.0,0.0,7.0,0.0,4.0,0.0,0.0,0.0
+ Overall,Telugu Titans,Armaan,All Rounder,10.0,24.0,22.0,2.0,55.0,15.0,21.0,19.0,2.0,40.0,25.0,8.0,1.0,7.0,1.0,13.0,0.0,0.0,0.0
+ Season 7,Telugu Titans,Mula Siva Ganesh Reddy,Raider,2.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Telugu Titans,Mula Siva Ganesh Reddy,Raider,2.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Bengal Warriors,Mithin Kumar,Raider,3.0,3.0,3.0,0.0,10.0,2.0,3.0,5.0,0.0,30.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+ Overall,Bengal Warriors,Mithin Kumar,Raider,3.0,3.0,3.0,0.0,10.0,2.0,3.0,5.0,0.0,30.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+ Season 6,Gujarat Fortunegiants,Lalit Chaudhary,Raider,3.0,7.0,3.0,4.0,7.0,1.0,4.0,2.0,0.0,42.85,100.0,4.0,3.0,1.0,1.0,5.0,0.0,0.0,0.0
+ Season 7,Gujarat Fortunegiants,Lalit Chaudhary,Raider,4.0,5.0,2.0,3.0,11.0,1.0,6.0,4.0,0.0,18.18,150.0,2.0,2.0,0.0,1.0,3.0,0.0,0.0,0.0
+ Overall,Gujarat Fortunegiants,Lalit Chaudhary,Raider,7.0,12.0,5.0,7.0,18.0,2.0,10.0,6.0,0.0,27.77,116.66,6.0,5.0,1.0,2.0,5.0,0.0,0.0,0.0
+ Season 6,Telugu Titans,Kamal Singh,Raider,8.0,15.0,13.0,2.0,35.0,7.0,8.0,20.0,0.0,37.14,33.33,6.0,1.0,5.0,1.0,6.0,0.0,0.0,0.0
+ Season 7,Telugu Titans,Kamal Singh,Raider,3.0,2.0,0.0,2.0,8.0,0.0,2.0,6.0,0.0,0.0,33.33,6.0,2.0,4.0,0.0,2.0,0.0,0.0,0.0
+ Overall,Telugu Titans,Kamal Singh,Raider,11.0,17.0,13.0,4.0,43.0,7.0,10.0,26.0,0.0,30.23,33.33,12.0,3.0,9.0,1.0,6.0,0.0,0.0,0.0
+ Season 6,U Mumba,Gaurav Kumar,Raider,3.0,2.0,2.0,0.0,10.0,2.0,5.0,3.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+ Season 7,U Mumba,Gaurav Kumar,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,U Mumba,Gaurav Kumar,Raider,3.0,2.0,2.0,0.0,10.0,2.0,5.0,3.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+ Season 6,Gujarat Fortunegiants,Dharmender,Raider,4.0,5.0,5.0,0.0,6.0,2.0,4.0,0.0,1.0,83.33,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0
+ Overall,Gujarat Fortunegiants,Dharmender,Raider,4.0,5.0,5.0,0.0,6.0,2.0,4.0,0.0,1.0,83.33,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0
+ Season 6,Bengal Warriors,Bhuvneshwar Gaur,Raider,6.0,6.0,6.0,0.0,7.0,3.0,4.0,0.0,0.0,85.71,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+ Season 7,Bengal Warriors,Bhuvneshwar Gaur,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Bengal Warriors,Bhuvneshwar Gaur,Raider,6.0,6.0,6.0,0.0,7.0,3.0,4.0,0.0,0.0,85.71,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+ Season 6,U.P. Yoddha,Azad Singh,Raider,9.0,23.0,21.0,2.0,48.0,14.0,15.0,19.0,1.0,43.75,40.0,5.0,2.0,3.0,0.0,8.0,2.0,0.0,0.0
+ Season 7,U.P. Yoddha,Azad Singh,Raider,4.0,6.0,6.0,0.0,26.0,3.0,9.0,14.0,0.0,23.07,0.0,1.0,0.0,1.0,0.0,3.0,0.0,0.0,0.0
+ Overall,U.P. Yoddha,Azad Singh,Raider,13.0,29.0,27.0,2.0,74.0,17.0,24.0,33.0,1.0,36.48,33.33,6.0,2.0,4.0,0.0,8.0,2.0,0.0,0.0
+ Season 6,Haryana Steelers,Arun Kumar HN,Raider,2.0,1.0,1.0,0.0,5.0,1.0,3.0,1.0,0.0,20.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+ Season 7,Haryana Steelers,Arun Kumar HN,Raider,2.0,2.0,2.0,0.0,4.0,1.0,3.0,0.0,0.0,50.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+ Overall,Haryana Steelers,Arun Kumar HN,Raider,4.0,3.0,3.0,0.0,9.0,2.0,6.0,1.0,0.0,33.33,0.0,1.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0
+ Season 6,U Mumba,Mohit Balyan,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 7,U Mumba,Mohit Balyan,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,U Mumba,Mohit Balyan,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 7,U.P. Yoddha,Ankush,Raider,3.0,7.0,6.0,1.0,6.0,4.0,2.0,0.0,0.0,100.0,100.0,1.0,1.0,0.0,0.0,4.0,0.0,0.0,0.0
+ Overall,U.P. Yoddha,Ankush,Raider,3.0,7.0,6.0,1.0,6.0,4.0,2.0,0.0,0.0,100.0,100.0,1.0,1.0,0.0,0.0,4.0,0.0,0.0,0.0
+ Season 6,Telugu Titans,Ankit Beniwal,Raider,1.0,0.0,0.0,0.0,3.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 7,Telugu Titans,Ankit Beniwal,Raider,6.0,8.0,7.0,1.0,17.0,5.0,8.0,4.0,0.0,41.17,50.0,2.0,1.0,1.0,0.0,2.0,0.0,0.0,0.0
+ Overall,Telugu Titans,Ankit Beniwal,Raider,7.0,8.0,7.0,1.0,20.0,5.0,10.0,5.0,0.0,35.0,50.0,2.0,1.0,1.0,0.0,2.0,0.0,0.0,0.0
+ Season 6,Tamil Thalaivas,Anand,Raider,3.0,8.0,8.0,0.0,17.0,7.0,4.0,6.0,0.0,47.05,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0
+ Season 7,Tamil Thalaivas,Anand,Raider,5.0,6.0,6.0,0.0,13.0,3.0,5.0,5.0,1.0,46.15,0.0,3.0,0.0,3.0,0.0,4.0,0.0,0.0,0.0
+ Overall,Tamil Thalaivas,Anand,Raider,8.0,14.0,14.0,0.0,30.0,10.0,9.0,11.0,1.0,46.66,0.0,3.0,0.0,3.0,0.0,8.0,0.0,0.0,0.0
+ Season 6,Haryana Steelers,Sudhanshu Tyagi,"Defender, right cover",13.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,12.9,31.0,4.0,27.0,0.0,1.0,0.0,0.0,0.0
+ Overall,Haryana Steelers,Sudhanshu Tyagi,"Defender, right cover",13.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,12.9,31.0,4.0,27.0,0.0,1.0,0.0,0.0,0.0
+ Season 7,U.P. Yoddha,Sumit,"Defender, left corner",17.0,60.0,2.0,58.0,6.0,1.0,1.0,4.0,0.0,33.33,54.71,106.0,58.0,48.0,0.0,6.0,0.0,0.0,0.0
+ Overall,U.P. Yoddha,Sumit,"Defender, left corner",17.0,60.0,2.0,58.0,6.0,1.0,1.0,4.0,0.0,33.33,54.71,106.0,58.0,48.0,0.0,6.0,0.0,0.0,0.0
+ Season 7,U Mumba,Harsh Vardhan,"Defender, right corner",6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+ Overall,U Mumba,Harsh Vardhan,"Defender, right corner",6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Tamil Thalaivas,Vimal Raj V,All Rounder,5.0,2.0,2.0,0.0,10.0,2.0,4.0,4.0,0.0,20.0,0.0,5.0,0.0,5.0,0.0,2.0,0.0,0.0,0.0
+ Overall,Tamil Thalaivas,Vimal Raj V,All Rounder,5.0,2.0,2.0,0.0,10.0,2.0,4.0,4.0,0.0,20.0,0.0,5.0,0.0,5.0,0.0,2.0,0.0,0.0,0.0
+ Season 6,Telugu Titans,Anuj Kumar,"Defender, right cover",7.0,6.0,1.0,5.0,5.0,1.0,0.0,4.0,0.0,20.0,45.45,11.0,4.0,7.0,1.0,2.0,0.0,0.0,0.0
+ Overall,Telugu Titans,Anuj Kumar,"Defender, right cover",7.0,6.0,1.0,5.0,5.0,1.0,0.0,4.0,0.0,20.0,45.45,11.0,4.0,7.0,1.0,2.0,0.0,0.0,0.0
+ Season 6,Haryana Steelers,Amit Singh,"Defender, right cover",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Haryana Steelers,Amit Singh,"Defender, right cover",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 7,Gujarat Fortunegiants,Sonu Gahlawat,"Defender, left corner",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Gujarat Fortunegiants,Sonu Gahlawat,"Defender, left corner",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,U Mumba,Anil,"Defender, left cover",1.0,0.0,0.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 7,U Mumba,Anil,"Defender, left cover",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,U Mumba,Anil,"Defender, left cover",1.0,0.0,0.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 7,Patna Pirates,Mahendra Choudhary,"Defender, right corner",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Patna Pirates,Mahendra Choudhary,"Defender, right corner",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Telugu Titans,Deepak,"Defender, left cover",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Telugu Titans,Deepak,"Defender, left cover",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Haryana Steelers,Vikram Kandola,"Defender, left cover",1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,16.66,6.0,1.0,5.0,0.0,1.0,0.0,0.0,0.0
+ Season 7,Haryana Steelers,Vikram Kandola,"Defender, left cover",2.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Haryana Steelers,Vikram Kandola,"Defender, left cover",3.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,11.11,9.0,1.0,8.0,0.0,1.0,0.0,0.0,0.0
+ Season 6,Bengaluru Bulls,Ajay,Defender,7.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,28.57,14.0,4.0,10.0,0.0,2.0,0.0,0.0,0.0
+ Season 7,Bengaluru Bulls,Ajay,Defender,9.0,4.0,2.0,2.0,4.0,1.0,0.0,3.0,0.0,50.0,10.52,19.0,2.0,17.0,0.0,2.0,0.0,0.0,0.0
+ Overall,Bengaluru Bulls,Ajay,Defender,16.0,8.0,2.0,6.0,4.0,1.0,0.0,3.0,0.0,50.0,18.18,33.0,6.0,27.0,0.0,2.0,0.0,0.0,0.0
+ Season 6,Haryana Steelers,Naveen,Raider,21.0,102.0,88.0,14.0,193.0,71.0,44.0,78.0,4.0,45.59,32.55,43.0,12.0,31.0,2.0,17.0,3.0,0.0,0.0
+ Season 7,Haryana Steelers,Naveen,Raider,13.0,58.0,56.0,2.0,113.0,43.0,31.0,39.0,1.0,49.55,25.0,8.0,2.0,6.0,0.0,14.0,1.0,0.0,0.0
+ Overall,Haryana Steelers,Naveen,Raider,34.0,160.0,144.0,16.0,306.0,114.0,75.0,117.0,5.0,47.05,31.37,51.0,14.0,37.0,2.0,17.0,4.0,0.0,0.0
+ Season 7,Haryana Steelers,Amirhossein Mohammad Maleki,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Haryana Steelers,Amirhossein Mohammad Maleki,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 7,Puneri Paltan,Emad Sedaghatnia,Raider,1.0,1.0,1.0,0.0,4.0,1.0,2.0,1.0,0.0,25.0,0.0,3.0,0.0,3.0,0.0,1.0,0.0,0.0,0.0
+ Overall,Puneri Paltan,Emad Sedaghatnia,Raider,1.0,1.0,1.0,0.0,4.0,1.0,2.0,1.0,0.0,25.0,0.0,3.0,0.0,3.0,0.0,1.0,0.0,0.0,0.0
+ Season 6,U.P. Yoddha,Ranidu Chamara,"Defender, right corner",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,U.P. Yoddha,Ranidu Chamara,"Defender, right corner",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 7,Tamil Thalaivas,Mohammad Arif Robbani,"Defender, left corner",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Tamil Thalaivas,Mohammad Arif Robbani,"Defender, left corner",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Haryana Steelers,Sunil,"Defender, right corner",22.0,41.0,0.0,41.0,3.0,0.0,0.0,3.0,0.0,0.0,33.6,122.0,41.0,81.0,0.0,5.0,3.0,0.0,0.0
+ Season 7,Haryana Steelers,Sunil,"Defender, right corner",15.0,42.0,0.0,42.0,0.0,0.0,0.0,0.0,0.0,0.0,46.15,91.0,41.0,50.0,1.0,6.0,1.0,0.0,0.0
+ Overall,Haryana Steelers,Sunil,"Defender, right corner",37.0,83.0,0.0,83.0,3.0,0.0,0.0,3.0,0.0,0.0,38.96,213.0,82.0,131.0,1.0,6.0,4.0,0.0,0.0
+ Season 6,Haryana Steelers,Parveen,"Defender, left cover",19.0,28.0,3.0,25.0,7.0,1.0,1.0,5.0,0.0,42.85,41.66,60.0,20.0,40.0,5.0,6.0,1.0,0.0,0.0
+ Season 7,Haryana Steelers,Parveen,"Defender, left cover",6.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,26.66,15.0,3.0,12.0,1.0,4.0,0.0,0.0,0.0
+ Overall,Haryana Steelers,Parveen,"Defender, left cover",25.0,32.0,3.0,29.0,7.0,1.0,1.0,5.0,0.0,42.85,38.66,75.0,23.0,52.0,6.0,6.0,1.0,0.0,0.0
+ Season 6,Bengal Warriors,Adarsh T,"Defender, left corner",10.0,14.0,2.0,12.0,1.0,1.0,0.0,0.0,0.0,200.0,52.17,23.0,9.0,14.0,3.0,4.0,0.0,0.0,0.0
+ Season 7,Bengal Warriors,Adarsh T,"Defender, left corner",9.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,33.33,9.0,3.0,6.0,0.0,2.0,0.0,0.0,0.0
+ Overall,Bengal Warriors,Adarsh T,"Defender, left corner",19.0,17.0,2.0,15.0,1.0,1.0,0.0,0.0,0.0,200.0,46.87,32.0,12.0,20.0,3.0,4.0,0.0,0.0,0.0
+ Season 6,Bengaluru Bulls,Ankit,Defender,6.0,3.0,0.0,3.0,2.0,0.0,0.0,2.0,0.0,0.0,27.27,11.0,3.0,8.0,0.0,1.0,0.0,0.0,0.0
+ Season 7,Bengaluru Bulls,Ankit,Defender,7.0,6.0,0.0,6.0,9.0,0.0,1.0,8.0,0.0,0.0,28.57,21.0,5.0,16.0,1.0,3.0,0.0,0.0,0.0
+ Overall,Bengaluru Bulls,Ankit,Defender,13.0,9.0,0.0,9.0,11.0,0.0,1.0,10.0,0.0,0.0,28.12,32.0,8.0,24.0,1.0,3.0,0.0,0.0,0.0
+ Season 6,Bengaluru Bulls,Ravi,"Defender, right corner",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Bengaluru Bulls,Ravi,"Defender, right corner",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Dabang Delhi K.C.,Sumit Kumar,Raider,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+ Season 7,Dabang Delhi K.C.,Sumit Kumar,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Dabang Delhi K.C.,Sumit Kumar,Raider,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Dabang Delhi K.C.,Aman Kadian,Raider,1.0,0.0,0.0,0.0,3.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 7,Dabang Delhi K.C.,Aman Kadian,Raider,2.0,2.0,2.0,0.0,4.0,1.0,1.0,2.0,0.0,50.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+ Overall,Dabang Delhi K.C.,Aman Kadian,Raider,3.0,2.0,2.0,0.0,7.0,1.0,3.0,3.0,0.0,28.57,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+ Season 6,Jaipur Pink Panthers,Ajinkya Ashok Pawar,Raider,17.0,75.0,71.0,4.0,163.0,57.0,43.0,63.0,1.0,43.55,30.76,13.0,3.0,10.0,1.0,9.0,0.0,0.0,0.0
+ Season 7,Jaipur Pink Panthers,Ajinkya Ashok Pawar,Raider,14.0,19.0,19.0,0.0,66.0,16.0,25.0,25.0,0.0,28.78,0.0,2.0,0.0,2.0,0.0,5.0,0.0,0.0,0.0
+ Overall,Jaipur Pink Panthers,Ajinkya Ashok Pawar,Raider,31.0,94.0,90.0,4.0,229.0,73.0,68.0,88.0,1.0,39.3,26.66,15.0,3.0,12.0,1.0,9.0,0.0,0.0,0.0
+ Season 6,Jaipur Pink Panthers,Amit Kumar,Raider,17.0,33.0,12.0,21.0,35.0,10.0,14.0,11.0,1.0,34.28,35.59,59.0,20.0,39.0,1.0,6.0,0.0,0.0,0.0
+ Overall,Jaipur Pink Panthers,Amit Kumar,Raider,17.0,33.0,12.0,21.0,35.0,10.0,14.0,11.0,1.0,34.28,35.59,59.0,20.0,39.0,1.0,6.0,0.0,0.0,0.0
+ Season 6,Patna Pirates,Bintu Narwal,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 7,Patna Pirates,Bintu Narwal,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Patna Pirates,Bintu Narwal,Defender,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 7,Patna Pirates,Purna Singh,Raider,6.0,4.0,4.0,0.0,12.0,3.0,3.0,6.0,0.0,33.33,0.0,2.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0
+ Season 6,Patna Pirates,Purna Singh,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Patna Pirates,Purna Singh,Raider,6.0,4.0,4.0,0.0,12.0,3.0,3.0,6.0,0.0,33.33,0.0,2.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0
+ Season 6,Puneri Paltan,Shubham Shinde,"Defender, right corner",10.0,12.0,0.0,12.0,11.0,0.0,2.0,9.0,0.0,0.0,31.57,38.0,9.0,29.0,3.0,3.0,1.0,0.0,0.0
+ Season 7,Puneri Paltan,Shubham Shinde,"Defender, right corner",13.0,18.0,1.0,17.0,8.0,1.0,0.0,7.0,0.0,12.5,38.63,44.0,15.0,29.0,2.0,3.0,0.0,0.0,0.0
+ Overall,Puneri Paltan,Shubham Shinde,"Defender, right corner",23.0,30.0,1.0,29.0,19.0,1.0,2.0,16.0,0.0,5.26,35.36,82.0,24.0,58.0,5.0,3.0,1.0,0.0,0.0
+ Season 7,Tamil Thalaivas,Hemant Chauhan,All Rounder,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Tamil Thalaivas,Hemant Chauhan,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Tamil Thalaivas,Hemant Chauhan,All Rounder,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+ Season 6,Tamil Thalaivas,Ponparthiban Subramanian,"Defender, right cover",12.0,17.0,0.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,33.33,51.0,16.0,35.0,1.0,7.0,1.0,0.0,0.0
+ Season 7,Tamil Thalaivas,Ponparthiban Subramanian,"Defender, right cover",5.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,28.57,7.0,2.0,5.0,0.0,1.0,0.0,0.0,0.0
+ Overall,Tamil Thalaivas,Ponparthiban Subramanian,"Defender, right cover",17.0,19.0,0.0,19.0,0.0,0.0,0.0,0.0,0.0,0.0,32.75,58.0,18.0,40.0,1.0,7.0,1.0,0.0,0.0
+ Season 6,U.P. Yoddha,Aashish Nagar,"Defender, right corner",3.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,4.0,1.0,3.0,0.0,1.0,0.0,0.0,0.0
+ Season 7,U.P. Yoddha,Aashish Nagar,"Defender, right corner",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,U.P. Yoddha,Aashish Nagar,"Defender, right corner",3.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,4.0,1.0,3.0,0.0,1.0,0.0,0.0,0.0
+ Season 7,Gujarat Fortunegiants,Abhishek,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Gujarat Fortunegiants,Abhishek,Raider,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 7,Gujarat Fortunegiants,Sonu Jaglan,Raider,13.0,33.0,29.0,4.0,69.0,21.0,19.0,29.0,3.0,42.02,100.0,4.0,3.0,1.0,1.0,8.0,0.0,0.0,0.0
+ Overall,Gujarat Fortunegiants,Sonu Jaglan,Raider,13.0,33.0,29.0,4.0,69.0,21.0,19.0,29.0,3.0,42.02,100.0,4.0,3.0,1.0,1.0,8.0,0.0,0.0,0.0
+ Season 7,U Mumba,Harendra Kumar,"Defender, left cover",16.0,17.0,0.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,32.07,53.0,16.0,37.0,1.0,5.0,0.0,0.0,0.0
+ Overall,U Mumba,Harendra Kumar,"Defender, left cover",16.0,17.0,0.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,32.07,53.0,16.0,37.0,1.0,5.0,0.0,0.0,0.0
+ Season 7,Haryana Steelers,Subhash Narwal,"Defender, left cover",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Haryana Steelers,Subhash Narwal,"Defender, left cover",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 7,Haryana Steelers,Vinay,Raider,17.0,84.0,80.0,4.0,166.0,58.0,32.0,76.0,5.0,48.19,25.0,16.0,4.0,12.0,0.0,14.0,0.0,0.0,0.0
+ Overall,Haryana Steelers,Vinay,Raider,17.0,84.0,80.0,4.0,166.0,58.0,32.0,76.0,5.0,48.19,25.0,16.0,4.0,12.0,0.0,14.0,0.0,0.0,0.0
+ Season 7,Dabang Delhi K.C.,Satywan,"Defender, left cover",1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,50.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0
+ Overall,Dabang Delhi K.C.,Satywan,"Defender, left cover",1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,50.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0
+ Season 7,Dabang Delhi K.C.,Pratik Patil,"Defender, right corner",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Dabang Delhi K.C.,Pratik Patil,"Defender, right corner",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 7,Dabang Delhi K.C.,Neeraj Narwal,Raider,2.0,0.0,0.0,0.0,4.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Dabang Delhi K.C.,Neeraj Narwal,Raider,2.0,0.0,0.0,0.0,4.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 7,Puneri Paltan,Jadhav Balasaheb Shahaji,"Defender, right cover",17.0,29.0,0.0,29.0,0.0,0.0,0.0,0.0,0.0,0.0,53.7,54.0,24.0,30.0,5.0,5.0,0.0,0.0,0.0
+ Overall,Puneri Paltan,Jadhav Balasaheb Shahaji,"Defender, right cover",17.0,29.0,0.0,29.0,0.0,0.0,0.0,0.0,0.0,0.0,53.7,54.0,24.0,30.0,5.0,5.0,0.0,0.0,0.0
+ Season 7,Tamil Thalaivas,Himanshu,"Defender, right corner",2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Tamil Thalaivas,Himanshu,"Defender, right corner",2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+ Season 7,Jaipur Pink Panthers,Sachin Narwal,All Rounder,12.0,12.0,11.0,1.0,34.0,7.0,9.0,18.0,1.0,32.35,16.66,6.0,1.0,5.0,0.0,4.0,0.0,0.0,0.0
+ Overall,Jaipur Pink Panthers,Sachin Narwal,All Rounder,12.0,12.0,11.0,1.0,34.0,7.0,9.0,18.0,1.0,32.35,16.66,6.0,1.0,5.0,0.0,4.0,0.0,0.0,0.0
+ Season 7,Jaipur Pink Panthers,Karamvir,"Defender, left corner",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Jaipur Pink Panthers,Karamvir,"Defender, left corner",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 7,Jaipur Pink Panthers,Pavan T. R.,"Defender, right cover",15.0,12.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,31.57,38.0,10.0,28.0,2.0,3.0,0.0,0.0,0.0
+ Overall,Jaipur Pink Panthers,Pavan T. R.,"Defender, right cover",15.0,12.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,31.57,38.0,10.0,28.0,2.0,3.0,0.0,0.0,0.0
+ Season 7,Jaipur Pink Panthers,Guman Singh,Raider,2.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Jaipur Pink Panthers,Guman Singh,Raider,2.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Season 7,Jaipur Pink Panthers,Sushil Gulia,Raider,7.0,20.0,19.0,1.0,48.0,12.0,15.0,21.0,2.0,39.58,25.0,4.0,1.0,3.0,0.0,8.0,0.0,0.0,0.0
+ Overall,Jaipur Pink Panthers,Sushil Gulia,Raider,7.0,20.0,19.0,1.0,48.0,12.0,15.0,21.0,2.0,39.58,25.0,4.0,1.0,3.0,0.0,8.0,0.0,0.0,0.0
+ Season 7,Bengal Warriors,Avinash A. R.,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ Overall,Bengal Warriors,Avinash A. R.,All Rounder,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
